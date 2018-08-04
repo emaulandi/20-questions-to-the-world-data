@@ -1,438 +1,438 @@
-REF,Category,Gender,Age,Country 1,Country 2,Place of living,Job,Years of studies,Type of school,Number of kids,32
-AUS001,Adult,F,30,Australia,,Sydney,Phd Student,10,"Law, Health",0,
-CHN01,Adult,F,32,China,,Paris,Former Consultant,5,Engineering,0,
-FR001,Adult,F,69,France,,Cucq,Retiree,1,,3,
-FR002,Adult,M,58,France,,La Caloterie,Farmer,0,,2,
-MAD001,Adult,F,28,Madagascar,,Paris,Singer,3,,0,
-MAD002,Adult,F,28,Madagascar,,Paris,Entrepreneur,5,Literature & Politics,0,
-FR003,Adult,M,28,France,,Singapour,Executive,5,Business,0,
-FR004,Adult,F,27,France,,Sologne,Entrepreneur,3,,0,
-FR005,Adult,M,28,France,,Paris,Entrepreneur,5,,0,
-FR006,Adult,M,28,France,,Valence,Executive,5,,0,
-PER001,Adult,F,58,Peru,,Paris,Cleaning Lady,0,,2,
-VEN001,Adult,F,29,Venezuela,,Paris,Film Director,4,,0,
-FR007,Adult,F,36,France,,Paris,Executive,4,Business,2,
-FR008,Adult,M,27,France,,Paris,Ex-Consultant,5,Business,0,
-FR009,Adult,M,28,France,,Paris,Executive,5,Business,0,
-ISR01,Adult,F,27,France,,Tel Aviv,Bartender,4,Cinema,0,
-FR010,Adult,M,66,France,,Paris,Retiree,5,Business,1,
-FR011,Adult,F,15,France,,Paris,Student,,,0,
-FR012,Adult,F,45,France,,Paris,Mom,4,,4,
-FR013,Adult,F,13,France,,Paris,Student,,,0,
-FR014,Adult,M,80,France,,Paris,Retiree,5,,4,
-FR015,Adult,M,56,France,,Paris,Junk Dealer,0,,2,
-EN01,Adult,F,38,UK,,Paris,Journalist,3,,1,
-ALG01,Adult,M,25,Algeria,,Paris,Consultant,5,Business,0,
-BRE01,Adult,M,25,Brazil,,Madrid,Team Leader,4,,0,
-RUS01,Adult,F,25,Russia,,Madrid,Producer,4,,0,
-ESP01,Adult,F,25,Spain,,Madrid,,5,,0,
-FR016,Adult,M,26,France,,Paris,Student,5,Business,0,
-ESP02,Adult,F,18,Spain,,Madrid,Student,5,,0,
-ESP03,Adult,F,18,Spain,,Madrid,Student,5,,0,
-FR017,Adult,M,25,France,,Madrid,Entrepreneur,5,Business,0,
-FR018,Adult,M,25,France,,Madrid,Student,5,,0,
-USA01,Adult,F,23,USA,,Madrid,English Teacher,3,,0,
-FR019,Adult,F,27,France,,Madrid,Teacher,5,Business,0,
-ESP04,Adult,F,58,Spain,,Madrid,Sociologist,5,,,
-ESP05,Adult,F,44,Spain,,Madrid,Executive,8,Business,5,
-ESP06,Adult,F,58,Spain,,Madrid,Journalist,3,,,
-ESP07,Adult,F,21,Spain,,Madrid,Entrepreneur,3,Business,0,
-ESP08,Adult,M,35,Spain,,Madrid,Film Director,2,Cinema,0,
-ESP09,Adult,M,50,Spain,,Madrid,Economist,7,,1,
-FR020,Adult,M,39,France,,Madrid,Executive,5,Business,2,
-ESP10,Adult,M,27,Spain,,Madrid,Actor,2,,0,
-SUI01,Adult,M,13,Switzerland,,Madrid,Schoolboy,,,0,
-FR021,Adult,F,26,France,,Paris,Theologist,9,Political science,0,
-FR022,Kid,F,10,France,Spain,Madrid,Schoolgirl,,,0,
-FR023,Kid,F,8,France,Spain,Madrid,Schoolgirl,,,0,
-FR024,Kid,M,8,France,Spain,Madrid,Schoolboy,,,0,
-ALG02,Adult,M,63,Algeria,,Paris,Bartender,0,,1,
-EN02,Adult,F,26,UK,,London,Urban Planner,5,LSE,0,
-EN03,Adult,F,26,UK,,London,Theatre,3,Theatre,0,
-RSA01,Adult,F,26,South Africa,,London,Urban Planner,5,Business,0,
-RSA02,Adult,M,26,South Africa,,London,Student,4,Business,0,
-SCO01,Adult,M,25,UK,,London,Lawyer,5,Law,0,
-EN04,Adult,M,68,UK,,London,Vicar,2,,,
-ARM01,Adult,M,32,Armenia,,Paris,Student,11,Business,0,
-FR025,Adult,M,21,France,,Paris,Student,5,Business,0,
-FR026,Adult,F,22,France,,Paris,Student,3,Design,0,
-IDN01,Adult,F,21,Indonesia,,Istanbul,Student,3,Law,0,
-TR01,Adult,M,66,Turkey,,Istanbul,Management consulting / teacher,13,Business,2,
-TR02,Adult,M,46,Turkey,,Istanbul,Security Agent,0,,1,
-TR03,Adult,F,16,Turkey,England,Istanbul,Student,0,,0,
-TR04,Adult,M,52,Turkey,,Istanbul,Tourism,4,Education,,
-TR05,Adult,F,35,Turkey,,Istanbul,Entrepreneur,4,Business,,
-TR06,Adult,M,39,Turkey,,Istanbul,Agriculture,4,Business,1,
-USA02,Adult,F,24,USA,,Istanbul,Journalist,4,Journalism,0,
-SYR02,Adult,M,25,Syria,,Istanbul,Volunteer,6,Pharmacy,0,
-SYR03,Adult,M,31,Syria,,Istanbul,Assitant Dean,4,Education,0,
-SYR01,Adult,M,40,Syria,,Paris,Chef,3,Cooking,3,
-FR031,Couple,F,28,France,,Paris,Executive,5,Business,0,
-FR032,Couple,M,28,France,,Paris,Entrepreneur,5,Business,0,
-VEN02,Couple,M,40,Venezuela,,Londres,Executive,7,Business,2,
-VEN03,Couple,F,40,Venezuela,,Londres,Executive,2,Business,2,
-FR033,Adult,M,37,France,,Paris,,3,,3,
-FR034,Kid,F,12,France,,Paris,Schoolgirl,,,0,
-FR035,Kid,F,10,France,,Paris,Schoolgirl,,,0,
-FR036,Kid,M,8,France,,Paris,Schoolboy,,,0,
-FR037,Adult,M,95,France,,Paris,Priest,3,,0,
-FR038,Adult,F,22,France,,Paris,Model,1,Arts,0,
-FR039,Adult,F,26,France,,Paris,Illustrator,6,Arts,0,
-SYR04,Couple,F,39,Syria,France,Strasbourg,Caterer,3,Arts,3,
-SYR05,Couple,M,28,Syria,,Strasbourg,Architect,5,Architecture,0,
-TIB01,Adult,M,45,China,Tibet,Strasbourg,Chef,5,Religious,2,
-SYR06,Adult,M,39,Syria,,Strasbourg,Chef,3,Cooking,2,
-FR040,Adult,M,19,France,,Paris,Unemployed,0,,0,
-FR041,Mum,F,37,France,,Paris,Human ressources,5,Business,2,
-FR042,Kid,M,5,France,,Paris,Schoolboy,,,0,
-FR043,Kid,F,8,France,,Paris,Schoolgirl,,,0,
-IND01,Adult,M,36,India,France,Paris,Chef,3,Business,0,
-FR044,Adult,F,37,France,,Paris,Advertising,5,Marketing,2,
-FR045,Kid,M,6,France,,Paris,Schoolboy,,,0,
-FR046,Adult,F,27,France,,Paris,Music Industry,5,Business,0,
-AFG01,Kid,F,11,Afghanistan,England,London,Schoolgirl,,,0,
-EN06,Kid,F,10,UK,,London,Schoolgirl,,,0,
-EN07,Kid,F,7,UK,,London,Schoolgirl,,,0,
-LIB01,Adult,M,37,France,Lebanon,Paris,Musician & composer,12,Music,1,
-LIB02,Adult,F,28,Lebanon,France,Paris,Former Consultant,5,Political Science,0,
-TR07,Adult,F,26,Turkey,,Paris,Photographer,6,Journalism,0,
-VEN04,Adult,M,30,Venezuela,,Buenos Aires,Bakery employee,5,Human Ressources,0,
-MEX01,Adult,F,30,Mexico,,Buenos Aires,Student,10,Education - Social Science,0,
-ISR02,Adult,M,34,Israel,,Paris,Psychotherapist,8,Clinical social work,2,
-FR047,Adult,M,74,France,,Paris,Writer,10,,2,
-FR049,Kid,F,8,France,,Paris,Schoolgirl,,,0,
-FR050,Kid,F,6,France,,Paris,Schoolgirl,,,0,
-FR051,Adult,F,60,France,,Chantilly,Retiree,2,,2,
-EN08,Kid,F,10,UK,,London,Schoolgirl,,,0,
-ARG01,Adult,M,27,Argentina,,Buenos Aires,Marketing,6,Engineering,0,
-ARG02,Adult,M,28,Argentina,,Buenos Aires,Economist,6,Economics,0,
-ARG03,Adult,F,33,Argentina,,Buenos Aires,Journalism,4,Journalism,0,
-CAN01,Adult,M,35,Canada,,Buenos Aires,Writer,0,,0,
-ARG04,Adult,M,28,Argentina,,Cordoba,Entrepreneur,4,Business,0,
-ARG05,Kid,M,11,Argentina,,Cordoba,Schoolboy,0,,0,
-ARG06,Kid,M,9,Argentina,,Cordoba,Schoolboy,0,,0,
-ARG07,Adult,F,28,Argentina,,Cordoba,Photographer,3,Photography,0,
-ARG08,Adult,F,83,Argentina,,Cordoba,Retiree,0,,0,
-EN09,Adult,F,43,UK,,London,Primary School Principal,4,,2,
-ARG09,Adult,F,29,Argentina,,Cordoba,Chef,6,Social Communication & Gastronomy,0,
-ARG10,Adult,F,27,Argentina,,Cordoba,Illustrator,4,Communication,0,
-ARG11,Adult,M,54,Argentina,,San Martin,Onologist & Teacher,5,Onology,5,
-IT01,Adult,M,83,Italia,Argentina,San Martin,Farmer,0,0,3,
-ARG12,Adult,M,38,Argentina,,Mendoza,Farmer,0,0,3,
-ARG13,Adult,M,45,Argentina,,San Martin,Onologist,6,Onology,4,
-ARG14,Adult,M,44,Argentina,,San Martin,Architect,6,Architecture,3,
-ARG15,Adult,F,43,Argentina,,Mendoza,Journalist,0,,0,
-ARG16,Adult,F,30,Argentina,,Cordoba,Stylist,4,Journalism,0,
-ARG17,Adult,M,66,Argentina,,Cordoba,Neurologist,14,Medecine,4,
-ARG18,Adult,F,51,Argentina,,Salta,Sport teacher,7,Sport,2,Better
-ARG19,Adult,F,68,Argentina,,Mendoza,Artist,2,,0,
-USA03,Adult,F,24,USA,France,New York,Paralegal,4,Political Science,0,Better
-ARG20,Adult,F,49,Argentina,,Tilcara,Chef,0,,3,
-BOL01,Adult,M,78,Bolivia,,Tarija,Ex President,6,,3,Better
-ARG21,Kid,F,9,Argentina,,Salta,Schoolgirl,,,,
-ARG22,Adult,F,41,Argentina,,Salta,Street Worker,2,System analysis,6,Both
-ARG23,Adult,M,43,Argentina,,Salta,Psicoterapeuta / Poeta,6,Psychology,3,Better
-BOL02,Adult,F,33,Bolivia,,Tarija,Secretary of economic development,5,Economic development,0,
-SCO02,Kid,F,11,UK,,Glasgow,Schoolgirl,,,0,
-SCO03,Kid,F,7,UK,,Glasgow,Schoolgirl,,,0,
-BOL03,Kid,M,8,Bolivia,,Tarija,Schoolboy,,,0,
-BOL04,Kid,M,11,Bolivia,,Tarija,Schoolboy,,,0,
-BOL05,Adult,M,64,Bolivia,,Tarija,Retiree,5,Accountabilty,4,
-BOL06,Adult,M,41,Bolivia,,Tarija,Lawyer,5,Law,2,Better
-PER02,Adult,F,40,Peru,,Tarija,Religious person,2,Nurse,0,Better
-ESP11,Adult,F,73,Spain,,Tarija,Retiree,6,Political Science,3,Both
-BOL07,Adult,F,30,Bolivia,,Santa Cruz,Hotel Employee,0,,1,Better
-BOL08,Adult,F,30,Bolivia,,Santa Cruz,Hotel Employee,0,,0,Better
-BOL09,Adult,M,45,Bolivia,,Uyuni,Tourist transport,2,,2,Better
-IT02,Adult,M,30,Italia,,La Paz,UN,5,Political Science,1,
-FR067,Adult,F,61,France,Bolivia,La Paz,Anthropologue & Education,5,Anthropology,4,Better
-BOL10,Kid,M,10,Bolivia,,Isla del Sol,Schoolboy,,,,
-BOL11,Kid,F,8,Bolivia,,Isla del Sol,Schoolgirl,,,,
-BOL12,Adult,M,32,Bolivia,,Isla del Sol,Construction engineer,1,Architecture,2,Both
-BOL13,Adult,F,28,Bolivia,,Isla del Sol,Tourism,5,Administration,0,
-IRN01,Adult,M,34,Iran,,Teheran,Agri business,6,dietetics,0,
-PER03,Adult,F,24,Peru,,Lima,Consulting infrastructure,5,international business,0,
-PER04,Adult,F,55,Peru,,Cusco,School Principal,5,Superior,0,Better
-BRE02,Adult,M,50,Brazil,,Rio de Janeiro,Tourist guide,0,,2,Worse
-CAN02,Kid,F,9,Canada,"France, India, Brazil",Rio de Janeiro,Schoolgirl,,,,
-BRE03,Adult,F,36,Brazil,,Rio de Janeiro,Maid,0,,1,Better
-TTO01,Kid,F,11,Trinidad and Tobago,Ireland,Rio de Janeiro,Schoolgirl,,,0,
-POR01,Adult,F,69,Portugal,,Parede,Photographer,13,"Language, visual education",1,Better
-BRE04,Kid,F,7,Brazil,,Salvador,Schoolgirl,,,,
-BRE05,Adult,M,51,Brazil,,Rio de Janeiro,Dealer,0,,0,
-BRE06,Adult,M,42,Brazil,,Rio de Janeiro,Photographer,4,Marketing,0,Better
-BRE07,Adult,M,44,Brazil,,Palmeiras,Hiking Guide,0,,0,Better
-BRE08,Adult,M,60,Brazil,,Rio de Janeiro,Restaurants Owner,0,,4,Better
-BRE09,Adult,F,42,Brazil,,Salvador,Lawyer and Tour Guide,10,Law and language,0,Both
-BRE10,Adult,F,74,Brazil,,Salvador,Retiree (Teacher),4,Teaching,3,Worse
-BRE11,Adult,M,64,Brazil,Argentina,Rio de Janeiro,Mathematician,6,,,
-BRE12,Adult,M,55,Brazil,,Jericocoara,Barman,0,,3,Worse
-BRE13,Adult,M,40,Brazil,,Jericocoara,Musician,0,,3,Better
-BRE14,Adult,M,20,Brazil,,Jericocoara,Musician,0,,,Better
-COL01,Adult,M,45,Colombia,,Quindio,Agriculture Worker,0,,2,Better
-COL02,Adult,M,23,Colombia,,Quindio,Cafe,5,Administration,0,
-COL03,Adult,M,50,Colombia,,Quindio,Cafe,7,Economia,4,Better
-COL04,Adult,F,70,Colombia,,Salento,Volunteer,0,,4,Worse
-COL05,Adult,M,25,Colombia,,Minca,Agriculture Worker,0,,1,Better
-COL06,Adult,M,30,Colombia,,Bogota,Project owner,5,International cooperation,0,Both
-COL07,Adult,M,46,Colombia,,Santa Marta,Mason,0,,2,Better
-COL08,Adult,F,43,Colombia,,Bogota,Modern Language,2,Language,0,
-COL09,Adult,F,31,Colombia,,Bogota,History teacher,7,Political Science,1,Better
-COL10,Adult,M,28,Colombia,France,Ubate,Farmer,6,Political Science,0,Better
-COL11,Adult,F,50,Colombia,,Bogota,"Editor, Entrepreneur, Artist",10,Design & education,0,Worse
-COL12,Adult,M,32,Colombia,,Bogota,Bogota Councilor,8,economy,0,Both
-USA04,Adult,M,28,USA,Mexico,Dallas,Driving Delivery,1,Web Design,4,Better
-USA05,Adult,M,34,USA,South Korea,Dallas,Company Owner,4,History,0,Neutral
-USA06,Adult,M,19,USA,,Dallas,Student,4,Business Administration,0,Both
-USA07,Adult,F,36,USA,,Dallas,Lead Farm,7,Health & Wealthness,3,Better
-USA08,Adult,M,42,USA,,Dallas,Chef & CEO,4,Culinary,2,Better
-USA09,Adult,M,67,USA,,Dallas,CEO,7,Business and Finance,2,Better
-USA10,Adult,F,30,USA,,Forth Worth,Hairstylist,3,"Arts, Mental Health",,Better
-USA11,Adult,M,46,USA,,New Orleans,Art Administration,4,Movie,,Better
-USA12,Kid,F,7,USA,,Dallas,,,,,
-USA13,Adult,F,40,USA,,Detroit,Baker,5,Culinary,0,Cannot compare
-USA14,Adult,F,49,USA,,New Orleans,Artist / Teacher,4,Painting,5,Cannot compare
-USA15,Adult,M,59,USA,,New Orleans,Retired Attorney,9,Law,5,Both
-USA16,Kid,F,14,USA,,New Orleans,School Girl,,,,
-USA17,Kid,F,9,USA,,New Orleans,School Girl,,,,
-USA18,Kid,M,10,USA,,New Orleans,School Boy,,,,
-USA19,Adult,M,35,USA,,New Orleans,Singer,3,Business,0,Worse
-USA20,Kid,M,7,USA,,New Orleans,,,,,
-USA21,Adult,M,30,USA,,New Orleans,Real Estate,4,Journalism,0,Both
-USA22,Adult,F,26,USA,,Violet,Musician,0,,0,Better
-USA23,Adult,M,44,USA,,New Orleans,Garden Science Teacher,4,Biology,3,Better
-USA24,Adult,M,37,USA,,Dallas,Photographer,0,,2,Better
-USA25,Adult,M,66,USA,,New Orleans,Artist / Musician,5,Jazz,0,Better
-USA26,Adult,M,30,USA,,New Orleans,Artist,2,Business,0,
-USA27,Adult,F,27,USA,,New Orleans,Student,4,Mechanical Engineering,0,Worse
-USA28,Adult,F,26,USA,,NYC,Community Manager,4,French / Religious studies,0,Neutral
-FR068,Kid,F,5,France,,NYC,,,,0,
-FR052,Kid,F,8,France,,NYC,,,,0,
-FR053,Adult,F,29,France,Lebanon,NYC,Art production,5,Art,0,Better
-USA29,Adult,M,41,USA,,Dearborn,DJ / Producer,4,Fine Arts,2,Cannot compare
-USA30,Adult,F,41,USA,,Dearborn,Record Label Owner,5,Business Administration,2,Better
-USA31,Adult,M,38,USA,,Ferndale,Roofer,2,General,0,Better
-SYR07,Adult,M,39,Syria,,Dearborn,Film Maker,4,Movie,1,
-USA32,Adult,F,30,USA,,Detroit,Artist Designer,6,"Political Science, Fiber Arts",0,Better
-USA33,Adult,F,34,USA,,Detroit,Uber Driver,4,International communication,0,Cannot compare
-USA34,Adult,F,28,USA,,Detroit,Tax analyst,3,Psychology,0,Better
-USA35,Adult,F,22,USA,,Detroit,Student,1,Environmental Science,0,Better
-USA36,Adult,F,57,USA,,NYC,Artist,6,Biological psychology / MBA,0,Better
-CHN02,Adult,F,33,China,,NYC,Marketing Manager,6,Economics & MBA,0,Both
-ALL01,Adult,M,31,Germany,,NYC,Physician / Researcher,7,Medicine,0,Better
-ALL02,Adult,F,31,Germany,,NYC,Art historian,6,Art History,0,Better
-USA37,Adult,F,30,USA,,NYC,Consultant,7,Business / Writing,0,Neutral
-USA38,Adult,F,24,USA,Portugal,NYC,Maid / Designer,6,Hospitality & tourism management / Design,0,Neutral
-FR054,Adult,M,36,France,,Paris,Consultant,3,Language and political sciences,1,Neutral
-FR055,Adult,M,27,France,,Paris,Lawyer,5,Law,0,Worse
-FR056,Adult,M,59,France,,Paris,Productor / Journalist,5,"Political Science, Journalism",4,Both
-AUS02,Adult,M,29,Australia,,New York,Freelance Artist,5,Architecture / Fashion / Advertising,0,Both
-SYR08,Kid,M,13,Syria,,Paris,,,,,
-SYR09,Kid,M,10,Syria,,Paris,,,,,
-SYR10,Kid,M,6,Syria,,Paris,,,,,
-EN10,Kid,F,9,Kosovo,UK,London,,,,,
-EN11,Kid,F,9,UK,Pakistan,London,,,,,
-EN12,Kid,F,10,UK,,London,,,,,
-ROM01,Kid,M,11,Romania,England,London,,,,,
-EN13,Kid,M,10,Kosovo,UK,London,,,,,
-EN14,Kid,M,10,UK,Pakistan,London,,,,,
-EN15,Kid,F,11,UK,Caribbean,London,,,,,
-HUN01,Kid,F,11,Hungary,Iran,London,,,,,
-EN16,Kid,M,11,UK,,London,,,,,
-EN17,Kid,F,11,UK,,London,,,,,
-EN18,Kid,M,11,Lebanon,UK,London,,,,,
-MAR01,Kid,F,11,Morocco,,London,,,,,
-EN19,Kid,F,11,UK,,London,,,,,
-EN20,Kid,F,11,Pakistan,UK,London,,,,,
-EN21,Kid,F,7,UK,,London,,,,,
-EN22,Kid,F,7,UK,,London,,,,,
-EN23,Kid,F,9,UK,,London,,,,,
-EN24,Kid,M,8,UK,,London,,,,,
-AUS03,Kid,F,6,Australia,,London,,,,,
-EN25,Kid,M,7,UK,,London,,,,,
-RUS02,Kid,M,6,Russia,,Moscow,,,,,
-RUS03,Kid,F,10,Russia,,Moscow,,,,,
-RUS04,Kid,F,9,Russia,,Moscow,,,,,
-RUS05,Adult,F,31,Russia,,Moscow,Recruiter,5,Psychology,0,Better
-AZ01,Adult,F,24,Azerbaijan,Russia,Moscow,PR,5,International relations,0,Better
-RUS06,Adult,M,44,Russia,Ossetia,Moscow,Entrepreneur,10,Physics,1,
-RUS07,Adult,F,76,Russia,,Moscow,Professor of economics,10,International economy and Foreign Trade Finance,1,Neutral
-RUS08,Adult,M,39,Russia,,Moscow,Conductor of Russian Style Folkestra,9,Music,1,Better
-OUZ01,Adult,F,48,Uzbekistan,,Moscow,Cleaning Lady,0,,3,Worse
-RUS09,Adult,M,26,Russia,,Moscow,Operations Manager,5,Translation and interpretation,0,Cannot compare
-RUS10,Adult,F,33,Russia,,Moscow,Newspaper Director,5,Economics,0,Better
-RUS11,Adult,F,31,Russia,,Moscow,Education,7,Linguistics,0,Better
-GE01,Adult,F,26,Georgia,Russia,Tbilissi,"Director, Writer",5,PR,0,Better
-GE02,Adult,F,26,Georgia,Russia,Moscow,Director,5,Art History,0,Better
-RUS12,Adult,F,27,Russia,,Irkutsk,HR,6,Economics,1,Better
-TR08,Adult,M,23,Turkey,,Istanbul,Volunteer Imam and Student,5,International relations,0,
-RUS13,Adult,F,28,Russia,,Olkhon Island,Hotel Administrator,5,economy,0,Cannot compare
-MN01,Adult,M,54,Mongolia,,Soft Gobi,Nomad,0,,3,Better
-MN02,Adult,M,61,Mongolia,,Middle Gobi,Driver,0,,2,Cannot compare
-KOR01,Adult,F,36,South Korea,,Seoul,Elementary school teacher,3,,0,Better
-MN03,Adult,F,24,Mongolia,,Ulaanbaatar,Student,4,electronic engineering,0,
-MN04,Adult,M,28,Mongolia,,Ulaanbaatar,,2,,,Better
-MN05,Adult,M,28,Mongolia,,Ulaanbaatar,Motorcycle racer,4,information technology,0,
-CAM01,Adult,F,47,Cameroon,,Ulaanbaatar,Sister,5,Education,0,Better
-TW01,Adult,F,20,Taiwan,,Taipei,Student,4,Fashion Design,0,
-CHN03,Adult,F,31,China,,Ulaanbaatar,Sister,5,Theology,0,
-MN06,Kid,F,7,Mongolia,,Ulaanbaatar,,,,,
-MN07,Kid,F,9,Mongolia,,Ulaanbaatar,,,,,
-MN08,Adult,F,24,Mongolia,,Ulaanbaatar,Student,4,Tourism and hotellerie,0,Better
-MN09,Adult,F,53,Mongolia,,Ulaanbaatar,Teacher,8,Teaching,3,
-MN10,Adult,F,58,Mongolia,,Ulaanbaatar,Cook,4,Bachelor,4,
-MN11,Adult,F,46,Mongolia,,Ulaanbaatar,Sewing teacher,4,Sewing,1,Better
-MN12,Adult,F,30,Mongolia,,Ulaanbaatar,Mother,4,Tourism,2,Better
-MN13,Adult,F,40,Mongolia,,Ulaanbaatar,Kindergarden teacher,0,,3,Worse
-MN14,Adult,M,28,Mongolia,,Ulaanbaatar,Policeman,0,,1,Neutral
-AFG02,Adult,M,26,Afghanistan,,Ulaanbaatar,Student,5,Business,0,
-YEM01,Adult,M,34,Yemen,,Ulaanbaatar,Business,3,Computer application,1,
-MN15,Adult,F,45,Mongolia,,Ulaanbaatar,Museum Guide,0,,3,Worse
-SG01,Adult,F,25,Singapore,,Singapore,Fashion Designer & Nurse,4,Nurse & Fashion Design,0,
-SG02,Adult,M,27,Singapore,,Singapore,Friefighter,4,Animation,0,
-PH01,Adult,F,28,Philippines,,Singapore,Preschool Teacher,8,Education,,Better
-SG03,Adult,F,29,Singapore,,Singapore,Content Producer,2,Mass communications,0,Better
-SG04,Adult,M,26,Singapore,,Singapore,Urban Planner,4,Urban Planning,0,
-SG05,Adult,F,33,Singapore,,Singapore,Coordinator,7,Science,0,Better
-SG06,Adult,F,29,Singapore,,Singapore,Director / Producer,6,Film & Theatre,0,
-IND02,Adult,F,36,India,,Singapore,Communication Strategist,5,Business & Communication,1,
-MN16,Kid,F,6,Mongolia,,Ulaanbaatar,,,,,
-MYN01,Adult,M,32,Myanmar,,Yangon,Head of IT & Business Solutions,4,Mathematics,0,
-MYN02,Adult,M,33,Myanmar,,Yangon,Security Guard,,,,
-CAN03,Adult,M,54,Canada,,Yangon,Wellness Therapist,7,,2,
-MYN03,Adult,F,25,Myanmar,,Yangon,Freelance Consultant,5,Economics,0,
-IND03,Adult,M,46,India,,Yangon,Marketing Director,7,Physics and Management,1,
-MYN04,Adult,F,24,Myanmar,,Yangon,Research Assistant,4,Economics,0,Worse
-MYN05,Adult,M,26,Myanmar,,Yangon,Translator,5,Electrical Power and English,0,
-MYN06,Adult,F,18,Myanmar,India,Yangon,"Teacher, Sales and Marketing",2,Arts,0,
-IDN02,Adult,F,34,Indonesia,,Yangon,Teacher,5,Mathematics,,Worse
-IDN03,Adult,M,41,Indonesia,,Yangon,Entrepreneur,5,Management,,
-IDN04,Kid,M,13,Indonesia,,Yangon,,,,,
-MYN07,Adult,M,31,Myanmar,,Yangon,Teacher,9,Chemistry,0,Cannot compare
-MYN08,Adult,M,24,Myanmar,,Yangon,Business Manager,3,English,0,
-MYN09,Adult,F,30,Myanmar,,Yangon,Preschool Teacher,3,BA language,0,Both
-MYN10,Adult,M,47,Myanmar,,Yangon,Monk,4,Monastery,0,Better
-MYN11,Adult,M,26,Myanmar,,Ayervatty Division,Student,2,Agriculture,0,
-MYN12,Adult,M,55,Myanmar,,Yangon,NGO Founder,2,Organic Argiculture,3,Better
-ALL03,Adult,M,48,Germany,,Yangon,International Police Adviser,5,"Risk Crisis Management, Peacekeeping",1,Both
-MYN13,Adult,F,24,Myanmar,,Mandalay,Teacher,4,English,0,Both
-MYN14,Adult,F,22,Myanmar,,Countryside,Student,1,Agriculture,0,
-IND04,Adult,M,33,India,,New Delhi,Policeman,0,Central School,2,
-IND05,Adult,F,83,India,,Gurgaon,Housewife,2,Arts,4,
-IND06,Adult,F,53,India,,Gurgaon,Teacher,7,Botany,1,
-IND07,Adult,F,32,India,,New Delhi,Cook,0,,3,
-IND08,Adult,M,37,India,,New Delhi,Bag Master,0,,8,Worse
-IND09,Adult,M,35,India,,New Delhi,Belt Master,0,,2,Better
-IND10,Adult,F,23,India,,Nimmu,House keeping,,,0,
-IND11,Adult,M,37,India,,New Delhi,Yoga Coach,5,Yoga arts and management,2,
-IND12,Adult,M,43,India,,Gurgaon,Business Manager,3,Humanities /Arts,2,
-IND13,Adult,M,36,India,,Gurgaon,Business Manager,5,Commerce / Fashion,2,
-IND14,Adult,F,41,India,,New Delhi,Home Maker,7,Accounting,1,Both
-IND15,Adult,F,32,India,,Gurgaon,Product developper (fashion),3,Fashion,1,Better
-USA39,Adult,F,35,USA,,Los Angeles,Interior Designer,5,Interior Design,,
-IND16,Adult,F,17,India,,New Delhi,,,,,
-IND17,Adult,M,19,India,,New Delhi,,,,,
-IND18,Adult,F,19,India,,New Delhi,,,,,
-IND19,Adult,F,19,India,,New Delhi,,,,,
-IND20,Adult,F,18,India,,New Delhi,,,,,
-IND21,Adult,M,20,India,,New Delhi,,,,,
-IND22,Adult,F,18,India,,New Delhi,,,,,
-IND23,Adult,F,18,India,,New Delhi,,,,,
-IND24,Adult,F,20,India,,New Delhi,,,,,
-IND25,Adult,F,20,India,,New Delhi,,,,,
-IND26,Adult,F,18,India,,New Delhi,,,,,
-IND27,Adult,M,18,India,,New Delhi,,,,,
-IND28,Adult,F,18,India,,New Delhi,,,,,
-IND29,Adult,F,18,India,,New Delhi,,,,,
-IND30,Adult,F,20,India,,Kolkata,,,,,
-IND31,Adult,M,18,India,,Kolkata,,,,,
-IND32,Adult,M,22,India,,Kolkata,,,,,
-IND33,Adult,F,20,India,,Kolkata,,,,,
-IND34,Adult,F,16,India,,Kolkata,,,,,
-IND35,Adult,F,21,India,,Kolkata,,,,,
-IND36,Adult,M,21,India,,Kolkata,,,,,
-IND37,Adult,F,18,India,,Kolkata,,,,,
-IND38,Adult,F,20,India,,Kolkata,,,,,
-FR057,Adult,M,24,France,,Kolkata,,,,,
-FR058,Adult,M,29,France,,Kolkata,,,,,
-IND39,Adult,F,30,India,,New Delhi,Artist,7,Engineering,,Both
-IND40,Adult,M,43,India,,New Delhi,Tailor,,,3,
-IND41,Adult,F,40,India,,Bangalore,Banker,6,Business,0,Both
-IND42,Adult,F,75,India,,Kolkata,Housewife,4,Littérature and history,2,
-AUS04,Adult,F,34,Australia,India,Kolkata,Homemaker,5,English littérature,1,Both
-IND43,Adult,M,27,India,,Kolkata,Retail,3,Arts,3,Better
-NP01,Adult,F,33,Nepal,,Kathmandu,Social Worker,5,Sociology,72,
-NP02,Adult,M,50,Nepal,,Kathmandu,Shop retailer,0,,3,
-NP03,Adult,M,34,Nepal,,Kathmandu,Entrepreneur,6,Business,0,
-NP04,Adult,F,15,Nepal,,Kathmandu,Student,,,,Neutral
-NP05,Adult,M,40,Nepal,,Kathmandu,Motivational trainer,12,"Yoga, human consciousness",,Both
-NP06,Adult,M,55,Nepal,,Kathmandu,Chief of local government,3,Management,2,
-NP07,Adult,F,34,Nepal,,Kathmandu,Cook,0,,2,Better
-NP08,Adult,M,44,Nepal,,Kathmandu,Farmer,0,,2,
-NP09,Adult,F,16,Nepal,,Kathmandu,Student,,Management,,
-NP10,Adult,M,30,Nepal,,Chaughada,Worker,6,Humanities,,Better
-NP11,Adult,M,31,Nepal,,Kathmandu,Teacher,3,Sociology,2,
-NP12,Adult,M,64,Nepal,,Chaughada,Rice Mill Owner,0,,,
-NP13,Adult,F,46,Nepal,,Chaughada,Housewife,0,,2,
-NP14,Adult,F,23,Nepal,,Chaughada,Housewife,0,,0,
-NP15,Adult,M,24,Nepal,,Chaughada,Farmer,0,,1,
-NP16,Adult,M,14,Nepal,,Chaughada,Student,,,,
-NP17,Adult,M,49,Nepal,,Chaughada,Farmer,0,,2,
-NP18,Adult,F,26,Nepal,,Chaughada,Housewife,0,,1,
-NP19,Adult,M,48,Nepal,,Kathmandu,Travel Agent / School principal,5,Anthropology,0,
-NP20,Adult,F,17,Nepal,,Kathmandu,Student,,,0,
-IRN02,Adult,M,30,Iran,,Tehran,Petroleum Engineer,4,Petroleum Engineering,0,
-IRN03,Adult,F,27,Iran,,Tehran,Advertising,7,Architecture,0,
-AFG03,Adult,M,42,Afghanistan,,Tehran,Caretaker,0,,2,Better
-IRN04,Adult,M,32,Iran,,Shiraz,Tour guide and former nomad,5,english translation,1,
-IRN05,Adult,M,23,Iran,,Tehran,Artist (destructor and creator),5,Architecture,0,Both
-IRN06,Adult,M,83,Iran,France,Tehran,"Architect, writer",8,Architecture,2,Better
-IRN07,Adult,F,40,Iran,France,Tehran,,3,Communication,0,Worse
-IRN08,Adult,F,26,Iran,,Tehran,English teacher,5,English littérature & langugage,0,
-ALL04,Adult,F,31,Germany,,Munich,Publisher writer,5,Middle eastern studies,0,Neutral
-IRN09,Adult,F,25,Iran,,Tehran,Photographer,4,photography,0,
-KEN01,Adult,F,30,Kenya,,Addis Ababa,Unemployed,2,Business,0,Better
-ETH01,Adult,M,28,Ethiopia,,Addis Ababa,Tour and travel,3,tourism,0,
-ETH02,Adult,M,67,Ethiopia,,Addis Ababa,Retired higher executive,2,marketing,2,
-IRN10,Adult,F,20,Iran,,Tehran,Actress,3,Fashion design,0,Both
-IRN11,Adult,M,23,Iran,,Isfahan,Student,5,Management,0,
-IRN12,Adult,M,36,Iran,,Isfahan,Clergy,13,Theology,3,Better
-IRN13,Adult,M,73,Iran,,London,Retired Engineer,5,Engineering,2,Worse
-IRN14,Adult,M,21,Iran,,Tehran,Programmer,2,Software engineering,0,Neutral
-IRN15,Adult,F,25,Iran,,Tehran,Receptionist and editor,7,Theatre,0,Neutral
-IRN16,Adult,M,30,Iran,,Tehran,Barista,6,Sociology,0,Both
-IRN17,Adult,M,24,Iran,,Tehran,Barista and wood worker,5,Theatre,0,
-IRN18,Adult,M,25,Iran,,Tehran,Journalist and producer,5,Computer language,0,
-IRN19,Adult,M,57,Iran,,Tehran,Taxi Driver,0,,3,Better
-IRN20,Adult,F,24,Iran,,Tehran,Student and receptionist,5,Architecture Arts,0,
-ZIM01,Adult,M,54,Zimbabwe,,Bulawaso,Retired Police officer and peacekeeper,2,Managing peace and security,6,
-ZAM01,Adult,F,37,Zambia,,Addis Ababa,Policy officer Economics,5,Economics and development management,2,
-ETH03,Adult,M,23,Ethiopia,,Menagesha,Farm employee,0,,,
-ETH04,Adult,F,30,Ethiopia,,Menagesha,Farm employee,0,,,
-ETH05,Adult,M,54,Ethiopia,,Menagesha,Farm employee,0,,,Neutral
-ETH06,Adult,F,45,Ethiopia,,Addis Ababa,Gender and development coordinator,10,International economics relations,,
-ETH07,Adult,M,36,Ethiopia,,Addis Ababa,Agronomist,4,General Agriculture,1,Both
-ETH08,Adult,M,49,Ethiopia,,Menagesha,Farm manager,0,Automechanics,3,
-ETH09,Adult,F,55,Ethiopia,,Dorze,Potery maker,0,,5,Better
-ZIM02,Adult,F,42,Zimbabwe,,Addis Ababa,Social Scientist,5,Social Studies,1,Worse
-ANG,Adult,F,31,Angola,,Addis Ababa,Assistant,7,Environment,0,Worse
-ETH10,Adult,F,26,Ethiopia,,Addis Ababa,Writer,5,Law,0,
-ETH11,Adult,M,30,Ethiopia,,Addis Ababa,Unemployed,0,,0,
-ETH12,Adult,F,35,Ethiopia,,Dorze,Potery maker,,,3,
-ETH13,Adult,F,15,Ethiopia,,Dorze,Student,,,,
-ETH14,Adult,M,51,Ethiopia,,Addis Ababa,Pastoral ministery,12,"Language and littérature, theology",2,
-KEN02,Adult,F,39,Kenya,,Addis Ababa,"Senior Policy officer, climate change",6,Environmental science,2,
-ETH15,Adult,M,24,Ethiopia,,Dorze,Student,5,Electrical and computer engineering,0,Better
-ETH16,Adult,M,51,Ethiopia,,Addis Ababa,Education related,6,Education,3,Better
-ETH17,Adult,M,25,Ethiopia,,Addis Ababa,Engineer,5,Electrical and computer engineering,5,Neutral
-ETH18,Adult,F,71,Ethiopia,,Addis Ababa,Sister,4,Social Studies,0,
-FR059,Adult,M,56,France,Algeria,Paris,Director,5,Nuclear engineering,4,
-FR060,Adult,F,28,France,,Paris,Artist,3,Fine arts,0,
-FR061,Adult,F,31,France,,Paris,Artist,5,Fine arts,0,
-FR062,Adult,M,50,France,,Troyes,Technical director,5,Marketing,1,
-IND44,Adult,M,58,India,France,Paris,Life Coach,4,Psychology,2,
-SG07,Adult,F,32,Singapore,,Singapore,International Lawyer,5,Law,0,Better
-FR063,Adult,M,62,France,,Marly Le Roi,"Conseiller ministeriel, Maire",10,"Droit, ENA",2,Both
-FR064,Adult,F,28,France,,Louveciennes,Deputee,5,Political Science,0,
-FR065,Adult,M,57,France,Italia,Paris,Lawyer,5,Law,2,Better
-FR066,Adult,M,63,France,,Paris,Homeless,0,Cooking,0,Worse
+REF,Category,Gender,Age,Country 1,Country 2,Place of living,Job,Years of studies,Type of school,Number of kids,32,32.betterworse
+AUS001,Adult,F,30,Australia,,Sydney,Phd Student,10,"Law, Health",0,,KO
+CHN01,Adult,F,32,China,,Paris,Former Consultant,5,Engineering,0,,KO
+FR001,Adult,F,69,France,,Cucq,Retiree,1,,3,,KO
+FR002,Adult,M,58,France,,La Calotterie,Farmer,0,,2,,KO
+MAD001,Adult,F,28,Madagascar,,Paris,Singer,3,,0,,KO
+MAD002,Adult,F,28,Madagascar,,Paris,Entrepreneur,5,Literature & Politics,0,,KO
+FR003,Adult,M,28,France,,Singapore,Executive,5,Business,0,,KO
+FR004,Adult,F,27,France,,Sologne,Entrepreneur,3,,0,,KO
+FR005,Adult,M,28,France,,Paris,Entrepreneur,5,,0,,KO
+FR006,Adult,M,28,France,,Valence,Executive,5,,0,,KO
+PER001,Adult,F,58,Peru,,Paris,Cleaning Lady,0,,2,,KO
+VEN001,Adult,F,29,Venezuela (Bolivarian Republic of),,Paris,Film Director,4,,0,,KO
+FR007,Adult,F,36,France,,Paris,Executive,4,Business,2,,KO
+FR008,Adult,M,27,France,,Paris,Ex-Consultant,5,Business,0,,KO
+FR009,Adult,M,28,France,,Paris,Executive,5,Business,0,,KO
+ISR01,Adult,F,27,France,,Tel Aviv,Bartender,4,Cinema,0,,KO
+FR010,Adult,M,66,France,,Paris,Retiree,5,Business,1,,KO
+FR011,Adult,F,15,France,,Paris,Student,,,0,,KO
+FR012,Adult,F,45,France,,Paris,Mom,4,,4,,KO
+FR013,Adult,F,13,France,,Paris,Student,,,0,,KO
+FR014,Adult,M,80,France,,Paris,Retiree,5,,4,,KO
+FR015,Adult,M,56,France,,Paris,Junk Dealer,0,,2,,KO
+EN01,Adult,F,38,United Kingdom of Great Britain and Northern Ireland,,Paris,Journalist,3,,1,,KO
+ALG01,Adult,M,25,Algeria,,Paris,Consultant,5,Business,0,,KO
+BRE01,Adult,M,25,Brazil,,Madrid,Team Leader,4,,0,,KO
+RUS01,Adult,F,25,Russian Federation,,Madrid,Producer,4,,0,,KO
+ESP01,Adult,F,25,Spain,,Madrid,,5,,0,,KO
+FR016,Adult,M,26,France,,Paris,Student,5,Business,0,,KO
+ESP02,Adult,F,18,Spain,,Madrid,Student,5,,0,,KO
+ESP03,Adult,F,18,Spain,,Madrid,Student,5,,0,,KO
+FR017,Adult,M,25,France,,Madrid,Entrepreneur,5,Business,0,,KO
+FR018,Adult,M,25,France,,Madrid,Student,5,,0,,KO
+USA01,Adult,F,23,United States of America,,Madrid,English Teacher,3,,0,,KO
+FR019,Adult,F,27,France,,Madrid,Teacher,5,Business,0,,KO
+ESP04,Adult,F,58,Spain,,Madrid,Sociologist,5,,,,KO
+ESP05,Adult,F,44,Spain,,Madrid,Executive,8,Business,5,,KO
+ESP06,Adult,F,58,Spain,,Madrid,Journalist,3,,,,KO
+ESP07,Adult,F,21,Spain,,Madrid,Entrepreneur,3,Business,0,,KO
+ESP08,Adult,M,35,Spain,,Madrid,Film Director,2,Cinema,0,,KO
+ESP09,Adult,M,50,Spain,,Madrid,Economist,7,,1,,KO
+FR020,Adult,M,39,France,,Madrid,Executive,5,Business,2,,KO
+ESP10,Adult,M,27,Spain,,Madrid,Actor,2,,0,,KO
+SUI01,Adult,M,13,Switzerland,,Madrid,Schoolboy,,,0,,KO
+FR021,Adult,F,26,France,,Paris,Theologist,9,Political science,0,,KO
+FR022,Kid,F,10,France,Spain,Madrid,Schoolgirl,,,0,,KO
+FR023,Kid,F,8,France,Spain,Madrid,Schoolgirl,,,0,,KO
+FR024,Kid,M,8,France,Spain,Madrid,Schoolboy,,,0,,KO
+ALG02,Adult,M,63,Algeria,,Paris,Bartender,0,,1,,KO
+EN02,Adult,F,26,United Kingdom of Great Britain and Northern Ireland,,London,Urban Planner,5,LSE,0,,KO
+EN03,Adult,F,26,United Kingdom of Great Britain and Northern Ireland,,London,Theatre,3,Theatre,0,,KO
+RSA01,Adult,F,26,South Africa,,London,Urban Planner,5,Business,0,,KO
+RSA02,Adult,M,26,South Africa,,London,Student,4,Business,0,,KO
+SCO01,Adult,M,25,United Kingdom of Great Britain and Northern Ireland,,London,Lawyer,5,Law,0,,KO
+EN04,Adult,M,68,United Kingdom of Great Britain and Northern Ireland,,London,Vicar,2,,,,KO
+ARM01,Adult,M,32,Armenia,,Paris,Student,11,Business,0,,KO
+FR025,Adult,M,21,France,,Paris,Student,5,Business,0,,KO
+FR026,Adult,F,22,France,,Paris,Student,3,Design,0,,KO
+IDN01,Adult,F,21,Indonesia,,Istanbul,Student,3,Law,0,,KO
+TR01,Adult,M,66,Turkey,,Istanbul,Management consulting / teacher,13,Business,2,,KO
+TR02,Adult,M,46,Turkey,,Istanbul,Security Agent,0,,1,,KO
+TR03,Adult,F,16,Turkey,England,Istanbul,Student,0,,0,,KO
+TR04,Adult,M,52,Turkey,,Istanbul,Tourism,4,Education,,,KO
+TR05,Adult,F,35,Turkey,,Istanbul,Entrepreneur,4,Business,,,KO
+TR06,Adult,M,39,Turkey,,Istanbul,Agriculture,4,Business,1,,KO
+USA02,Adult,F,24,United States of America,,Istanbul,Journalist,4,Journalism,0,,KO
+SYR02,Adult,M,25,Syrian Arab Republic,,Istanbul,Volunteer,6,Pharmacy,0,,KO
+SYR03,Adult,M,31,Syrian Arab Republic,,Istanbul,Assitant Dean,4,Education,0,,KO
+SYR01,Adult,M,40,Syrian Arab Republic,,Paris,Chef,3,Cooking,3,,KO
+FR031,Couple,F,28,France,,Paris,Executive,5,Business,0,,KO
+FR032,Couple,M,28,France,,Paris,Entrepreneur,5,Business,0,,KO
+VEN02,Couple,M,40,Venezuela (Bolivarian Republic of),,London,Executive,7,Business,2,,KO
+VEN03,Couple,F,40,Venezuela (Bolivarian Republic of),,London,Executive,2,Business,2,,KO
+FR033,Adult,M,37,France,,Paris,,3,,3,,KO
+FR034,Kid,F,12,France,,Paris,Schoolgirl,,,0,,KO
+FR035,Kid,F,10,France,,Paris,Schoolgirl,,,0,,KO
+FR036,Kid,M,8,France,,Paris,Schoolboy,,,0,,KO
+FR037,Adult,M,95,France,,Paris,Priest,3,,0,,KO
+FR038,Adult,F,22,France,,Paris,Model,1,Arts,0,,KO
+FR039,Adult,F,26,France,,Paris,Illustrator,6,Arts,0,,KO
+SYR04,Couple,F,39,Syrian Arab Republic,France,Strasbourg,Caterer,3,Arts,3,,KO
+SYR05,Couple,M,28,Syrian Arab Republic,,Strasbourg,Architect,5,Architecture,0,,KO
+TIB01,Adult,M,45,China,Tibet,Strasbourg,Chef,5,Religious,2,,KO
+SYR06,Adult,M,39,Syrian Arab Republic,,Strasbourg,Chef,3,Cooking,2,,KO
+FR040,Adult,M,19,France,,Paris,Unemployed,0,,0,,KO
+FR041,Mum,F,37,France,,Paris,Human ressources,5,Business,2,,KO
+FR042,Kid,M,5,France,,Paris,Schoolboy,,,0,,KO
+FR043,Kid,F,8,France,,Paris,Schoolgirl,,,0,,KO
+IND01,Adult,M,36,India,France,Paris,Chef,3,Business,0,,KO
+FR044,Adult,F,37,France,,Paris,Advertising,5,Marketing,2,,KO
+FR045,Kid,M,6,France,,Paris,Schoolboy,,,0,,KO
+FR046,Adult,F,27,France,,Paris,Music Industry,5,Business,0,,KO
+AFG01,Kid,F,11,Afghanistan,England,London,Schoolgirl,,,0,,KO
+EN06,Kid,F,10,United Kingdom of Great Britain and Northern Ireland,,London,Schoolgirl,,,0,,KO
+EN07,Kid,F,7,United Kingdom of Great Britain and Northern Ireland,,London,Schoolgirl,,,0,,KO
+LIB01,Adult,M,37,France,Lebanon,Paris,Musician & composer,12,Music,1,,KO
+LIB02,Adult,F,28,Lebanon,France,Paris,Former Consultant,5,Political Science,0,,KO
+TR07,Adult,F,26,Turkey,,Paris,Photographer,6,Journalism,0,,KO
+VEN04,Adult,M,30,Venezuela (Bolivarian Republic of),,Buenos Aires,Bakery employee,5,Human Ressources,0,,KO
+MEX01,Adult,F,30,Mexico,,Buenos Aires,Student,10,Education - Social Science,0,,KO
+ISR02,Adult,M,34,Israel,,Paris,Psychotherapist,8,Clinical social work,2,,KO
+FR047,Adult,M,74,France,,Paris,Writer,10,,2,,KO
+FR049,Kid,F,8,France,,Paris,Schoolgirl,,,0,,KO
+FR050,Kid,F,6,France,,Paris,Schoolgirl,,,0,,KO
+FR051,Adult,F,60,France,,Chantilly,Retiree,2,,2,,KO
+EN08,Kid,F,10,United Kingdom of Great Britain and Northern Ireland,,London,Schoolgirl,,,0,,KO
+ARG01,Adult,M,27,Argentina,,Buenos Aires,Marketing,6,Engineering,0,,KO
+ARG02,Adult,M,28,Argentina,,Buenos Aires,Economist,6,Economics,0,,KO
+ARG03,Adult,F,33,Argentina,,Buenos Aires,Journalism,4,Journalism,0,,KO
+CAN01,Adult,M,35,Canada,,Buenos Aires,Writer,0,,0,,KO
+ARG04,Adult,M,28,Argentina,,Córdoba,Entrepreneur,4,Business,0,,KO
+ARG05,Kid,M,11,Argentina,,Córdoba,Schoolboy,0,,0,,KO
+ARG06,Kid,M,9,Argentina,,Córdoba,Schoolboy,0,,0,,KO
+ARG07,Adult,F,28,Argentina,,Córdoba,Photographer,3,Photography,0,,KO
+ARG08,Adult,F,83,Argentina,,Córdoba,Retiree,0,,0,,KO
+EN09,Adult,F,43,United Kingdom of Great Britain and Northern Ireland,,London,Primary School Principal,4,,2,,KO
+ARG09,Adult,F,29,Argentina,,Córdoba,Chef,6,Social Communication & Gastronomy,0,,KO
+ARG10,Adult,F,27,Argentina,,Córdoba,Illustrator,4,Communication,0,,KO
+ARG11,Adult,M,54,Argentina,,San Martín,Onologist & Teacher,5,Onology,5,,KO
+IT01,Adult,M,83,Italy,Argentina,San Martín,Farmer,0,0,3,,KO
+ARG12,Adult,M,38,Argentina,,Mendoza,Farmer,0,0,3,,KO
+ARG13,Adult,M,45,Argentina,,San Martín,Onologist,6,Onology,4,,KO
+ARG14,Adult,M,44,Argentina,,San Martín,Architect,6,Architecture,3,,KO
+ARG15,Adult,F,43,Argentina,,Mendoza,Journalist,0,,0,,KO
+ARG16,Adult,F,30,Argentina,,Córdoba,Stylist,4,Journalism,0,,KO
+ARG17,Adult,M,66,Argentina,,Córdoba,Neurologist,14,Medecine,4,,KO
+ARG18,Adult,F,51,Argentina,,Salta,Sport teacher,7,Sport,2,Better,"better, more commodity, but more or less the same, , , , , , , , , , , , "
+ARG19,Adult,F,68,Argentina,,Mendoza,Artist,2,,0,,KO
+USA03,Adult,F,24,United States of America,France,New York City,Paralegal,4,Political Science,0,Better,"Better, dad jew in France, mum segregation texas, , , , , , , , , , , , "
+ARG20,Adult,F,49,Argentina,,Tilcara,Chef,0,,3,,KO
+BOL01,Adult,M,78,Bolivia (Plurinational State of),,Tarija,Ex President,6,,3,Better,"Better, in every part of life, , , , , , , , , , , , , "
+ARG21,Kid,F,9,Argentina,,Salta,Schoolgirl,,,,,KO
+ARG22,Adult,F,41,Argentina,,Salta,Street Worker,2,System analysis,6,Both,"Better, unless to raise my children, , , , , , , , , , , , , "
+ARG23,Adult,M,43,Argentina,,Salta,Psicoterapeuta / Poeta,6,Psychology,3,Better,"Better, much better, know what I want to do , , , , , , , , , , , , "
+BOL02,Adult,F,33,Bolivia (Plurinational State of),,Tarija,Secretary of economic development,5,Economic development,0,,KO
+SCO02,Kid,F,11,United Kingdom of Great Britain and Northern Ireland,,Glasgow,Schoolgirl,,,0,,KO
+SCO03,Kid,F,7,United Kingdom of Great Britain and Northern Ireland,,Glasgow,Schoolgirl,,,0,,KO
+BOL03,Kid,M,8,Bolivia (Plurinational State of),,Tarija,Schoolboy,,,0,,KO
+BOL04,Kid,M,11,Bolivia (Plurinational State of),,Tarija,Schoolboy,,,0,,KO
+BOL05,Adult,M,64,Bolivia (Plurinational State of),,Tarija,Retiree,5,Accountabilty,4,,KO
+BOL06,Adult,M,41,Bolivia (Plurinational State of),,Tarija,Lawyer,5,Law,2,Better,"Better, reach goals before them, , , , , , , , , , , , , "
+PER02,Adult,F,40,Peru,,Tarija,Religious person,2,Nurse,0,Better,"Father fight for their kids to go ahead, Better, , , , , , , , , , , , , "
+ESP11,Adult,F,73,Spain,,Tarija,Retiree,6,Political Science,3,Both,"Material better, human quality worse, , , , , , , , , , , , , "
+BOL07,Adult,F,30,Bolivia (Plurinational State of),,Santa Cruz,Hotel Employee,0,,1,Better,"Better, More opportunity, , , , , , , , , , , , , "
+BOL08,Adult,F,30,Bolivia (Plurinational State of),,Santa Cruz,Hotel Employee,0,,0,Better,"I've always wanted to improve, access to education, we can look for a lot of thing , it's up to you to live better , , , , , , , , , , , "
+BOL09,Adult,M,45,Bolivia (Plurinational State of),,Uyuni,Tourist transport,2,,2,Better,"Better, every year that passes we improve our conditions, , , , , , , , , , , , , "
+IT02,Adult,M,30,Italy,,La Paz,UN,5,Political Science,1,,", , , , , , , , , , , , , , "
+FR067,Adult,F,61,France,Bolivia,La Paz,Anthropologue & Education,5,Anthropology,4,Better,"Better, because I'm free, they had war, many things are easier, , , , , , , , , , , "
+BOL10,Kid,M,10,Bolivia (Plurinational State of),,Isla del Sol,Schoolboy,,,,,KO
+BOL11,Kid,F,8,Bolivia (Plurinational State of),,Isla del Sol,Schoolgirl,,,,,KO
+BOL12,Adult,M,32,Bolivia (Plurinational State of),,Isla del Sol,Construction engineer,1,Architecture,2,Both,"Economically worse, I still have to succeed in life, Family better, education better, , , , , , , , , , , "
+BOL13,Adult,F,28,Bolivia (Plurinational State of),,Isla del Sol,Tourism,5,Administration,0,,", , , , , , , , , , , , , , "
+IRN01,Adult,M,34,Iran (Islamic Republic of),,Tehran,Agri business,6,dietetics,0,,", , , , , , , , , , , , , , "
+PER03,Adult,F,24,Peru,,Lima,Consulting infrastructure,5,international business,0,,", , , , , , , , , , , , , , "
+PER04,Adult,F,55,Peru,,Cusco,School Principal,5,Superior,0,Better,"Each one live a good moment, make the most of your period, technology, , , , , , , , , , , , "
+BRE02,Adult,M,50,Brazil,,Rio de Janeiro,Tourist guide,0,,2,Worse,"More opportunities before, More difficult today, more competition, , , , , , , , , , , , , "
+CAN02,Kid,F,9,Canada,"France, India, Brazil",Rio de Janeiro,Schoolgirl,,,,,KO
+BRE03,Adult,F,36,Brazil,,Rio de Janeiro,Maid,0,,1,Better,"Way better , mother wooden house with no bathroom, , , , , , , , , , , , , "
+TTO01,Kid,F,11,Trinidad and Tobago,Ireland,Rio de Janeiro,Schoolgirl,,,0,,KO
+POR01,Adult,F,69,Portugal,,Paredes,Photographer,13,"Language, visual education",1,Better,"Better, Changes happened slower before, , , , , , , , , , , , , "
+BRE04,Kid,F,7,Brazil,,Salvador,Schoolgirl,,,,,KO
+BRE05,Adult,M,51,Brazil,,Rio de Janeiro,Dealer,0,,0,,", , , , , , , , , , , , , , "
+BRE06,Adult,M,42,Brazil,,Rio de Janeiro,Photographer,4,Marketing,0,Better,"Better, less work, less obligations, , , , , , , , , , , , "
+BRE07,Adult,M,44,Brazil,,Palmeiras,Hiking Guide,0,,0,Better,"better, I'm rich compare to them, , , , , , , , , , , , , "
+BRE08,Adult,M,60,Brazil,,Rio de Janeiro,Restaurants Owner,0,,4,Better,"Better, brazil is a country of oppourtunity, My father was a barber, , , , , , , , , , , , "
+BRE09,Adult,F,42,Brazil,,Salvador,Lawyer and Tour Guide,10,Law and language,0,Both,"Some things better, dictature before, violence today, , , , , , , , , , , , "
+BRE10,Adult,F,74,Brazil,,Salvador,Retiree (Teacher),4,Teaching,3,Worse,"better with money, more confort, i buy what i want and not what i can, , , , , , , , , , , , "
+BRE11,Adult,M,64,Brazil,Argentina,Rio de Janeiro,Mathematician,6,,,,KO
+BRE12,Adult,M,55,Brazil,,Jericocoara,Barman,0,,3,Worse,"Worse, It was better when I was 15, , , , , , , , , , , , , "
+BRE13,Adult,M,40,Brazil,,Jericocoara,Musician,0,,3,Better,"Better, , , , , , , , , , , , , , "
+BRE14,Adult,M,20,Brazil,,Jericocoara,Musician,0,,,Better,"Better, easier, money, Do what I want to do, , , , , , , , , , , "
+COL01,Adult,M,45,Colombia,,Quindio,Agriculture Worker,0,,2,Better,"Better, It was tough for my parents, , , , , , , , , , , , , "
+COL02,Adult,M,23,Colombia,,Quindio,Cafe,5,Administration,0,,", , , , , , , , , , , , , , "
+COL03,Adult,M,50,Colombia,,Quindio,Cafe,7,Economia,4,Better,"Better, , , , , , , , , , , , , , "
+COL04,Adult,F,70,Colombia,,Salento,Volunteer,0,,4,Worse,"More difficult, less traditions, more corruption, , , , , , , , , , , , "
+COL05,Adult,M,25,Colombia,,Minca,Agriculture Worker,0,,1,Better,"Better, my father had a car accident, , , , , , , , , , , , , "
+COL06,Adult,M,30,Colombia,,Bogotá,Project owner,5,International cooperation,0,Both,"Better, Their generation was focusing on jobs, us : how to live, why , because we have access to more information , At the same time some are lost, anxiety, less stability, , , , , , , , , "
+COL07,Adult,M,46,Colombia,,Santa Marta,Mason,0,,2,Better,"A bit better, It was difficil with 3 children for my parents, but they raised me well , nothing material but good education, , , , , , , , , , , "
+COL08,Adult,F,43,Colombia,,Bogotá,Modern Language,2,Language,0,,", , , , , , , , , , , , , , "
+COL09,Adult,F,31,Colombia,,Bogotá,History teacher,7,Political Science,1,Better,"Economically and freedom equal, less constraints, , , , , , , , , , , , , "
+COL10,Adult,M,28,Colombia,France,Ubaté,Farmer,6,Political Science,0,Better,"Better for the freedom of doing what I want, , , , , , , , , , , , , , "
+COL11,Adult,F,50,Colombia,,Bogotá,"Editor, Entrepreneur, Artist",10,Design & education,0,Worse,"Some better, some worse, Opportunities for women, way better, access to communication, health, worst : life quality, pollution, food, more tasty, , , , , , , "
+COL12,Adult,M,32,Colombia,,Bogotá,Bogota Councilor,8,economy,0,Both,"More opportunities, but complicated world today, difficult to get out of everyday's rush, more simplicity before, , , , , , , , , , , "
+USA04,Adult,M,28,United States of America,Mexico,Dallas,Driving Delivery,1,Web Design,4,Better,"Worse, I've been blessed a lot, , , , , , , , , , , , , "
+USA05,Adult,M,34,United States of America,South Korea,Dallas,Company Owner,4,History,0,Neutral,"Both, better opportunities, , , , , , , , , , , , , "
+USA06,Adult,M,19,United States of America,,Dallas,Student,4,Business Administration,0,Both,"First I didn't know what my parents were going to , SO worse and then better, They teach you to become stronger and live better, , , , , , , , , , , , "
+USA07,Adult,F,36,United States of America,,Dallas,Lead Farm,7,Health & Wealthness,3,Better,"Better, Healthwise, my father wanted me to do better, hollistically I'm not sure I do better, , , , , , , , , , , "
+USA08,Adult,M,42,United States of America,,Dallas,Chef & CEO,4,Culinary,2,Better,"In general, better, more opportunities, , , , , , , , , , , , , "
+USA09,Adult,M,67,United States of America,,Dallas,CEO,7,Business and Finance,2,Better,"much better, physically, live longer, new world, easier, , , , , , , , , , "
+USA10,Adult,F,30,United States of America,,Forth Worth,Hairstylist,3,"Arts, Mental Health",,Better,"Simpler, I don't have kids, , , , , , , , , , , , , "
+USA11,Adult,M,46,United States of America,,New Orleans,Art Administration,4,Movie,,Better,"Much better, I can do a lot more, not better economic prospect, , , , , , , , , , , , "
+USA12,Kid,F,7,United States of America,,Dallas,,,,,,KO
+USA13,Adult,F,40,United States of America,,Detroit,Baker,5,Culinary,0,Cannot compare,"I live differently, I think I'm making better choices, when a day is done, it's really about how you make people feel, and she did amazing , , , , , , , , , , , , "
+USA14,Adult,F,49,United States of America,,New Orleans,Artist / Teacher,4,Painting,5,Cannot compare,"Very different, they were responsible human beings, I'm an artist, you can't escape that, I'm messy, they were more conformative, , , , , , , , , "
+USA15,Adult,M,59,United States of America,,New Orleans,Retired Attorney,9,Law,5,Both,"same and now worse since I retired, , , , , , , , , , , , , , "
+USA16,Kid,F,14,United States of America,,New Orleans,School Girl,,,,,KO
+USA17,Kid,F,9,United States of America,,New Orleans,School Girl,,,,,KO
+USA18,Kid,M,10,United States of America,,New Orleans,School Boy,,,,,KO
+USA19,Adult,M,35,United States of America,,New Orleans,Singer,3,Business,0,Worse,"much more complicated, I am more complicated, I am an african american gay male, , , , , , , , , , , , "
+USA20,Kid,M,7,United States of America,,New Orleans,,,,,,KO
+USA21,Adult,M,30,United States of America,,New Orleans,Real Estate,4,Journalism,0,Both,"Both, I know more, some of things still havn't changed, , , , , , , , , , , , "
+USA22,Adult,F,26,United States of America,,Violet,Musician,0,,0,Better,"Life is easier, from what they raised me, I'm not living worse, I have an opportunity to fight, , , , , , , , , , , "
+USA23,Adult,M,44,United States of America,,New Orleans,Garden Science Teacher,4,Biology,3,Better,"They might think that they lived better, I think I lived better, They reached a ceiling, they don't see beyond that scope, no ceiling for me , , , , , , , , , , "
+USA24,Adult,M,37,United States of America,,Dallas,Photographer,0,,2,Better,"Yes, overcome some problems that my parents had, progress, , , , , , , , , , , , "
+USA25,Adult,M,66,United States of America,,New Orleans,Artist / Musician,5,Jazz,0,Better,"Better, they were very poor, sacrifice, , , , , , , , , , , , "
+USA26,Adult,M,30,United States of America,,New Orleans,Artist,2,Business,0,,", , , , , , , , , , , , , , "
+USA27,Adult,F,27,United States of America,,New Orleans,Student,4,Mechanical Engineering,0,Worse,"more difficult, knowledge doesn't help us, ignorance is blessed, less stressed out, , , , , , , , , , , "
+USA28,Adult,F,26,United States of America,,New York City,Community Manager,4,French / Religious studies,0,Neutral,"my dad is a refugee, so better in that sense, but he's happy, I don't know, same, , , , , , , , , , , "
+FR068,Kid,F,5,France,,New York City,,,,0,,KO
+FR052,Kid,F,8,France,,New York City,,,,0,,KO
+FR053,Adult,F,29,France,Lebanon,New York City,Art production,5,Art,0,Better,"My home is better than were I grew up, Now I live better, But My parents lived for us, I live for me, , , , , , , , , , , , "
+USA29,Adult,M,41,United States of America,,Dearborn,DJ / Producer,4,Fine Arts,2,Cannot compare,"My life is very similar , same neighbourhood, I live differently than them, father motor company, very different life, , , , , , , , , , "
+USA30,Adult,F,41,United States of America,,Dearborn,Record Label Owner,5,Business Administration,2,Better,"better, everything opposite that they educate me , , , , , , , , , , , , , "
+USA31,Adult,M,38,United States of America,,Ferndale,Roofer,2,General,0,Better,"A lot better, my mentality, progression, , , , , , , , , , , , "
+SYR07,Adult,M,39,Syrian Arab Republic,,Dearborn,Film Maker,4,Movie,1,,", , , , , , , , , , , , , , "
+USA32,Adult,F,30,United States of America,,Detroit,Artist Designer,6,"Political Science, Fiber Arts",0,Better,"I earn less, with technology it's my choice, it's my own destiny , , , , , , , , , , , , "
+USA33,Adult,F,34,United States of America,,Detroit,Uber Driver,4,International communication,0,Cannot compare,"In terms of what ? , it's circumstancial , they didn't have the internet, it's more complicated and easier, , , , , , , , , , , "
+USA34,Adult,F,28,United States of America,,Detroit,Tax analyst,3,Psychology,0,Better,"easier, better job at a younger age, , , , , , , , , , , , , "
+USA35,Adult,F,22,United States of America,,Detroit,Student,1,Environmental Science,0,Better,"Better, my parents have paved the way for me that they didn't have, , , , , , , , , , , , , "
+USA36,Adult,F,57,United States of America,,New York City,Artist,6,Biological psychology / MBA,0,Better,"Better, they had to struggle so much t o get out of poverty that they didn't have time to enjoy life, , , , , , , , , , , , , "
+CHN02,Adult,F,33,China,,New York City,Marketing Manager,6,Economics & MBA,0,Both,"subjective, luckier than our parents, lot of  technical convenience, AC, psychological : overwhelmed with too many choices today, high level of satisfaction before, today frustration, every generation has its own problem, , , , , , , "
+ALL01,Adult,M,31,Germany,,New York City,Physician / Researcher,7,Medicine,0,Better,"Way better, opportunities, I enjoy my life, I wish they could do so, but there are happy too, , , , , , , , , , "
+ALL02,Adult,F,31,Germany,,New York City,Art historian,6,Art History,0,Better,"better, They provided me a lot, , , , , , , , , , , , , "
+USA37,Adult,F,30,United States of America,,New York City,Consultant,7,Business / Writing,0,Neutral,"equal, they gave me all the opportunities I have, , , , , , , , , , , , , "
+USA38,Adult,F,24,United States of America,Portugal,New York City,Maid / Designer,6,Hospitality & tourism management / Design,0,Neutral,"Equal, When they were my age they were dealing with the samei thing, , , , , , , , , , , , , "
+FR054,Adult,M,36,France,,Paris,Consultant,3,Language and political sciences,1,Neutral,"Same, good level of living, , , , , , , , , , , , , "
+FR055,Adult,M,27,France,,Paris,Lawyer,5,Law,0,Worse,"Worse, they start way faster than me a life made of small pleasure, plus insousciants, I always have to fights to keep everything, there's always someone to try to fuck you, we are sick of equality, , , , , , , , , "
+FR056,Adult,M,59,France,,Paris,Productor / Journalist,5,"Political Science, Journalism",4,Both,"I don't know, better standards of living, but easier in the 80' because we still had some illusions, , , , , , , , , , , , "
+AUS02,Adult,M,29,Australia,,New York City,Freelance Artist,5,Architecture / Fashion / Advertising,0,Both,"Both, more complications with technologies, but more options, , , , , , , , , , , , "
+SYR08,Kid,M,13,Syrian Arab Republic,,Paris,,,,,,KO
+SYR09,Kid,M,10,Syrian Arab Republic,,Paris,,,,,,KO
+SYR10,Kid,M,6,Syrian Arab Republic,,Paris,,,,,,KO
+EN10,Kid,F,9,Kosovo (Republic of),UK,London,,,,,,KO
+EN11,Kid,F,9,United Kingdom of Great Britain and Northern Ireland,Pakistan,London,,,,,,KO
+EN12,Kid,F,10,United Kingdom of Great Britain and Northern Ireland,,London,,,,,,KO
+ROM01,Kid,M,11,Romania,England,London,,,,,,KO
+EN13,Kid,M,10,Kosovo (Republic of),UK,London,,,,,,KO
+EN14,Kid,M,10,United Kingdom of Great Britain and Northern Ireland,Pakistan,London,,,,,,KO
+EN15,Kid,F,11,United Kingdom of Great Britain and Northern Ireland,Caribbean,London,,,,,,KO
+HUN01,Kid,F,11,Hungary,Iran,London,,,,,,KO
+EN16,Kid,M,11,United Kingdom of Great Britain and Northern Ireland,,London,,,,,,KO
+EN17,Kid,F,11,United Kingdom of Great Britain and Northern Ireland,,London,,,,,,KO
+EN18,Kid,M,11,Lebanon,UK,London,,,,,,KO
+MAR01,Kid,F,11,Morocco,,London,,,,,,KO
+EN19,Kid,F,11,United Kingdom of Great Britain and Northern Ireland,,London,,,,,,KO
+EN20,Kid,F,11,Pakistan,UK,London,,,,,,KO
+EN21,Kid,F,7,United Kingdom of Great Britain and Northern Ireland,,London,,,,,,KO
+EN22,Kid,F,7,United Kingdom of Great Britain and Northern Ireland,,London,,,,,,KO
+EN23,Kid,F,9,United Kingdom of Great Britain and Northern Ireland,,London,,,,,,KO
+EN24,Kid,M,8,United Kingdom of Great Britain and Northern Ireland,,London,,,,,,KO
+AUS03,Kid,F,6,Australia,,London,,,,,,KO
+EN25,Kid,M,7,United Kingdom of Great Britain and Northern Ireland,,London,,,,,,KO
+RUS02,Kid,M,6,Russian Federation,,Moscow,,,,,,KO
+RUS03,Kid,F,10,Russian Federation,,Moscow,,,,,,KO
+RUS04,Kid,F,9,Russian Federation,,Moscow,,,,,,KO
+RUS05,Adult,F,31,Russian Federation,,Moscow,Recruiter,5,Psychology,0,Better,"Better, more open world, more opportunities, less stereotypes, happier, , , , , , , , , , "
+AZ01,Adult,F,24,Azerbaijan,Russia,Moscow,PR,5,International relations,0,Better,"Better, they lived during soviet times, everybody knows what happened then, , , , , , , , , , , , "
+RUS06,Adult,M,44,Russian Federation,Ossetia,Moscow,Entrepreneur,10,Physics,1,,", , , , , , , , , , , , , , "
+RUS07,Adult,F,76,Russian Federation,,Moscow,Professor of economics,10,International economy and Foreign Trade Finance,1,Neutral,"it depends on the health and the age, , , , , , , , , , , , , , "
+RUS08,Adult,M,39,Russian Federation,,Moscow,Conductor of Russian Style Folkestra,9,Music,1,Better,"Easier, Calmer, , , , , , , , , , , , , "
+OUZ01,Adult,F,48,Uzbekistan,,Moscow,Cleaning Lady,0,,3,Worse,"Worse, Soviet union before, Stability, didn't think about tomorrow, no odd jobs, , , , , , , , , , "
+RUS09,Adult,M,26,Russian Federation,,Moscow,Operations Manager,5,Translation and interpretation,0,Cannot compare,"I can't answer, different rules and school programs, culture…, I'm leaving in another country, their life is their life, they had their happy moments, , , , , , , , , , "
+RUS10,Adult,F,33,Russian Federation,,Moscow,Newspaper Director,5,Economics,0,Better,"better , more opportunities, better political system, , , , , , , , , , , , "
+RUS11,Adult,F,31,Russian Federation,,Moscow,Education,7,Linguistics,0,Better,"Better, the world is becoming better, every generation , , , , , , , , , , , , "
+GE01,Adult,F,26,Georgia,Russia,Tbilisi,"Director, Writer",5,PR,0,Better,"Better life, I can do anything, and choose my life, I can listen to my heart, They didn't believe they can do everything, no thinking about what they really want to do , If people understand what they want to do, the world will change, I try to take them out of them, , , , , , , "
+GE02,Adult,F,26,Georgia,Russia,Moscow,Director,5,Art History,0,Better,"Better, more opportunities, Life in soviet times was very different, more complicated to get knowledge, to explore the world, to provide yourslefe with anything , , , , , , , , , , , "
+RUS12,Adult,F,27,Russian Federation,,Irkutsk,HR,6,Economics,1,Better,"Better, And I try to help them to plundge into my world, , , , , , , , , , , , , "
+TR08,Adult,M,23,Turkey,,Istanbul,Volunteer Imam and Student,5,International relations,0,,", , , , , , , , , , , , , , "
+RUS13,Adult,F,28,Russian Federation,,Olkhon Island,Hotel Administrator,5,economy,0,Cannot compare,"I don't know, time was different, they cared less about things, maybe things were easier and more simple before, , , , , , , , , , , , "
+MN01,Adult,M,54,Mongolia,,Soft Gobi,Nomad,0,,3,Better,"Better, we have plenty of everything now, they were nothing more they could do than taking care of the cattle, , , , , , , , , , , , "
+MN02,Adult,M,61,Mongolia,,Middle Gobi,Driver,0,,2,Cannot compare,"Parents were nomad, different life but both happy, , , , , , , , , , , , , "
+KOR01,Adult,F,36,Republic of Korea,,Seoul,Elementary school teacher,3,,0,Better,"Easier, not the same chances to study, I studied mostly via the internet, I live better than them, , , , , , , , , , , "
+MN03,Adult,F,24,Mongolia,,Ulaanbaatar,Student,4,electronic engineering,0,,", , , , , , , , , , , , , , "
+MN04,Adult,M,28,Mongolia,,Ulaanbaatar,,2,,,Better,"Better, , , , , , , , , , , , , , "
+MN05,Adult,M,28,Mongolia,,Ulaanbaatar,Motorcycle racer,4,information technology,0,,", , , , , , , , , , , , , , "
+CAM01,Adult,F,47,Cameroon,,Ulaanbaatar,Sister,5,Education,0,Better,"Better, long time ago, world has changed, , , , , , , , , , , , , "
+TW01,Adult,F,20,Taiwan (Republic of China),,Taipei,Student,4,Fashion Design,0,,", , , , , , , , , , , , , , "
+CHN03,Adult,F,31,China,,Ulaanbaatar,Sister,5,Theology,0,,", , , , , , , , , , , , , , "
+MN06,Kid,F,7,Mongolia,,Ulaanbaatar,,,,,,KO
+MN07,Kid,F,9,Mongolia,,Ulaanbaatar,,,,,,KO
+MN08,Adult,F,24,Mongolia,,Ulaanbaatar,Student,4,Tourism and hotellerie,0,Better,"Better, , , , , , , , , , , , , , "
+MN09,Adult,F,53,Mongolia,,Ulaanbaatar,Teacher,8,Teaching,3,,", , , , , , , , , , , , , , "
+MN10,Adult,F,58,Mongolia,,Ulaanbaatar,Cook,4,Bachelor,4,,", , , , , , , , , , , , , , "
+MN11,Adult,F,46,Mongolia,,Ulaanbaatar,Sewing teacher,4,Sewing,1,Better,"way better because of technology, Hungary in 1992 - very exepensive to communicate with my mum, today she is in France and we talk everyday for free, , , , , , , , , , , , "
+MN12,Adult,F,30,Mongolia,,Ulaanbaatar,Mother,4,Tourism,2,Better,"Better, More chance for education for kids, But they also need more things than before, , , , , , , , , , , , "
+MN13,Adult,F,40,Mongolia,,Ulaanbaatar,Kindergarden teacher,0,,3,Worse,"Everybody had a job at that time, people used to communicate more, it's getting more complicated now, , , , , , , , , , , , "
+MN14,Adult,M,28,Mongolia,,Ulaanbaatar,Policeman,0,,1,Neutral,"50/50, I have to take care of family and many other things, , , , , , , , , , , , , "
+AFG02,Adult,M,26,Afghanistan,,Ulaanbaatar,Student,5,Business,0,,", , , , , , , , , , , , , , "
+YEM01,Adult,M,34,Yemen,,Ulaanbaatar,Business,3,Computer application,1,,", , , , , , , , , , , , , , "
+MN15,Adult,F,45,Mongolia,,Ulaanbaatar,Museum Guide,0,,3,Worse,"Worse, socialist system before, better living potential and welfare state, society is getting tough now, , , , , , , , , , , "
+SG01,Adult,F,25,Singapore,,Singapore,Fashion Designer & Nurse,4,Nurse & Fashion Design,0,,", , , , , , , , , , , , , , "
+SG02,Adult,M,27,Singapore,,Singapore,Friefighter,4,Animation,0,,", , , , , , , , , , , , , , "
+PH01,Adult,F,28,Philippines,,Singapore,Preschool Teacher,8,Education,,Better,"Easier, I also learnt to grow the hard way, they are used to hard time, more resilient, sometimes I feel like giving up, , , , , , , , , , "
+SG03,Adult,F,29,Singapore,,Singapore,Content Producer,2,Mass communications,0,Better,"Life is easier, we have much more, maybe simpler before, complicated doesn't mean it""s bad, I have more freedom, grandma 13 kids !, financially stable, , , , , , , , "
+SG04,Adult,M,26,Singapore,,Singapore,Urban Planner,4,Urban Planning,0,,", , , , , , , , , , , , , , "
+SG05,Adult,F,33,Singapore,,Singapore,Coordinator,7,Science,0,Better,"people focus more on purpose than job itself today, so easier , , , , , , , , , , , , , "
+SG06,Adult,F,29,Singapore,,Singapore,Director / Producer,6,Film & Theatre,0,,", , , , , , , , , , , , , , "
+IND02,Adult,F,36,India,,Singapore,Communication Strategist,5,Business & Communication,1,,", , , , , , , , , , , , , , "
+MN16,Kid,F,6,Mongolia,,Ulaanbaatar,,,,,,KO
+MYN01,Adult,M,32,Myanmar,,Yangon,Head of IT & Business Solutions,4,Mathematics,0,,", , , , , , , , , , , , , , "
+MYN02,Adult,M,33,Myanmar,,Yangon,Security Guard,,,,,", , , , , , , , , , , , , , "
+CAN03,Adult,M,54,Canada,,Yangon,Wellness Therapist,7,,2,,", , , , , , , , , , , , , , "
+MYN03,Adult,F,25,Myanmar,,Yangon,Freelance Consultant,5,Economics,0,,", , , , , , , , , , , , , , "
+IND03,Adult,M,46,India,,Yangon,Marketing Director,7,Physics and Management,1,,", , , , , , , , , , , , , , "
+MYN04,Adult,F,24,Myanmar,,Yangon,Research Assistant,4,Economics,0,Worse,"More complicated, many aspects to consider, they didn't have to worry about many things, , , , , , , , , , , , "
+MYN05,Adult,M,26,Myanmar,,Yangon,Translator,5,Electrical Power and English,0,,", , , , , , , , , , , , , , "
+MYN06,Adult,F,18,Myanmar,India,Yangon,"Teacher, Sales and Marketing",2,Arts,0,,", , , , , , , , , , , , , , "
+IDN02,Adult,F,34,Indonesia,,Yangon,Teacher,5,Mathematics,,Worse,"More complicated, Their life was more simple, little things to make them happy, today more than that, , , , , , , , , , , "
+IDN03,Adult,M,41,Indonesia,,Yangon,Entrepreneur,5,Management,,,", , , , , , , , , , , , , , "
+IDN04,Kid,M,13,Indonesia,,Yangon,,,,,,KO
+MYN07,Adult,M,31,Myanmar,,Yangon,Teacher,9,Chemistry,0,Cannot compare,"I don't know, Ive never lived my parents life, , , , , , , , , , , , , "
+MYN08,Adult,M,24,Myanmar,,Yangon,Business Manager,3,English,0,,", , , , , , , , , , , , , , "
+MYN09,Adult,F,30,Myanmar,,Yangon,Preschool Teacher,3,BA language,0,Both,"Life is difficult, same, mum single, , , , , , , , , , , , "
+MYN10,Adult,M,47,Myanmar,,Yangon,Monk,4,Monastery,0,Better,"Easier, thanks to my teachers, my parents : traditional way in the village, me city, , , , , , , , , , , "
+MYN11,Adult,M,26,Myanmar,,Ayervatty Division,Student,2,Agriculture,0,,", , , , , , , , , , , , , , "
+MYN12,Adult,M,55,Myanmar,,Yangon,NGO Founder,2,Organic Argiculture,3,Better,"Easier, I created what I want to do, , , , , , , , , , , , , "
+ALL03,Adult,M,48,Germany,,Yangon,International Police Adviser,5,"Risk Crisis Management, Peacekeeping",1,Both,"Philosophical question, everytime in life has its challenges, old enough to look back when we had no internet, more quiet, but hard to say if it was better, , , , , , , , , , "
+MYN13,Adult,F,24,Myanmar,,Mandalay,Teacher,4,English,0,Both,"More complicated, I moved to mandalay, to continue my studies, thought it was more easy, but very competitive, lots of skills to have a job, why can't we learn from doing things ?, , , , , , , , "
+MYN14,Adult,F,22,Myanmar,,Countryside,Student,1,Agriculture,0,,", , , , , , , , , , , , , , "
+IND04,Adult,M,33,India,,New Delhi,Policeman,0,Central School,2,,", , , , , , , , , , , , , , "
+IND05,Adult,F,83,India,,Gurgaon,Housewife,2,Arts,4,,", , , , , , , , , , , , , , "
+IND06,Adult,F,53,India,,Gurgaon,Teacher,7,Botany,1,,", , , , , , , , , , , , , , "
+IND07,Adult,F,32,India,,New Delhi,Cook,0,,3,,", , , , , , , , , , , , , , "
+IND08,Adult,M,37,India,,New Delhi,Bag Master,0,,8,Worse,"Worse, inflation very high now, easier for them to bring us up, difficult today, , , , , , , , , , , "
+IND09,Adult,M,35,India,,New Delhi,Belt Master,0,,2,Better,"My parents life was more complicated, more problems, no one was eanring money at all, , , , , , , , , , , , "
+IND10,Adult,F,23,India,,Nimmu,House keeping,,,0,,", , , , , , , , , , , , , , "
+IND11,Adult,M,37,India,,New Delhi,Yoga Coach,5,Yoga arts and management,2,,", , , , , , , , , , , , , , "
+IND12,Adult,M,43,India,,Gurgaon,Business Manager,3,Humanities /Arts,2,,", , , , , , , , , , , , , , "
+IND13,Adult,M,36,India,,Gurgaon,Business Manager,5,Commerce / Fashion,2,,", , , , , , , , , , , , , , "
+IND14,Adult,F,41,India,,New Delhi,Home Maker,7,Accounting,1,Both,"Both, I was happier when I was a child, Technology didn't bring us as much ease as we think, I feel unconfortable when I don't have my phone, , , , , , , , , , , "
+IND15,Adult,F,32,India,,Gurgaon,Product developper (fashion),3,Fashion,1,Better,"More comfortable, I've seen girls not educated just because they where girls, they didn't do this to me, , , , , , , , , , , , "
+USA39,Adult,F,35,United States of America,,Los Angeles,Interior Designer,5,Interior Design,,,", , , , , , , , , , , , , , "
+IND16,Adult,F,17,India,,New Delhi,,,,,,KO
+IND17,Adult,M,19,India,,New Delhi,,,,,,KO
+IND18,Adult,F,19,India,,New Delhi,,,,,,KO
+IND19,Adult,F,19,India,,New Delhi,,,,,,KO
+IND20,Adult,F,18,India,,New Delhi,,,,,,KO
+IND21,Adult,M,20,India,,New Delhi,,,,,,KO
+IND22,Adult,F,18,India,,New Delhi,,,,,,KO
+IND23,Adult,F,18,India,,New Delhi,,,,,,KO
+IND24,Adult,F,20,India,,New Delhi,,,,,,KO
+IND25,Adult,F,20,India,,New Delhi,,,,,,KO
+IND26,Adult,F,18,India,,New Delhi,,,,,,KO
+IND27,Adult,M,18,India,,New Delhi,,,,,,KO
+IND28,Adult,F,18,India,,New Delhi,,,,,,KO
+IND29,Adult,F,18,India,,New Delhi,,,,,,KO
+IND30,Adult,F,20,India,,Kolkata,,,,,,KO
+IND31,Adult,M,18,India,,Kolkata,,,,,,KO
+IND32,Adult,M,22,India,,Kolkata,,,,,,KO
+IND33,Adult,F,20,India,,Kolkata,,,,,,KO
+IND34,Adult,F,16,India,,Kolkata,,,,,,KO
+IND35,Adult,F,21,India,,Kolkata,,,,,,KO
+IND36,Adult,M,21,India,,Kolkata,,,,,,KO
+IND37,Adult,F,18,India,,Kolkata,,,,,,KO
+IND38,Adult,F,20,India,,Kolkata,,,,,,KO
+FR057,Adult,M,24,France,,Kolkata,,,,,,KO
+FR058,Adult,M,29,France,,Kolkata,,,,,,KO
+IND39,Adult,F,30,India,,New Delhi,Artist,7,Engineering,,Both,"Pros and cons, simpler in terms of opportunities, better education, travel, they didn't have this, their life was simple, sometimes we have too many choices, , , , , , , , "
+IND40,Adult,M,43,India,,New Delhi,Tailor,,,3,,", , , , , , , , , , , , , , "
+IND41,Adult,F,40,India,,Bangalore,Banker,6,Business,0,Both,"Complicated because I want more, Easier because of techology, superior technical era, , , , , , , , , , , , "
+IND42,Adult,F,75,India,,Kolkata,Housewife,4,Littérature and history,2,,", , , , , , , , , , , , , , "
+AUS04,Adult,F,34,Australia,India,Kolkata,Homemaker,5,English littérature,1,Both,"Both, they had simpler needs, also lots of things are easier, technologies, too many choices today, , , , , , , , , , "
+IND43,Adult,M,27,India,,Kolkata,Retail,3,Arts,3,Better,"Easier, everything gets better with time, at their time struggle was everything, , , , , , , , , , , , "
+NP01,Adult,F,33,Nepal,,Kathmandu,Social Worker,5,Sociology,72,,", , , , , , , , , , , , , , "
+NP02,Adult,M,50,Nepal,,Kathmandu,Shop retailer,0,,3,,", , , , , , , , , , , , , , "
+NP03,Adult,M,34,Nepal,,Kathmandu,Entrepreneur,6,Business,0,,", , , , , , , , , , , , , , "
+NP04,Adult,F,15,Nepal,,Kathmandu,Student,,,,Neutral,"I don't know before my birth, same food , same type of clothe, we sleep in same kind of rooms, so same same, , , , , , , , , , "
+NP05,Adult,M,40,Nepal,,Kathmandu,Motivational trainer,12,"Yoga, human consciousness",,Both,"Modernity, trains, technology, I'm compelled to make my life complex, but yoga helps me to make it more simple , , , , , , , , , , , , "
+NP06,Adult,M,55,Nepal,,Kathmandu,Chief of local government,3,Management,2,,", , , , , , , , , , , , , , "
+NP07,Adult,F,34,Nepal,,Kathmandu,Cook,0,,2,Better,"Much easier now, Im' independent, I don't need to ask people for money, , , , , , , , , , , , "
+NP08,Adult,M,44,Nepal,,Kathmandu,Farmer,0,,2,,", , , , , , , , , , , , , , "
+NP09,Adult,F,16,Nepal,,Kathmandu,Student,,Management,,,", , , , , , , , , , , , , , "
+NP10,Adult,M,30,Nepal,,Chaughada,Worker,6,Humanities,,Better,"Easier, in their time, no mobile or TV, walk 9h to kathmandu, now a bus or motorbike, new technology helps us, , , , , , , , , , , "
+NP11,Adult,M,31,Nepal,,Kathmandu,Teacher,3,Sociology,2,,", , , , , , , , , , , , , , "
+NP12,Adult,M,64,Nepal,,Chaughada,Rice Mill Owner,0,,,,", , , , , , , , , , , , , , "
+NP13,Adult,F,46,Nepal,,Chaughada,Housewife,0,,2,,", , , , , , , , , , , , , , "
+NP14,Adult,F,23,Nepal,,Chaughada,Housewife,0,,0,,", , , , , , , , , , , , , , "
+NP15,Adult,M,24,Nepal,,Chaughada,Farmer,0,,1,,", , , , , , , , , , , , , , "
+NP16,Adult,M,14,Nepal,,Chaughada,Student,,,,,", , , , , , , , , , , , , , "
+NP17,Adult,M,49,Nepal,,Chaughada,Farmer,0,,2,,", , , , , , , , , , , , , , "
+NP18,Adult,F,26,Nepal,,Chaughada,Housewife,0,,1,,", , , , , , , , , , , , , , "
+NP19,Adult,M,48,Nepal,,Kathmandu,Travel Agent / School principal,5,Anthropology,0,,", , , , , , , , , , , , , , "
+NP20,Adult,F,17,Nepal,,Kathmandu,Student,,,0,,", , , , , , , , , , , , , , "
+IRN02,Adult,M,30,Iran (Islamic Republic of),,Tehran,Petroleum Engineer,4,Petroleum Engineering,0,,", , , , , , , , , , , , , , "
+IRN03,Adult,F,27,Iran (Islamic Republic of),,Tehran,Advertising,7,Architecture,0,,", , , , , , , , , , , , , , "
+AFG03,Adult,M,42,Afghanistan,,Tehran,Caretaker,0,,2,Better,"Easier, My parents had 7 kids, I have only 2, , , , , , , , , , , , , "
+IRN04,Adult,M,32,Iran (Islamic Republic of),,Shiraz,Tour guide and former nomad,5,english translation,1,,", , , , , , , , , , , , , , "
+IRN05,Adult,M,23,Iran (Islamic Republic of),,Tehran,Artist (destructor and creator),5,Architecture,0,Both,"Way more complicated, in a good way, I like it, But not as hard, more complex but easier, , , , , , , , , , "
+IRN06,Adult,M,83,Iran (Islamic Republic of),France,Tehran,"Architect, writer",8,Architecture,2,Better,"Always nostalgia about our fathers, but I think usually life is better, life standard has improve thoughout the ages, , , , , , , , , , , , "
+IRN07,Adult,F,40,Iran (Islamic Republic of),France,Tehran,,3,Communication,0,Worse,"More complicated, my parents came from a very high social environment, I could have been beyonce, but with the revolution we lost everything, and the country lost a lot loosing all these people, anyway it was better before, we lived less long, cancer, on vit mal plus longtemps, , , , , , "
+IRN08,Adult,F,26,Iran (Islamic Republic of),,Tehran,English teacher,5,English littérature & langugage,0,,", , , , , , , , , , , , , , "
+ALL04,Adult,F,31,Germany,,Munich,Publisher writer,5,Middle eastern studies,0,Neutral,"It has never been easy, war before, cold war, economic crises, life is always easy or hard, depends on your vision, , , , , , , , , , "
+IRN09,Adult,F,25,Iran (Islamic Republic of),,Tehran,Photographer,4,photography,0,,", , , , , , , , , , , , , , "
+KEN01,Adult,F,30,Kenya,,Addis Ababa,Unemployed,2,Business,0,Better,"Easier, no school before, no medication, I can go to hospital without problems, , , , , , , , , , , "
+ETH01,Adult,M,28,Ethiopia,,Addis Ababa,Tour and travel,3,tourism,0,,", , , , , , , , , , , , , , "
+ETH02,Adult,M,67,Ethiopia,,Addis Ababa,Retired higher executive,2,marketing,2,,", , , , , , , , , , , , , , "
+IRN10,Adult,F,20,Iran (Islamic Republic of),,Tehran,Actress,3,Fashion design,0,Both,"More complicated, different time, girls used to get married and have a family earlier, men used to work and support their family, today life is more about pursuing your dreams and try to do what you want, add something to this world, , , , , , , , , "
+IRN11,Adult,M,23,Iran (Islamic Republic of),,Isfahan,Student,5,Management,0,,", , , , , , , , , , , , , , "
+IRN12,Adult,M,36,Iran (Islamic Republic of),,Isfahan,Clergy,13,Theology,3,Better,"Plus facile, Lots of possibilities now, lots of things to do, , , , , , , , , , , , "
+IRN13,Adult,M,73,Iran (Islamic Republic of),,London,Retired Engineer,5,Engineering,2,Worse,"More complicated, It's gonna be more complicated for my kids, we're advancing but life is getting harder, , , , , , , , , , , , "
+IRN14,Adult,M,21,Iran (Islamic Republic of),,Tehran,Programmer,2,Software engineering,0,Neutral,"Same, I experience something they never experienced, vice versa, , , , , , , , , , , , "
+IRN15,Adult,F,25,Iran (Islamic Republic of),,Tehran,Receptionist and editor,7,Theatre,0,Neutral,"You cannot measure that, there were living a hard time under revolution and war, we are having troubles in another way, life is equally complicated, , , , , , , , , , , "
+IRN16,Adult,M,30,Iran (Islamic Republic of),,Tehran,Barista,6,Sociology,0,Both,"Both, No hard work for me, social situation is more complicated, mentally, physically easier, we have to work hard, we don't trust eachother anymore, things have changed a lot, , , , , , , , "
+IRN17,Adult,M,24,Iran (Islamic Republic of),,Tehran,Barista and wood worker,5,Theatre,0,,", , , , , , , , , , , , , , "
+IRN18,Adult,M,25,Iran (Islamic Republic of),,Tehran,Journalist and producer,5,Computer language,0,,", , , , , , , , , , , , , , "
+IRN19,Adult,M,57,Iran (Islamic Republic of),,Tehran,Taxi Driver,0,,3,Better,"Easier, my parents fought for my success, first in my family to finish high school, That's why I alos invested a lot in my children education, I wish all children of the world can receive education, even if they are unemployed, , , , , , , , , "
+IRN20,Adult,F,24,Iran (Islamic Republic of),,Tehran,Student and receptionist,5,Architecture Arts,0,,", , , , , , , , , , , , , , "
+ZIM01,Adult,M,54,Zimbabwe,,Bulawayo,Retired Police officer and peacekeeper,2,Managing peace and security,6,,", , , , , , , , , , , , , , "
+ZAM01,Adult,F,37,Zambia,,Addis Ababa,Policy officer Economics,5,Economics and development management,2,,", , , , , , , , , , , , , , "
+ETH03,Adult,M,23,Ethiopia,,Menagesha,Farm employee,0,,,,", , , , , , , , , , , , , , "
+ETH04,Adult,F,30,Ethiopia,,Menagesha,Farm employee,0,,,,"I don't know, , , , , , , , , , , , , , "
+ETH05,Adult,M,54,Ethiopia,,Menagesha,Farm employee,0,,,Neutral,"My parents were not rich but they have a house, I came here when I was young, I live happy here, god willing, gove something to my children, , , , , , , , , , , "
+ETH06,Adult,F,45,Ethiopia,,Addis Ababa,Gender and development coordinator,10,International economics relations,,,", , , , , , , , , , , , , , "
+ETH07,Adult,M,36,Ethiopia,,Addis Ababa,Agronomist,4,General Agriculture,1,Both,"more competitive life, world is more competitive, less population before, better availabilities of things, , , , , , , , , , , "
+ETH08,Adult,M,49,Ethiopia,,Menagesha,Farm manager,0,Automechanics,3,,", , , , , , , , , , , , , , "
+ETH09,Adult,F,55,Ethiopia,,Dorze,Potery maker,0,,5,Better,"getting better, no schools before, learn from the kids, good for the future, , , , , , , , , , , "
+ZIM02,Adult,F,42,Zimbabwe,,Addis Ababa,Social Scientist,5,Social Studies,1,Worse,"I've been to different countries and environments, my parents always same government job, straght forward, Me I have to adapt, My life is more complicated, , , , , , , , , , "
+ANG,Adult,F,31,Angola,,Addis Ababa,Assistant,7,Environment,0,Worse,"More complicated, lots of problems today, demography, climate, it was different before, we try to offset the problem of the past, , , , , , , , , , "
+ETH10,Adult,F,26,Ethiopia,,Addis Ababa,Writer,5,Law,0,,", , , , , , , , , , , , , , "
+ETH11,Adult,M,30,Ethiopia,,Addis Ababa,Unemployed,0,,0,,", , , , , , , , , , , , , , "
+ETH12,Adult,F,35,Ethiopia,,Dorze,Potery maker,,,3,,", , , , , , , , , , , , , , "
+ETH13,Adult,F,15,Ethiopia,,Dorze,Student,,,,,", , , , , , , , , , , , , , "
+ETH14,Adult,M,51,Ethiopia,,Addis Ababa,Pastoral ministery,12,"Language and littérature, theology",2,,", , , , , , , , , , , , , , "
+KEN02,Adult,F,39,Kenya,,Addis Ababa,"Senior Policy officer, climate change",6,Environmental science,2,,", , , , , , , , , , , , , , "
+ETH15,Adult,M,24,Ethiopia,,Dorze,Student,5,Electrical and computer engineering,0,Better,"More easy, There living style was different, they couldn't even feed me, I go to school, , , , , , , , , , , "
+ETH16,Adult,M,51,Ethiopia,,Addis Ababa,Education related,6,Education,3,Better,"Easier, main town, clean potable water, electricity , news tv and radio, my parents lived in darkness, , , , , , , , , "
+ETH17,Adult,M,25,Ethiopia,,Addis Ababa,Engineer,5,Electrical and computer engineering,5,Neutral,"Average, same, Not so difficult, not so easy, , , , , , , , , , , , "
+ETH18,Adult,F,71,Ethiopia,,Addis Ababa,Sister,4,Social Studies,0,,", , , , , , , , , , , , , , "
+FR059,Adult,M,56,France,Algeria,Paris,Director,5,Nuclear engineering,4,,", , , , , , , , , , , , , , "
+FR060,Adult,F,28,France,,Paris,Artist,3,Fine arts,0,,", , , , , , , , , , , , , , "
+FR061,Adult,F,31,France,,Paris,Artist,5,Fine arts,0,,", , , , , , , , , , , , , , "
+FR062,Adult,M,50,France,,Troyes,Technical director,5,Marketing,1,,", , , , , , , , , , , , , , "
+IND44,Adult,M,58,India,France,Paris,Life Coach,4,Psychology,2,,", , , , , , , , , , , , , , "
+SG07,Adult,F,32,Singapore,,Singapore,International Lawyer,5,Law,0,Better,"Easier, the country was very new at the time of ma parents, they had to fight for things that we are taking for granted, university, right to live , these days we never struggle for those things, , , , , , , , , "
+FR063,Adult,M,62,France,,Marly-le-Roi,"Conseiller ministeriel, Maire",10,"Droit, ENA",2,Both,"We live better, simpler practically, But we need to adapt more than before, very fast changes, we live longer and healthier, access to the news, but more stress with the change, , , , , , , , "
+FR064,Adult,F,28,France,,Louveciennes,Deputee,5,Political Science,0,,", , , , , , , , , , , , , , "
+FR065,Adult,M,57,France,Italia,Paris,Lawyer,5,Law,2,Better,"Much more simpler, No boss, not submitted to someone, earn a lot of money, love my job, , , , , , , , , , "
+FR066,Adult,M,63,France,,Paris,Homeless,0,Cooking,0,Worse,"My life is terrible, I don't have parents, I have nobody, alone all the time, , , , , , , , , , , "
