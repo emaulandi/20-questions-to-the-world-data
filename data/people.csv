@@ -1,438 +1,438 @@
-REF,Category,Gender,Age,Country 1,Country 2,Place of living,Job,Years of studies,Type of school,Number of kids,Occupation type,32,32.betterworse
-AUS001,Adult,F,30,Australia,,Sydney,Phd Student,10,"Law, Health",0,Student,,KO
-CHN01,Adult,F,32,China,,Paris,Former Consultant,5,Engineering,0,Executive & intellectual occupation,,KO
-FR001,Adult,F,69,France,,Cucq,Retiree,1,,3,Retiree,,KO
-FR002,Adult,M,58,France,,La Calotterie,Farmer,0,,2,Farmer,,KO
-MAD001,Adult,F,28,Madagascar,,Paris,Singer,3,,0,Executive & intellectual occupation,,KO
-MAD002,Adult,F,28,Madagascar,,Paris,Entrepreneur,5,Literature & Politics,0,Executive & intellectual occupation,,KO
-FR003,Adult,M,28,France,,Singapore,Executive,5,Business,0,Executive & intellectual occupation,,KO
-FR004,Adult,F,27,France,,Sologne,Entrepreneur,3,,0,Executive & intellectual occupation,,KO
-FR005,Adult,M,28,France,,Paris,Entrepreneur,5,,0,Executive & intellectual occupation,,KO
-FR006,Adult,M,28,France,,Valence,Executive,5,,0,Executive & intellectual occupation,,KO
-PER001,Adult,F,58,Peru,,Paris,Cleaning Lady,0,,2,Employee,,KO
-VEN001,Adult,F,29,Venezuela (Bolivarian Republic of),,Paris,Film Director,4,,0,Executive & intellectual occupation,,KO
-FR007,Adult,F,36,France,,Paris,Executive,4,Business,2,Executive & intellectual occupation,,KO
-FR008,Adult,M,27,France,,Paris,Ex-Consultant,5,Business,0,Executive & intellectual occupation,,KO
-FR009,Adult,M,28,France,,Paris,Executive,5,Business,0,Executive & intellectual occupation,,KO
-ISR01,Adult,F,27,France,,Tel Aviv,Bartender,4,Cinema,0,Employee,,KO
-FR010,Adult,M,66,France,,Paris,Retiree,5,Business,1,Retiree,,KO
-FR011,Adult,F,15,France,,Paris,Student,,,0,Student,,KO
-FR012,Adult,F,45,France,,Paris,Mom,4,,4,Not paid occupation,,KO
-FR013,Adult,F,13,France,,Paris,Student,,,0,Student,,KO
-FR014,Adult,M,80,France,,Paris,Retiree,5,,4,Retiree,,KO
-FR015,Adult,M,56,France,,Paris,Junk Dealer,0,,2,"Craftsmen, merchants & business owner",,KO
-EN01,Adult,F,38,United Kingdom of Great Britain and Northern Ireland,,Paris,Journalist,3,,1,Executive & intellectual occupation,,KO
-ALG01,Adult,M,25,Algeria,,Paris,Consultant,5,Business,0,Executive & intellectual occupation,,KO
-BRE01,Adult,M,25,Brazil,,Madrid,Team Leader,4,,0,Executive & intellectual occupation,,KO
-RUS01,Adult,F,25,Russian Federation,,Madrid,Producer,4,,0,Executive & intellectual occupation,,KO
-ESP01,Adult,F,25,Spain,,Madrid,,5,,0,#N/A,,KO
-FR016,Adult,M,26,France,,Paris,Student,5,Business,0,Student,,KO
-ESP02,Adult,F,18,Spain,,Madrid,Student,5,,0,Student,,KO
-ESP03,Adult,F,18,Spain,,Madrid,Student,5,,0,Student,,KO
-FR017,Adult,M,25,France,,Madrid,Entrepreneur,5,Business,0,Executive & intellectual occupation,,KO
-FR018,Adult,M,25,France,,Madrid,Student,5,,0,Student,,KO
-USA01,Adult,F,23,United States of America,,Madrid,English Teacher,3,,0,Intermediate occupation,,KO
-FR019,Adult,F,27,France,,Madrid,Teacher,5,Business,0,Intermediate occupation,,KO
-ESP04,Adult,F,58,Spain,,Madrid,Sociologist,5,,,Executive & intellectual occupation,,KO
-ESP05,Adult,F,44,Spain,,Madrid,Executive,8,Business,5,Executive & intellectual occupation,,KO
-ESP06,Adult,F,58,Spain,,Madrid,Journalist,3,,,Executive & intellectual occupation,,KO
-ESP07,Adult,F,21,Spain,,Madrid,Entrepreneur,3,Business,0,Executive & intellectual occupation,,KO
-ESP08,Adult,M,35,Spain,,Madrid,Film Director,2,Cinema,0,Executive & intellectual occupation,,KO
-ESP09,Adult,M,50,Spain,,Madrid,Economist,7,,1,Executive & intellectual occupation,,KO
-FR020,Adult,M,39,France,,Madrid,Executive,5,Business,2,Executive & intellectual occupation,,KO
-ESP10,Adult,M,27,Spain,,Madrid,Actor,2,,0,Executive & intellectual occupation,,KO
-SUI01,Adult,M,13,Switzerland,,Madrid,Schoolboy,,,0,Student,,KO
-FR021,Adult,F,26,France,,Paris,Theologist,9,Political science,0,Executive & intellectual occupation,,KO
-FR022,Kid,F,10,France,Spain,Madrid,Schoolgirl,,,0,Student,,KO
-FR023,Kid,F,8,France,Spain,Madrid,Schoolgirl,,,0,Student,,KO
-FR024,Kid,M,8,France,Spain,Madrid,Schoolboy,,,0,Student,,KO
-ALG02,Adult,M,63,Algeria,,Paris,Bartender,0,,1,Employee,,KO
-EN02,Adult,F,26,United Kingdom of Great Britain and Northern Ireland,,London,Urban Planner,5,LSE,0,Executive & intellectual occupation,,KO
-EN03,Adult,F,26,United Kingdom of Great Britain and Northern Ireland,,London,Theatre,3,Theatre,0,Executive & intellectual occupation,,KO
-RSA01,Adult,F,26,South Africa,,London,Urban Planner,5,Business,0,Executive & intellectual occupation,,KO
-RSA02,Adult,M,26,South Africa,,London,Student,4,Business,0,Student,,KO
-SCO01,Adult,M,25,United Kingdom of Great Britain and Northern Ireland,,London,Lawyer,5,Law,0,Executive & intellectual occupation,,KO
-EN04,Adult,M,68,United Kingdom of Great Britain and Northern Ireland,,London,Vicar,2,,,Intermediate occupation,,KO
-ARM01,Adult,M,32,Armenia,,Paris,Student,11,Business,0,Student,,KO
-FR025,Adult,M,21,France,,Paris,Student,5,Business,0,Student,,KO
-FR026,Adult,F,22,France,,Paris,Student,3,Design,0,Student,,KO
-IDN01,Adult,F,21,Indonesia,,Istanbul,Student,3,Law,0,Student,,KO
-TR01,Adult,M,66,Turkey,,Istanbul,Management consulting / teacher,13,Business,2,Executive & intellectual occupation,,KO
-TR02,Adult,M,46,Turkey,,Istanbul,Security Agent,0,,1,Employee,,KO
-TR03,Adult,F,16,Turkey,England,Istanbul,Student,0,,0,Student,,KO
-TR04,Adult,M,52,Turkey,,Istanbul,Tourism,4,Education,,Employee,,KO
-TR05,Adult,F,35,Turkey,,Istanbul,Entrepreneur,4,Business,,Executive & intellectual occupation,,KO
-TR06,Adult,M,39,Turkey,,Istanbul,Agriculture,4,Business,1,Farmer,,KO
-USA02,Adult,F,24,United States of America,,Istanbul,Journalist,4,Journalism,0,Executive & intellectual occupation,,KO
-SYR02,Adult,M,25,Syrian Arab Republic,,Istanbul,Volunteer,6,Pharmacy,0,Not paid occupation,,KO
-SYR03,Adult,M,31,Syrian Arab Republic,,Istanbul,Assitant Dean,4,Education,0,Employee,,KO
-SYR01,Adult,M,40,Syrian Arab Republic,,Paris,Chef,3,Cooking,3,"Craftsmen, merchants & business owner",,KO
-FR031,Couple,F,28,France,,Paris,Executive,5,Business,0,Executive & intellectual occupation,,KO
-FR032,Couple,M,28,France,,Paris,Entrepreneur,5,Business,0,Executive & intellectual occupation,,KO
-VEN02,Couple,M,40,Venezuela (Bolivarian Republic of),,London,Executive,7,Business,2,Executive & intellectual occupation,,KO
-VEN03,Couple,F,40,Venezuela (Bolivarian Republic of),,London,Executive,2,Business,2,Executive & intellectual occupation,,KO
-FR033,Adult,M,37,France,,Paris,,3,,3,#N/A,,KO
-FR034,Kid,F,12,France,,Paris,Schoolgirl,,,0,Student,,KO
-FR035,Kid,F,10,France,,Paris,Schoolgirl,,,0,Student,,KO
-FR036,Kid,M,8,France,,Paris,Schoolboy,,,0,Student,,KO
-FR037,Adult,M,95,France,,Paris,Priest,3,,0,Intermediate occupation,,KO
-FR038,Adult,F,22,France,,Paris,Model,1,Arts,0,Employee,,KO
-FR039,Adult,F,26,France,,Paris,Illustrator,6,Arts,0,Executive & intellectual occupation,,KO
-SYR04,Couple,F,39,Syrian Arab Republic,France,Strasbourg,Caterer,3,Arts,3,"Craftsmen, merchants & business owner",,KO
-SYR05,Couple,M,28,Syrian Arab Republic,,Strasbourg,Architect,5,Architecture,0,Executive & intellectual occupation,,KO
-TIB01,Adult,M,45,China,Tibet,Strasbourg,Chef,5,Religious,2,"Craftsmen, merchants & business owner",,KO
-SYR06,Adult,M,39,Syrian Arab Republic,,Strasbourg,Chef,3,Cooking,2,"Craftsmen, merchants & business owner",,KO
-FR040,Adult,M,19,France,,Paris,Unemployed,0,,0,Not paid occupation,,KO
-FR041,Mum,F,37,France,,Paris,Human ressources,5,Business,2,Intermediate occupation,,KO
-FR042,Kid,M,5,France,,Paris,Schoolboy,,,0,Student,,KO
-FR043,Kid,F,8,France,,Paris,Schoolgirl,,,0,Student,,KO
-IND01,Adult,M,36,India,France,Paris,Chef,3,Business,0,"Craftsmen, merchants & business owner",,KO
-FR044,Adult,F,37,France,,Paris,Advertising,5,Marketing,2,Executive & intellectual occupation,,KO
-FR045,Kid,M,6,France,,Paris,Schoolboy,,,0,Student,,KO
-FR046,Adult,F,27,France,,Paris,Music Industry,5,Business,0,Executive & intellectual occupation,,KO
-AFG01,Kid,F,11,Afghanistan,England,London,Schoolgirl,,,0,Student,,KO
-EN06,Kid,F,10,United Kingdom of Great Britain and Northern Ireland,,London,Schoolgirl,,,0,Student,,KO
-EN07,Kid,F,7,United Kingdom of Great Britain and Northern Ireland,,London,Schoolgirl,,,0,Student,,KO
-LIB01,Adult,M,37,France,Lebanon,Paris,Musician & composer,12,Music,1,Executive & intellectual occupation,,KO
-LIB02,Adult,F,28,Lebanon,France,Paris,Former Consultant,5,Political Science,0,Executive & intellectual occupation,,KO
-TR07,Adult,F,26,Turkey,,Paris,Photographer,6,Journalism,0,Executive & intellectual occupation,,KO
-VEN04,Adult,M,30,Venezuela (Bolivarian Republic of),,Buenos Aires,Bakery employee,5,Human Ressources,0,Employee,,KO
-MEX01,Adult,F,30,Mexico,,Buenos Aires,Student,10,Education - Social Science,0,Student,,KO
-ISR02,Adult,M,34,Israel,,Paris,Psychotherapist,8,Clinical social work,2,Executive & intellectual occupation,,KO
-FR047,Adult,M,74,France,,Paris,Writer,10,,2,Executive & intellectual occupation,,KO
-FR049,Kid,F,8,France,,Paris,Schoolgirl,,,0,Student,,KO
-FR050,Kid,F,6,France,,Paris,Schoolgirl,,,0,Student,,KO
-FR051,Adult,F,60,France,,Chantilly,Retiree,2,,2,Retiree,,KO
-EN08,Kid,F,10,United Kingdom of Great Britain and Northern Ireland,,London,Schoolgirl,,,0,Student,,KO
-ARG01,Adult,M,27,Argentina,,Buenos Aires,Marketing,6,Engineering,0,Executive & intellectual occupation,,KO
-ARG02,Adult,M,28,Argentina,,Buenos Aires,Economist,6,Economics,0,Executive & intellectual occupation,,KO
-ARG03,Adult,F,33,Argentina,,Buenos Aires,Journalism,4,Journalism,0,Executive & intellectual occupation,,KO
-CAN01,Adult,M,35,Canada,,Buenos Aires,Writer,0,,0,Executive & intellectual occupation,,KO
-ARG04,Adult,M,28,Argentina,,Córdoba,Entrepreneur,4,Business,0,Executive & intellectual occupation,,KO
-ARG05,Kid,M,11,Argentina,,Córdoba,Schoolboy,0,,0,Student,,KO
-ARG06,Kid,M,9,Argentina,,Córdoba,Schoolboy,0,,0,Student,,KO
-ARG07,Adult,F,28,Argentina,,Córdoba,Photographer,3,Photography,0,Executive & intellectual occupation,,KO
-ARG08,Adult,F,83,Argentina,,Córdoba,Retiree,0,,0,Retiree,,KO
-EN09,Adult,F,43,United Kingdom of Great Britain and Northern Ireland,,London,Primary School Principal,4,,2,Intermediate occupation,,KO
-ARG09,Adult,F,29,Argentina,,Córdoba,Chef,6,Social Communication & Gastronomy,0,"Craftsmen, merchants & business owner",,KO
-ARG10,Adult,F,27,Argentina,,Córdoba,Illustrator,4,Communication,0,Executive & intellectual occupation,,KO
-ARG11,Adult,M,54,Argentina,,San Martín,Onologist & Teacher,5,Onology,5,Executive & intellectual occupation,,KO
-IT01,Adult,M,83,Italy,Argentina,San Martín,Farmer,0,0,3,Farmer,,KO
-ARG12,Adult,M,38,Argentina,,Mendoza,Farmer,0,0,3,Farmer,,KO
-ARG13,Adult,M,45,Argentina,,San Martín,Onologist,6,Onology,4,Executive & intellectual occupation,,KO
-ARG14,Adult,M,44,Argentina,,San Martín,Architect,6,Architecture,3,Executive & intellectual occupation,,KO
-ARG15,Adult,F,43,Argentina,,Mendoza,Journalist,0,,0,Executive & intellectual occupation,,KO
-ARG16,Adult,F,30,Argentina,,Córdoba,Stylist,4,Journalism,0,Executive & intellectual occupation,,KO
-ARG17,Adult,M,66,Argentina,,Córdoba,Neurologist,14,Medecine,4,Executive & intellectual occupation,,KO
-ARG18,Adult,F,51,Argentina,,Salta,Sport teacher,7,Sport,2,Intermediate occupation,Better,"better, more commodity, but more or less the same, , , , , , , , , , , , "
-ARG19,Adult,F,68,Argentina,,Mendoza,Artist,2,,0,Executive & intellectual occupation,,KO
-USA03,Adult,F,24,United States of America,France,New York City,Paralegal,4,Political Science,0,Executive & intellectual occupation,Better,"Better, dad jew in France, mum segregation texas, , , , , , , , , , , , "
-ARG20,Adult,F,49,Argentina,,Tilcara,Chef,0,,3,"Craftsmen, merchants & business owner",,KO
-BOL01,Adult,M,78,Bolivia (Plurinational State of),,Tarija,Ex President,6,,3,Executive & intellectual occupation,Better,"Better, in every part of life, , , , , , , , , , , , , "
-ARG21,Kid,F,9,Argentina,,Salta,Schoolgirl,,,,Student,,KO
-ARG22,Adult,F,41,Argentina,,Salta,Street Worker,2,System analysis,6,Worker,Both,"Better, unless to raise my children, , , , , , , , , , , , , "
-ARG23,Adult,M,43,Argentina,,Salta,Psicoterapeuta / Poeta,6,Psychology,3,Executive & intellectual occupation,Better,"Better, much better, know what I want to do , , , , , , , , , , , , "
-BOL02,Adult,F,33,Bolivia (Plurinational State of),,Tarija,Secretary of economic development,5,Economic development,0,Executive & intellectual occupation,,KO
-SCO02,Kid,F,11,United Kingdom of Great Britain and Northern Ireland,,Glasgow,Schoolgirl,,,0,Student,,KO
-SCO03,Kid,F,7,United Kingdom of Great Britain and Northern Ireland,,Glasgow,Schoolgirl,,,0,Student,,KO
-BOL03,Kid,M,8,Bolivia (Plurinational State of),,Tarija,Schoolboy,,,0,Student,,KO
-BOL04,Kid,M,11,Bolivia (Plurinational State of),,Tarija,Schoolboy,,,0,Student,,KO
-BOL05,Adult,M,64,Bolivia (Plurinational State of),,Tarija,Retiree,5,Accountabilty,4,Retiree,,KO
-BOL06,Adult,M,41,Bolivia (Plurinational State of),,Tarija,Lawyer,5,Law,2,Executive & intellectual occupation,Better,"Better, reach goals before them, , , , , , , , , , , , , "
-PER02,Adult,F,40,Peru,,Tarija,Religious person,2,Nurse,0,Intermediate occupation,Better,"Father fight for their kids to go ahead, Better, , , , , , , , , , , , , "
-ESP11,Adult,F,73,Spain,,Tarija,Retiree,6,Political Science,3,Retiree,Both,"Material better, human quality worse, , , , , , , , , , , , , "
-BOL07,Adult,F,30,Bolivia (Plurinational State of),,Santa Cruz,Hotel Employee,0,,1,Employee,Better,"Better, More opportunity, , , , , , , , , , , , , "
-BOL08,Adult,F,30,Bolivia (Plurinational State of),,Santa Cruz,Hotel Employee,0,,0,Employee,Better,"I've always wanted to improve, access to education, we can look for a lot of thing , it's up to you to live better , , , , , , , , , , , "
-BOL09,Adult,M,45,Bolivia (Plurinational State of),,Uyuni,Tourist transport,2,,2,Worker,Better,"Better, every year that passes we improve our conditions, , , , , , , , , , , , , "
-IT02,Adult,M,30,Italy,,La Paz,UN,5,Political Science,1,Executive & intellectual occupation,,", , , , , , , , , , , , , , "
-FR067,Adult,F,61,France,Bolivia,La Paz,Anthropologue & Education,5,Anthropology,4,Executive & intellectual occupation,Better,"Better, because I'm free, they had war, many things are easier, , , , , , , , , , , "
-BOL10,Kid,M,10,Bolivia (Plurinational State of),,Isla del Sol,Schoolboy,,,,Student,,KO
-BOL11,Kid,F,8,Bolivia (Plurinational State of),,Isla del Sol,Schoolgirl,,,,Student,,KO
-BOL12,Adult,M,32,Bolivia (Plurinational State of),,Isla del Sol,Construction engineer,1,Architecture,2,Executive & intellectual occupation,Both,"Economically worse, I still have to succeed in life, Family better, education better, , , , , , , , , , , "
-BOL13,Adult,F,28,Bolivia (Plurinational State of),,Isla del Sol,Tourism,5,Administration,0,Employee,,", , , , , , , , , , , , , , "
-IRN01,Adult,M,34,Iran (Islamic Republic of),,Tehran,Agri business,6,dietetics,0,Farmer,,", , , , , , , , , , , , , , "
-PER03,Adult,F,24,Peru,,Lima,Consulting infrastructure,5,international business,0,Executive & intellectual occupation,,", , , , , , , , , , , , , , "
-PER04,Adult,F,55,Peru,,Cusco,School Principal,5,Superior,0,Intermediate occupation,Better,"Each one live a good moment, make the most of your period, technology, , , , , , , , , , , , "
-BRE02,Adult,M,50,Brazil,,Rio de Janeiro,Tourist guide,0,,2,Employee,Worse,"More opportunities before, More difficult today, more competition, , , , , , , , , , , , , "
-CAN02,Kid,F,9,Canada,"France, India, Brazil",Rio de Janeiro,Schoolgirl,,,,Student,,KO
-BRE03,Adult,F,36,Brazil,,Rio de Janeiro,Maid,0,,1,Employee,Better,"Way better , mother wooden house with no bathroom, , , , , , , , , , , , , "
-TTO01,Kid,F,11,Trinidad and Tobago,Ireland,Rio de Janeiro,Schoolgirl,,,0,Student,,KO
-POR01,Adult,F,69,Portugal,,Paredes,Photographer,13,"Language, visual education",1,Executive & intellectual occupation,Better,"Better, Changes happened slower before, , , , , , , , , , , , , "
-BRE04,Kid,F,7,Brazil,,Salvador,Schoolgirl,,,,Student,,KO
-BRE05,Adult,M,51,Brazil,,Rio de Janeiro,Dealer,0,,0,"Craftsmen, merchants & business owner",,", , , , , , , , , , , , , , "
-BRE06,Adult,M,42,Brazil,,Rio de Janeiro,Photographer,4,Marketing,0,Executive & intellectual occupation,Better,"Better, less work, less obligations, , , , , , , , , , , , "
-BRE07,Adult,M,44,Brazil,,Palmeiras,Hiking Guide,0,,0,Employee,Better,"better, I'm rich compare to them, , , , , , , , , , , , , "
-BRE08,Adult,M,60,Brazil,,Rio de Janeiro,Restaurants Owner,0,,4,"Craftsmen, merchants & business owner",Better,"Better, brazil is a country of oppourtunity, My father was a barber, , , , , , , , , , , , "
-BRE09,Adult,F,42,Brazil,,Salvador,Lawyer and Tour Guide,10,Law and language,0,Executive & intellectual occupation,Both,"Some things better, dictature before, violence today, , , , , , , , , , , , "
-BRE10,Adult,F,74,Brazil,,Salvador,Retiree (Teacher),4,Teaching,3,Retiree,Worse,"better with money, more confort, i buy what i want and not what i can, , , , , , , , , , , , "
-BRE11,Adult,M,64,Brazil,Argentina,Rio de Janeiro,Mathematician,6,,,Executive & intellectual occupation,,KO
-BRE12,Adult,M,55,Brazil,,Jericocoara,Barman,0,,3,Employee,Worse,"Worse, It was better when I was 15, , , , , , , , , , , , , "
-BRE13,Adult,M,40,Brazil,,Jericocoara,Musician,0,,3,Executive & intellectual occupation,Better,"Better, , , , , , , , , , , , , , "
-BRE14,Adult,M,20,Brazil,,Jericocoara,Musician,0,,,Executive & intellectual occupation,Better,"Better, easier, money, Do what I want to do, , , , , , , , , , , "
-COL01,Adult,M,45,Colombia,,Quindio,Agriculture Worker,0,,2,Worker,Better,"Better, It was tough for my parents, , , , , , , , , , , , , "
-COL02,Adult,M,23,Colombia,,Quindio,Cafe,5,Administration,0,Employee,,", , , , , , , , , , , , , , "
-COL03,Adult,M,50,Colombia,,Quindio,Cafe,7,Economia,4,Employee,Better,"Better, , , , , , , , , , , , , , "
-COL04,Adult,F,70,Colombia,,Salento,Volunteer,0,,4,Not paid occupation,Worse,"More difficult, less traditions, more corruption, , , , , , , , , , , , "
-COL05,Adult,M,25,Colombia,,Minca,Agriculture Worker,0,,1,Worker,Better,"Better, my father had a car accident, , , , , , , , , , , , , "
-COL06,Adult,M,30,Colombia,,Bogotá,Project owner,5,International cooperation,0,Executive & intellectual occupation,Both,"Better, Their generation was focusing on jobs, us : how to live, why , because we have access to more information , At the same time some are lost, anxiety, less stability, , , , , , , , , "
-COL07,Adult,M,46,Colombia,,Santa Marta,Mason,0,,2,,Better,"A bit better, It was difficil with 3 children for my parents, but they raised me well , nothing material but good education, , , , , , , , , , , "
-COL08,Adult,F,43,Colombia,,Bogotá,Modern Language,2,Language,0,Executive & intellectual occupation,,", , , , , , , , , , , , , , "
-COL09,Adult,F,31,Colombia,,Bogotá,History teacher,7,Political Science,1,Intermediate occupation,Better,"Economically and freedom equal, less constraints, , , , , , , , , , , , , "
-COL10,Adult,M,28,Colombia,France,Ubaté,Farmer,6,Political Science,0,Farmer,Better,"Better for the freedom of doing what I want, , , , , , , , , , , , , , "
-COL11,Adult,F,50,Colombia,,Bogotá,"Editor, Entrepreneur, Artist",10,Design & education,0,Executive & intellectual occupation,Worse,"Some better, some worse, Opportunities for women, way better, access to communication, health, worst : life quality, pollution, food, more tasty, , , , , , , "
-COL12,Adult,M,32,Colombia,,Bogotá,Bogota Councilor,8,economy,0,Executive & intellectual occupation,Both,"More opportunities, but complicated world today, difficult to get out of everyday's rush, more simplicity before, , , , , , , , , , , "
-USA04,Adult,M,28,United States of America,Mexico,Dallas,Driving Delivery,1,Web Design,4,Worker,Better,"Worse, I've been blessed a lot, , , , , , , , , , , , , "
-USA05,Adult,M,34,United States of America,South Korea,Dallas,Company Owner,4,History,0,Executive & intellectual occupation,Neutral,"Both, better opportunities, , , , , , , , , , , , , "
-USA06,Adult,M,19,United States of America,,Dallas,Student,4,Business Administration,0,Student,Both,"First I didn't know what my parents were going to , SO worse and then better, They teach you to become stronger and live better, , , , , , , , , , , , "
-USA07,Adult,F,36,United States of America,,Dallas,Lead Farm,7,Health & Wealthness,3,Farmer,Better,"Better, Healthwise, my father wanted me to do better, hollistically I'm not sure I do better, , , , , , , , , , , "
-USA08,Adult,M,42,United States of America,,Dallas,Chef & CEO,4,Culinary,2,"Craftsmen, merchants & business owner",Better,"In general, better, more opportunities, , , , , , , , , , , , , "
-USA09,Adult,M,67,United States of America,,Dallas,CEO,7,Business and Finance,2,"Craftsmen, merchants & business owner",Better,"much better, physically, live longer, new world, easier, , , , , , , , , , "
-USA10,Adult,F,30,United States of America,,Forth Worth,Hairstylist,3,"Arts, Mental Health",,"Craftsmen, merchants & business owner",Better,"Simpler, I don't have kids, , , , , , , , , , , , , "
-USA11,Adult,M,46,United States of America,,New Orleans,Art Administration,4,Movie,,Intermediate occupation,Better,"Much better, I can do a lot more, not better economic prospect, , , , , , , , , , , , "
-USA12,Kid,F,7,United States of America,,Dallas,,,,,#N/A,,KO
-USA13,Adult,F,40,United States of America,,Detroit,Baker,5,Culinary,0,"Craftsmen, merchants & business owner",Cannot compare,"I live differently, I think I'm making better choices, when a day is done, it's really about how you make people feel, and she did amazing , , , , , , , , , , , , "
-USA14,Adult,F,49,United States of America,,New Orleans,Artist / Teacher,4,Painting,5,Executive & intellectual occupation,Cannot compare,"Very different, they were responsible human beings, I'm an artist, you can't escape that, I'm messy, they were more conformative, , , , , , , , , "
-USA15,Adult,M,59,United States of America,,New Orleans,Retired Attorney,9,Law,5,Retiree,Both,"same and now worse since I retired, , , , , , , , , , , , , , "
-USA16,Kid,F,14,United States of America,,New Orleans,School Girl,,,,Student,,KO
-USA17,Kid,F,9,United States of America,,New Orleans,School Girl,,,,Student,,KO
-USA18,Kid,M,10,United States of America,,New Orleans,School Boy,,,,Student,,KO
-USA19,Adult,M,35,United States of America,,New Orleans,Singer,3,Business,0,Executive & intellectual occupation,Worse,"much more complicated, I am more complicated, I am an african american gay male, , , , , , , , , , , , "
-USA20,Kid,M,7,United States of America,,New Orleans,,,,,#N/A,,KO
-USA21,Adult,M,30,United States of America,,New Orleans,Real Estate,4,Journalism,0,Executive & intellectual occupation,Both,"Both, I know more, some of things still havn't changed, , , , , , , , , , , , "
-USA22,Adult,F,26,United States of America,,Violet,Musician,0,,0,Executive & intellectual occupation,Better,"Life is easier, from what they raised me, I'm not living worse, I have an opportunity to fight, , , , , , , , , , , "
-USA23,Adult,M,44,United States of America,,New Orleans,Garden Science Teacher,4,Biology,3,Intermediate occupation,Better,"They might think that they lived better, I think I lived better, They reached a ceiling, they don't see beyond that scope, no ceiling for me , , , , , , , , , , "
-USA24,Adult,M,37,United States of America,,Dallas,Photographer,0,,2,Executive & intellectual occupation,Better,"Yes, overcome some problems that my parents had, progress, , , , , , , , , , , , "
-USA25,Adult,M,66,United States of America,,New Orleans,Artist / Musician,5,Jazz,0,Executive & intellectual occupation,Better,"Better, they were very poor, sacrifice, , , , , , , , , , , , "
-USA26,Adult,M,30,United States of America,,New Orleans,Artist,2,Business,0,Executive & intellectual occupation,,", , , , , , , , , , , , , , "
-USA27,Adult,F,27,United States of America,,New Orleans,Student,4,Mechanical Engineering,0,Student,Worse,"more difficult, knowledge doesn't help us, ignorance is blessed, less stressed out, , , , , , , , , , , "
-USA28,Adult,F,26,United States of America,,New York City,Community Manager,4,French / Religious studies,0,Executive & intellectual occupation,Neutral,"my dad is a refugee, so better in that sense, but he's happy, I don't know, same, , , , , , , , , , , "
-FR068,Kid,F,5,France,,New York City,,,,0,#N/A,,KO
-FR052,Kid,F,8,France,,New York City,,,,0,#N/A,,KO
-FR053,Adult,F,29,France,Lebanon,New York City,Art production,5,Art,0,Executive & intellectual occupation,Better,"My home is better than were I grew up, Now I live better, But My parents lived for us, I live for me, , , , , , , , , , , , "
-USA29,Adult,M,41,United States of America,,Dearborn,DJ / Producer,4,Fine Arts,2,Executive & intellectual occupation,Cannot compare,"My life is very similar , same neighbourhood, I live differently than them, father motor company, very different life, , , , , , , , , , "
-USA30,Adult,F,41,United States of America,,Dearborn,Record Label Owner,5,Business Administration,2,Executive & intellectual occupation,Better,"better, everything opposite that they educate me , , , , , , , , , , , , , "
-USA31,Adult,M,38,United States of America,,Ferndale,Roofer,2,General,0,"Craftsmen, merchants & business owner",Better,"A lot better, my mentality, progression, , , , , , , , , , , , "
-SYR07,Adult,M,39,Syrian Arab Republic,,Dearborn,Film Maker,4,Movie,1,Executive & intellectual occupation,,", , , , , , , , , , , , , , "
-USA32,Adult,F,30,United States of America,,Detroit,Artist Designer,6,"Political Science, Fiber Arts",0,Executive & intellectual occupation,Better,"I earn less, with technology it's my choice, it's my own destiny , , , , , , , , , , , , "
-USA33,Adult,F,34,United States of America,,Detroit,Uber Driver,4,International communication,0,Worker,Cannot compare,"In terms of what ? , it's circumstancial , they didn't have the internet, it's more complicated and easier, , , , , , , , , , , "
-USA34,Adult,F,28,United States of America,,Detroit,Tax analyst,3,Psychology,0,Executive & intellectual occupation,Better,"easier, better job at a younger age, , , , , , , , , , , , , "
-USA35,Adult,F,22,United States of America,,Detroit,Student,1,Environmental Science,0,Student,Better,"Better, my parents have paved the way for me that they didn't have, , , , , , , , , , , , , "
-USA36,Adult,F,57,United States of America,,New York City,Artist,6,Biological psychology / MBA,0,Executive & intellectual occupation,Better,"Better, they had to struggle so much t o get out of poverty that they didn't have time to enjoy life, , , , , , , , , , , , , "
-CHN02,Adult,F,33,China,,New York City,Marketing Manager,6,Economics & MBA,0,Executive & intellectual occupation,Both,"subjective, luckier than our parents, lot of  technical convenience, AC, psychological : overwhelmed with too many choices today, high level of satisfaction before, today frustration, every generation has its own problem, , , , , , , "
-ALL01,Adult,M,31,Germany,,New York City,Physician / Researcher,7,Medicine,0,Executive & intellectual occupation,Better,"Way better, opportunities, I enjoy my life, I wish they could do so, but there are happy too, , , , , , , , , , "
-ALL02,Adult,F,31,Germany,,New York City,Art historian,6,Art History,0,Executive & intellectual occupation,Better,"better, They provided me a lot, , , , , , , , , , , , , "
-USA37,Adult,F,30,United States of America,,New York City,Consultant,7,Business / Writing,0,Executive & intellectual occupation,Neutral,"equal, they gave me all the opportunities I have, , , , , , , , , , , , , "
-USA38,Adult,F,24,United States of America,Portugal,New York City,Maid / Designer,6,Hospitality & tourism management / Design,0,Executive & intellectual occupation,Neutral,"Equal, When they were my age they were dealing with the samei thing, , , , , , , , , , , , , "
-FR054,Adult,M,36,France,,Paris,Consultant,3,Language and political sciences,1,Executive & intellectual occupation,Neutral,"Same, good level of living, , , , , , , , , , , , , "
-FR055,Adult,M,27,France,,Paris,Lawyer,5,Law,0,Executive & intellectual occupation,Worse,"Worse, they start way faster than me a life made of small pleasure, plus insousciants, I always have to fights to keep everything, there's always someone to try to fuck you, we are sick of equality, , , , , , , , , "
-FR056,Adult,M,59,France,,Paris,Productor / Journalist,5,"Political Science, Journalism",4,Executive & intellectual occupation,Both,"I don't know, better standards of living, but easier in the 80' because we still had some illusions, , , , , , , , , , , , "
-AUS02,Adult,M,29,Australia,,New York City,Freelance Artist,5,Architecture / Fashion / Advertising,0,Executive & intellectual occupation,Both,"Both, more complications with technologies, but more options, , , , , , , , , , , , "
-SYR08,Kid,M,13,Syrian Arab Republic,,Paris,,,,,#N/A,,KO
-SYR09,Kid,M,10,Syrian Arab Republic,,Paris,,,,,#N/A,,KO
-SYR10,Kid,M,6,Syrian Arab Republic,,Paris,,,,,#N/A,,KO
-EN10,Kid,F,9,Kosovo (Republic of),UK,London,,,,,#N/A,,KO
-EN11,Kid,F,9,United Kingdom of Great Britain and Northern Ireland,Pakistan,London,,,,,#N/A,,KO
-EN12,Kid,F,10,United Kingdom of Great Britain and Northern Ireland,,London,,,,,#N/A,,KO
-ROM01,Kid,M,11,Romania,England,London,,,,,#N/A,,KO
-EN13,Kid,M,10,Kosovo (Republic of),UK,London,,,,,#N/A,,KO
-EN14,Kid,M,10,United Kingdom of Great Britain and Northern Ireland,Pakistan,London,,,,,#N/A,,KO
-EN15,Kid,F,11,United Kingdom of Great Britain and Northern Ireland,Caribbean,London,,,,,#N/A,,KO
-HUN01,Kid,F,11,Hungary,Iran,London,,,,,#N/A,,KO
-EN16,Kid,M,11,United Kingdom of Great Britain and Northern Ireland,,London,,,,,#N/A,,KO
-EN17,Kid,F,11,United Kingdom of Great Britain and Northern Ireland,,London,,,,,#N/A,,KO
-EN18,Kid,M,11,Lebanon,UK,London,,,,,#N/A,,KO
-MAR01,Kid,F,11,Morocco,,London,,,,,#N/A,,KO
-EN19,Kid,F,11,United Kingdom of Great Britain and Northern Ireland,,London,,,,,#N/A,,KO
-EN20,Kid,F,11,Pakistan,UK,London,,,,,#N/A,,KO
-EN21,Kid,F,7,United Kingdom of Great Britain and Northern Ireland,,London,,,,,#N/A,,KO
-EN22,Kid,F,7,United Kingdom of Great Britain and Northern Ireland,,London,,,,,#N/A,,KO
-EN23,Kid,F,9,United Kingdom of Great Britain and Northern Ireland,,London,,,,,#N/A,,KO
-EN24,Kid,M,8,United Kingdom of Great Britain and Northern Ireland,,London,,,,,#N/A,,KO
-AUS03,Kid,F,6,Australia,,London,,,,,#N/A,,KO
-EN25,Kid,M,7,United Kingdom of Great Britain and Northern Ireland,,London,,,,,#N/A,,KO
-RUS02,Kid,M,6,Russian Federation,,Moscow,,,,,#N/A,,KO
-RUS03,Kid,F,10,Russian Federation,,Moscow,,,,,#N/A,,KO
-RUS04,Kid,F,9,Russian Federation,,Moscow,,,,,#N/A,,KO
-RUS05,Adult,F,31,Russian Federation,,Moscow,Recruiter,5,Psychology,0,Intermediate occupation,Better,"Better, more open world, more opportunities, less stereotypes, happier, , , , , , , , , , "
-AZ01,Adult,F,24,Azerbaijan,Russia,Moscow,PR,5,International relations,0,Intermediate occupation,Better,"Better, they lived during soviet times, everybody knows what happened then, , , , , , , , , , , , "
-RUS06,Adult,M,44,Russian Federation,Ossetia,Moscow,Entrepreneur,10,Physics,1,Executive & intellectual occupation,,", , , , , , , , , , , , , , "
-RUS07,Adult,F,76,Russian Federation,,Moscow,Professor of economics,10,International economy and Foreign Trade Finance,1,Executive & intellectual occupation,Neutral,"it depends on the health and the age, , , , , , , , , , , , , , "
-RUS08,Adult,M,39,Russian Federation,,Moscow,Conductor of Russian Style Folkestra,9,Music,1,Executive & intellectual occupation,Better,"Easier, Calmer, , , , , , , , , , , , , "
-OUZ01,Adult,F,48,Uzbekistan,,Moscow,Cleaning Lady,0,,3,Employee,Worse,"Worse, Soviet union before, Stability, didn't think about tomorrow, no odd jobs, , , , , , , , , , "
-RUS09,Adult,M,26,Russian Federation,,Moscow,Operations Manager,5,Translation and interpretation,0,Executive & intellectual occupation,Cannot compare,"I can't answer, different rules and school programs, culture…, I'm leaving in another country, their life is their life, they had their happy moments, , , , , , , , , , "
-RUS10,Adult,F,33,Russian Federation,,Moscow,Newspaper Director,5,Economics,0,Executive & intellectual occupation,Better,"better , more opportunities, better political system, , , , , , , , , , , , "
-RUS11,Adult,F,31,Russian Federation,,Moscow,Education,7,Linguistics,0,Intermediate occupation,Better,"Better, the world is becoming better, every generation , , , , , , , , , , , , "
-GE01,Adult,F,26,Georgia,Russia,Tbilisi,"Director, Writer",5,PR,0,Executive & intellectual occupation,Better,"Better life, I can do anything, and choose my life, I can listen to my heart, They didn't believe they can do everything, no thinking about what they really want to do , If people understand what they want to do, the world will change, I try to take them out of them, , , , , , , "
-GE02,Adult,F,26,Georgia,Russia,Moscow,Director,5,Art History,0,Executive & intellectual occupation,Better,"Better, more opportunities, Life in soviet times was very different, more complicated to get knowledge, to explore the world, to provide yourslefe with anything , , , , , , , , , , , "
-RUS12,Adult,F,27,Russian Federation,,Irkutsk,HR,6,Economics,1,Intermediate occupation,Better,"Better, And I try to help them to plundge into my world, , , , , , , , , , , , , "
-TR08,Adult,M,23,Turkey,,Istanbul,Volunteer Imam and Student,5,International relations,0,Student,,", , , , , , , , , , , , , , "
-RUS13,Adult,F,28,Russian Federation,,Olkhon Island,Hotel Administrator,5,economy,0,Intermediate occupation,Cannot compare,"I don't know, time was different, they cared less about things, maybe things were easier and more simple before, , , , , , , , , , , , "
-MN01,Adult,M,54,Mongolia,,Soft Gobi,Nomad,0,,3,Not paid occupation,Better,"Better, we have plenty of everything now, they were nothing more they could do than taking care of the cattle, , , , , , , , , , , , "
-MN02,Adult,M,61,Mongolia,,Middle Gobi,Driver,0,,2,Worker,Cannot compare,"Parents were nomad, different life but both happy, , , , , , , , , , , , , "
-KOR01,Adult,F,36,Republic of Korea,,Seoul,Elementary school teacher,3,,0,Intermediate occupation,Better,"Easier, not the same chances to study, I studied mostly via the internet, I live better than them, , , , , , , , , , , "
-MN03,Adult,F,24,Mongolia,,Ulaanbaatar,Student,4,electronic engineering,0,Student,,", , , , , , , , , , , , , , "
-MN04,Adult,M,28,Mongolia,,Ulaanbaatar,,2,,,#N/A,Better,"Better, , , , , , , , , , , , , , "
-MN05,Adult,M,28,Mongolia,,Ulaanbaatar,Motorcycle racer,4,information technology,0,Intermediate occupation,,", , , , , , , , , , , , , , "
-CAM01,Adult,F,47,Cameroon,,Ulaanbaatar,Sister,5,Education,0,Not paid occupation,Better,"Better, long time ago, world has changed, , , , , , , , , , , , , "
-TW01,Adult,F,20,Taiwan (Republic of China),,Taipei,Student,4,Fashion Design,0,Student,,", , , , , , , , , , , , , , "
-CHN03,Adult,F,31,China,,Ulaanbaatar,Sister,5,Theology,0,Not paid occupation,,", , , , , , , , , , , , , , "
-MN06,Kid,F,7,Mongolia,,Ulaanbaatar,,,,,#N/A,,KO
-MN07,Kid,F,9,Mongolia,,Ulaanbaatar,,,,,#N/A,,KO
-MN08,Adult,F,24,Mongolia,,Ulaanbaatar,Student,4,Tourism and hotellerie,0,Student,Better,"Better, , , , , , , , , , , , , , "
-MN09,Adult,F,53,Mongolia,,Ulaanbaatar,Teacher,8,Teaching,3,Intermediate occupation,,", , , , , , , , , , , , , , "
-MN10,Adult,F,58,Mongolia,,Ulaanbaatar,Cook,4,Bachelor,4,Employee,,", , , , , , , , , , , , , , "
-MN11,Adult,F,46,Mongolia,,Ulaanbaatar,Sewing teacher,4,Sewing,1,Intermediate occupation,Better,"way better because of technology, Hungary in 1992 - very exepensive to communicate with my mum, today she is in France and we talk everyday for free, , , , , , , , , , , , "
-MN12,Adult,F,30,Mongolia,,Ulaanbaatar,Mother,4,Tourism,2,Not paid occupation,Better,"Better, More chance for education for kids, But they also need more things than before, , , , , , , , , , , , "
-MN13,Adult,F,40,Mongolia,,Ulaanbaatar,Kindergarden teacher,0,,3,Intermediate occupation,Worse,"Everybody had a job at that time, people used to communicate more, it's getting more complicated now, , , , , , , , , , , , "
-MN14,Adult,M,28,Mongolia,,Ulaanbaatar,Policeman,0,,1,Employee,Neutral,"50/50, I have to take care of family and many other things, , , , , , , , , , , , , "
-AFG02,Adult,M,26,Afghanistan,,Ulaanbaatar,Student,5,Business,0,Student,,", , , , , , , , , , , , , , "
-YEM01,Adult,M,34,Yemen,,Ulaanbaatar,Business,3,Computer application,1,Executive & intellectual occupation,,", , , , , , , , , , , , , , "
-MN15,Adult,F,45,Mongolia,,Ulaanbaatar,Museum Guide,0,,3,Employee,Worse,"Worse, socialist system before, better living potential and welfare state, society is getting tough now, , , , , , , , , , , "
-SG01,Adult,F,25,Singapore,,Singapore,Fashion Designer & Nurse,4,Nurse & Fashion Design,0,Executive & intellectual occupation,,", , , , , , , , , , , , , , "
-SG02,Adult,M,27,Singapore,,Singapore,Friefighter,4,Animation,0,Employee,,", , , , , , , , , , , , , , "
-PH01,Adult,F,28,Philippines,,Singapore,Preschool Teacher,8,Education,,Intermediate occupation,Better,"Easier, I also learnt to grow the hard way, they are used to hard time, more resilient, sometimes I feel like giving up, , , , , , , , , , "
-SG03,Adult,F,29,Singapore,,Singapore,Content Producer,2,Mass communications,0,Executive & intellectual occupation,Better,"Life is easier, we have much more, maybe simpler before, complicated doesn't mean it""s bad, I have more freedom, grandma 13 kids !, financially stable, , , , , , , , "
-SG04,Adult,M,26,Singapore,,Singapore,Urban Planner,4,Urban Planning,0,Executive & intellectual occupation,,", , , , , , , , , , , , , , "
-SG05,Adult,F,33,Singapore,,Singapore,Coordinator,7,Science,0,Executive & intellectual occupation,Better,"people focus more on purpose than job itself today, so easier , , , , , , , , , , , , , "
-SG06,Adult,F,29,Singapore,,Singapore,Director / Producer,6,Film & Theatre,0,Executive & intellectual occupation,,", , , , , , , , , , , , , , "
-IND02,Adult,F,36,India,,Singapore,Communication Strategist,5,Business & Communication,1,Executive & intellectual occupation,,", , , , , , , , , , , , , , "
-MN16,Kid,F,6,Mongolia,,Ulaanbaatar,,,,,#N/A,,KO
-MYN01,Adult,M,32,Myanmar,,Yangon,Head of IT & Business Solutions,4,Mathematics,0,Executive & intellectual occupation,,", , , , , , , , , , , , , , "
-MYN02,Adult,M,33,Myanmar,,Yangon,Security Guard,,,,Employee,,", , , , , , , , , , , , , , "
-CAN03,Adult,M,54,Canada,,Yangon,Wellness Therapist,7,,2,Executive & intellectual occupation,,", , , , , , , , , , , , , , "
-MYN03,Adult,F,25,Myanmar,,Yangon,Freelance Consultant,5,Economics,0,Executive & intellectual occupation,,", , , , , , , , , , , , , , "
-IND03,Adult,M,46,India,,Yangon,Marketing Director,7,Physics and Management,1,Executive & intellectual occupation,,", , , , , , , , , , , , , , "
-MYN04,Adult,F,24,Myanmar,,Yangon,Research Assistant,4,Economics,0,Executive & intellectual occupation,Worse,"More complicated, many aspects to consider, they didn't have to worry about many things, , , , , , , , , , , , "
-MYN05,Adult,M,26,Myanmar,,Yangon,Translator,5,Electrical Power and English,0,Executive & intellectual occupation,,", , , , , , , , , , , , , , "
-MYN06,Adult,F,18,Myanmar,India,Yangon,"Teacher, Sales and Marketing",2,Arts,0,Intermediate occupation,,", , , , , , , , , , , , , , "
-IDN02,Adult,F,34,Indonesia,,Yangon,Teacher,5,Mathematics,,Intermediate occupation,Worse,"More complicated, Their life was more simple, little things to make them happy, today more than that, , , , , , , , , , , "
-IDN03,Adult,M,41,Indonesia,,Yangon,Entrepreneur,5,Management,,Executive & intellectual occupation,,", , , , , , , , , , , , , , "
-IDN04,Kid,M,13,Indonesia,,Yangon,,,,,#N/A,,KO
-MYN07,Adult,M,31,Myanmar,,Yangon,Teacher,9,Chemistry,0,Intermediate occupation,Cannot compare,"I don't know, Ive never lived my parents life, , , , , , , , , , , , , "
-MYN08,Adult,M,24,Myanmar,,Yangon,Business Manager,3,English,0,Executive & intellectual occupation,,", , , , , , , , , , , , , , "
-MYN09,Adult,F,30,Myanmar,,Yangon,Preschool Teacher,3,BA language,0,Intermediate occupation,Both,"Life is difficult, same, mum single, , , , , , , , , , , , "
-MYN10,Adult,M,47,Myanmar,,Yangon,Monk,4,Monastery,0,Intermediate occupation,Better,"Easier, thanks to my teachers, my parents : traditional way in the village, me city, , , , , , , , , , , "
-MYN11,Adult,M,26,Myanmar,,Ayervatty Division,Student,2,Agriculture,0,Student,,", , , , , , , , , , , , , , "
-MYN12,Adult,M,55,Myanmar,,Yangon,NGO Founder,2,Organic Argiculture,3,"Craftsmen, merchants & business owner",Better,"Easier, I created what I want to do, , , , , , , , , , , , , "
-ALL03,Adult,M,48,Germany,,Yangon,International Police Adviser,5,"Risk Crisis Management, Peacekeeping",1,Executive & intellectual occupation,Both,"Philosophical question, everytime in life has its challenges, old enough to look back when we had no internet, more quiet, but hard to say if it was better, , , , , , , , , , "
-MYN13,Adult,F,24,Myanmar,,Mandalay,Teacher,4,English,0,Intermediate occupation,Both,"More complicated, I moved to mandalay, to continue my studies, thought it was more easy, but very competitive, lots of skills to have a job, why can't we learn from doing things ?, , , , , , , , "
-MYN14,Adult,F,22,Myanmar,,Countryside,Student,1,Agriculture,0,Student,,", , , , , , , , , , , , , , "
-IND04,Adult,M,33,India,,New Delhi,Policeman,0,Central School,2,Employee,,", , , , , , , , , , , , , , "
-IND05,Adult,F,83,India,,Gurgaon,Housewife,2,Arts,4,Not paid occupation,,", , , , , , , , , , , , , , "
-IND06,Adult,F,53,India,,Gurgaon,Teacher,7,Botany,1,Intermediate occupation,,", , , , , , , , , , , , , , "
-IND07,Adult,F,32,India,,New Delhi,Cook,0,,3,Employee,,", , , , , , , , , , , , , , "
-IND08,Adult,M,37,India,,New Delhi,Bag Master,0,,8,,Worse,"Worse, inflation very high now, easier for them to bring us up, difficult today, , , , , , , , , , , "
-IND09,Adult,M,35,India,,New Delhi,Belt Master,0,,2,,Better,"My parents life was more complicated, more problems, no one was eanring money at all, , , , , , , , , , , , "
-IND10,Adult,F,23,India,,Nimmu,House keeping,,,0,Employee,,", , , , , , , , , , , , , , "
-IND11,Adult,M,37,India,,New Delhi,Yoga Coach,5,Yoga arts and management,2,Executive & intellectual occupation,,", , , , , , , , , , , , , , "
-IND12,Adult,M,43,India,,Gurgaon,Business Manager,3,Humanities /Arts,2,Executive & intellectual occupation,,", , , , , , , , , , , , , , "
-IND13,Adult,M,36,India,,Gurgaon,Business Manager,5,Commerce / Fashion,2,Executive & intellectual occupation,,", , , , , , , , , , , , , , "
-IND14,Adult,F,41,India,,New Delhi,Home Maker,7,Accounting,1,Executive & intellectual occupation,Both,"Both, I was happier when I was a child, Technology didn't bring us as much ease as we think, I feel unconfortable when I don't have my phone, , , , , , , , , , , "
-IND15,Adult,F,32,India,,Gurgaon,Product developper (fashion),3,Fashion,1,Executive & intellectual occupation,Better,"More comfortable, I've seen girls not educated just because they where girls, they didn't do this to me, , , , , , , , , , , , "
-USA39,Adult,F,35,United States of America,,Los Angeles,Interior Designer,5,Interior Design,,Executive & intellectual occupation,,", , , , , , , , , , , , , , "
-IND16,Adult,F,17,India,,New Delhi,,,,,#N/A,,KO
-IND17,Adult,M,19,India,,New Delhi,,,,,#N/A,,KO
-IND18,Adult,F,19,India,,New Delhi,,,,,#N/A,,KO
-IND19,Adult,F,19,India,,New Delhi,,,,,#N/A,,KO
-IND20,Adult,F,18,India,,New Delhi,,,,,#N/A,,KO
-IND21,Adult,M,20,India,,New Delhi,,,,,#N/A,,KO
-IND22,Adult,F,18,India,,New Delhi,,,,,#N/A,,KO
-IND23,Adult,F,18,India,,New Delhi,,,,,#N/A,,KO
-IND24,Adult,F,20,India,,New Delhi,,,,,#N/A,,KO
-IND25,Adult,F,20,India,,New Delhi,,,,,#N/A,,KO
-IND26,Adult,F,18,India,,New Delhi,,,,,#N/A,,KO
-IND27,Adult,M,18,India,,New Delhi,,,,,#N/A,,KO
-IND28,Adult,F,18,India,,New Delhi,,,,,#N/A,,KO
-IND29,Adult,F,18,India,,New Delhi,,,,,#N/A,,KO
-IND30,Adult,F,20,India,,Kolkata,,,,,#N/A,,KO
-IND31,Adult,M,18,India,,Kolkata,,,,,#N/A,,KO
-IND32,Adult,M,22,India,,Kolkata,,,,,#N/A,,KO
-IND33,Adult,F,20,India,,Kolkata,,,,,#N/A,,KO
-IND34,Adult,F,16,India,,Kolkata,,,,,#N/A,,KO
-IND35,Adult,F,21,India,,Kolkata,,,,,#N/A,,KO
-IND36,Adult,M,21,India,,Kolkata,,,,,#N/A,,KO
-IND37,Adult,F,18,India,,Kolkata,,,,,#N/A,,KO
-IND38,Adult,F,20,India,,Kolkata,,,,,#N/A,,KO
-FR057,Adult,M,24,France,,Kolkata,,,,,#N/A,,KO
-FR058,Adult,M,29,France,,Kolkata,,,,,#N/A,,KO
-IND39,Adult,F,30,India,,New Delhi,Artist,7,Engineering,,Executive & intellectual occupation,Both,"Pros and cons, simpler in terms of opportunities, better education, travel, they didn't have this, their life was simple, sometimes we have too many choices, , , , , , , , "
-IND40,Adult,M,43,India,,New Delhi,Tailor,,,3,"Craftsmen, merchants & business owner",,", , , , , , , , , , , , , , "
-IND41,Adult,F,40,India,,Bangalore,Banker,6,Business,0,Executive & intellectual occupation,Both,"Complicated because I want more, Easier because of techology, superior technical era, , , , , , , , , , , , "
-IND42,Adult,F,75,India,,Kolkata,Housewife,4,Littérature and history,2,Not paid occupation,,", , , , , , , , , , , , , , "
-AUS04,Adult,F,34,Australia,India,Kolkata,Homemaker,5,English littérature,1,"Craftsmen, merchants & business owner",Both,"Both, they had simpler needs, also lots of things are easier, technologies, too many choices today, , , , , , , , , , "
-IND43,Adult,M,27,India,,Kolkata,Retail,3,Arts,3,"Craftsmen, merchants & business owner",Better,"Easier, everything gets better with time, at their time struggle was everything, , , , , , , , , , , , "
-NP01,Adult,F,33,Nepal,,Kathmandu,Social Worker,5,Sociology,72,Intermediate occupation,,", , , , , , , , , , , , , , "
-NP02,Adult,M,50,Nepal,,Kathmandu,Shop retailer,0,,3,"Craftsmen, merchants & business owner",,", , , , , , , , , , , , , , "
-NP03,Adult,M,34,Nepal,,Kathmandu,Entrepreneur,6,Business,0,Executive & intellectual occupation,,", , , , , , , , , , , , , , "
-NP04,Adult,F,15,Nepal,,Kathmandu,Student,,,,Student,Neutral,"I don't know before my birth, same food , same type of clothe, we sleep in same kind of rooms, so same same, , , , , , , , , , "
-NP05,Adult,M,40,Nepal,,Kathmandu,Motivational trainer,12,"Yoga, human consciousness",,Executive & intellectual occupation,Both,"Modernity, trains, technology, I'm compelled to make my life complex, but yoga helps me to make it more simple , , , , , , , , , , , , "
-NP06,Adult,M,55,Nepal,,Kathmandu,Chief of local government,3,Management,2,Executive & intellectual occupation,,", , , , , , , , , , , , , , "
-NP07,Adult,F,34,Nepal,,Kathmandu,Cook,0,,2,Employee,Better,"Much easier now, Im' independent, I don't need to ask people for money, , , , , , , , , , , , "
-NP08,Adult,M,44,Nepal,,Kathmandu,Farmer,0,,2,Farmer,,", , , , , , , , , , , , , , "
-NP09,Adult,F,16,Nepal,,Kathmandu,Student,,Management,,Student,,", , , , , , , , , , , , , , "
-NP10,Adult,M,30,Nepal,,Chaughada,Worker,6,Humanities,,Worker,Better,"Easier, in their time, no mobile or TV, walk 9h to kathmandu, now a bus or motorbike, new technology helps us, , , , , , , , , , , "
-NP11,Adult,M,31,Nepal,,Kathmandu,Teacher,3,Sociology,2,Intermediate occupation,,", , , , , , , , , , , , , , "
-NP12,Adult,M,64,Nepal,,Chaughada,Rice Mill Owner,0,,,"Craftsmen, merchants & business owner",,", , , , , , , , , , , , , , "
-NP13,Adult,F,46,Nepal,,Chaughada,Housewife,0,,2,Not paid occupation,,", , , , , , , , , , , , , , "
-NP14,Adult,F,23,Nepal,,Chaughada,Housewife,0,,0,Not paid occupation,,", , , , , , , , , , , , , , "
-NP15,Adult,M,24,Nepal,,Chaughada,Farmer,0,,1,Farmer,,", , , , , , , , , , , , , , "
-NP16,Adult,M,14,Nepal,,Chaughada,Student,,,,Student,,", , , , , , , , , , , , , , "
-NP17,Adult,M,49,Nepal,,Chaughada,Farmer,0,,2,Farmer,,", , , , , , , , , , , , , , "
-NP18,Adult,F,26,Nepal,,Chaughada,Housewife,0,,1,Not paid occupation,,", , , , , , , , , , , , , , "
-NP19,Adult,M,48,Nepal,,Kathmandu,Travel Agent / School principal,5,Anthropology,0,Intermediate occupation,,", , , , , , , , , , , , , , "
-NP20,Adult,F,17,Nepal,,Kathmandu,Student,,,0,Student,,", , , , , , , , , , , , , , "
-IRN02,Adult,M,30,Iran (Islamic Republic of),,Tehran,Petroleum Engineer,4,Petroleum Engineering,0,Executive & intellectual occupation,,", , , , , , , , , , , , , , "
-IRN03,Adult,F,27,Iran (Islamic Republic of),,Tehran,Advertising,7,Architecture,0,Executive & intellectual occupation,,", , , , , , , , , , , , , , "
-AFG03,Adult,M,42,Afghanistan,,Tehran,Caretaker,0,,2,Intermediate occupation,Better,"Easier, My parents had 7 kids, I have only 2, , , , , , , , , , , , , "
-IRN04,Adult,M,32,Iran (Islamic Republic of),,Shiraz,Tour guide and former nomad,5,english translation,1,Employee,,", , , , , , , , , , , , , , "
-IRN05,Adult,M,23,Iran (Islamic Republic of),,Tehran,Artist (destructor and creator),5,Architecture,0,Executive & intellectual occupation,Both,"Way more complicated, in a good way, I like it, But not as hard, more complex but easier, , , , , , , , , , "
-IRN06,Adult,M,83,Iran (Islamic Republic of),France,Tehran,"Architect, writer",8,Architecture,2,Executive & intellectual occupation,Better,"Always nostalgia about our fathers, but I think usually life is better, life standard has improve thoughout the ages, , , , , , , , , , , , "
-IRN07,Adult,F,40,Iran (Islamic Republic of),France,Tehran,,3,Communication,0,#N/A,Worse,"More complicated, my parents came from a very high social environment, I could have been beyonce, but with the revolution we lost everything, and the country lost a lot loosing all these people, anyway it was better before, we lived less long, cancer, on vit mal plus longtemps, , , , , , "
-IRN08,Adult,F,26,Iran (Islamic Republic of),,Tehran,English teacher,5,English littérature & langugage,0,Intermediate occupation,,", , , , , , , , , , , , , , "
-ALL04,Adult,F,31,Germany,,Munich,Publisher writer,5,Middle eastern studies,0,Executive & intellectual occupation,Neutral,"It has never been easy, war before, cold war, economic crises, life is always easy or hard, depends on your vision, , , , , , , , , , "
-IRN09,Adult,F,25,Iran (Islamic Republic of),,Tehran,Photographer,4,photography,0,Executive & intellectual occupation,,", , , , , , , , , , , , , , "
-KEN01,Adult,F,30,Kenya,,Addis Ababa,Unemployed,2,Business,0,Not paid occupation,Better,"Easier, no school before, no medication, I can go to hospital without problems, , , , , , , , , , , "
-ETH01,Adult,M,28,Ethiopia,,Addis Ababa,Tour and travel,3,tourism,0,Employee,,", , , , , , , , , , , , , , "
-ETH02,Adult,M,67,Ethiopia,,Addis Ababa,Retired higher executive,2,marketing,2,Retiree,,", , , , , , , , , , , , , , "
-IRN10,Adult,F,20,Iran (Islamic Republic of),,Tehran,Actress,3,Fashion design,0,Executive & intellectual occupation,Both,"More complicated, different time, girls used to get married and have a family earlier, men used to work and support their family, today life is more about pursuing your dreams and try to do what you want, add something to this world, , , , , , , , , "
-IRN11,Adult,M,23,Iran (Islamic Republic of),,Isfahan,Student,5,Management,0,Student,,", , , , , , , , , , , , , , "
-IRN12,Adult,M,36,Iran (Islamic Republic of),,Isfahan,Clergy,13,Theology,3,Intermediate occupation,Better,"Plus facile, Lots of possibilities now, lots of things to do, , , , , , , , , , , , "
-IRN13,Adult,M,73,Iran (Islamic Republic of),,London,Retired Engineer,5,Engineering,2,Retiree,Worse,"More complicated, It's gonna be more complicated for my kids, we're advancing but life is getting harder, , , , , , , , , , , , "
-IRN14,Adult,M,21,Iran (Islamic Republic of),,Tehran,Programmer,2,Software engineering,0,Executive & intellectual occupation,Neutral,"Same, I experience something they never experienced, vice versa, , , , , , , , , , , , "
-IRN15,Adult,F,25,Iran (Islamic Republic of),,Tehran,Receptionist and editor,7,Theatre,0,Employee,Neutral,"You cannot measure that, there were living a hard time under revolution and war, we are having troubles in another way, life is equally complicated, , , , , , , , , , , "
-IRN16,Adult,M,30,Iran (Islamic Republic of),,Tehran,Barista,6,Sociology,0,Employee,Both,"Both, No hard work for me, social situation is more complicated, mentally, physically easier, we have to work hard, we don't trust eachother anymore, things have changed a lot, , , , , , , , "
-IRN17,Adult,M,24,Iran (Islamic Republic of),,Tehran,Barista and wood worker,5,Theatre,0,Employee,,", , , , , , , , , , , , , , "
-IRN18,Adult,M,25,Iran (Islamic Republic of),,Tehran,Journalist and producer,5,Computer language,0,Executive & intellectual occupation,,", , , , , , , , , , , , , , "
-IRN19,Adult,M,57,Iran (Islamic Republic of),,Tehran,Taxi Driver,0,,3,Worker,Better,"Easier, my parents fought for my success, first in my family to finish high school, That's why I alos invested a lot in my children education, I wish all children of the world can receive education, even if they are unemployed, , , , , , , , , "
-IRN20,Adult,F,24,Iran (Islamic Republic of),,Tehran,Student and receptionist,5,Architecture Arts,0,Student,,", , , , , , , , , , , , , , "
-ZIM01,Adult,M,54,Zimbabwe,,Bulawayo,Retired Police officer and peacekeeper,2,Managing peace and security,6,Retiree,,", , , , , , , , , , , , , , "
-ZAM01,Adult,F,37,Zambia,,Addis Ababa,Policy officer Economics,5,Economics and development management,2,Executive & intellectual occupation,,", , , , , , , , , , , , , , "
-ETH03,Adult,M,23,Ethiopia,,Menagesha,Farm employee,0,,,Worker,,", , , , , , , , , , , , , , "
-ETH04,Adult,F,30,Ethiopia,,Menagesha,Farm employee,0,,,Worker,,"I don't know, , , , , , , , , , , , , , "
-ETH05,Adult,M,54,Ethiopia,,Menagesha,Farm employee,0,,,Worker,Neutral,"My parents were not rich but they have a house, I came here when I was young, I live happy here, god willing, gove something to my children, , , , , , , , , , , "
-ETH06,Adult,F,45,Ethiopia,,Addis Ababa,Gender and development coordinator,10,International economics relations,,Executive & intellectual occupation,,", , , , , , , , , , , , , , "
-ETH07,Adult,M,36,Ethiopia,,Addis Ababa,Agronomist,4,General Agriculture,1,Executive & intellectual occupation,Both,"more competitive life, world is more competitive, less population before, better availabilities of things, , , , , , , , , , , "
-ETH08,Adult,M,49,Ethiopia,,Menagesha,Farm manager,0,Automechanics,3,Farmer,,", , , , , , , , , , , , , , "
-ETH09,Adult,F,55,Ethiopia,,Dorze,Potery maker,0,,5,Executive & intellectual occupation,Better,"getting better, no schools before, learn from the kids, good for the future, , , , , , , , , , , "
-ZIM02,Adult,F,42,Zimbabwe,,Addis Ababa,Social Scientist,5,Social Studies,1,Executive & intellectual occupation,Worse,"I've been to different countries and environments, my parents always same government job, straght forward, Me I have to adapt, My life is more complicated, , , , , , , , , , "
-ANG,Adult,F,31,Angola,,Addis Ababa,Assistant,7,Environment,0,Employee,Worse,"More complicated, lots of problems today, demography, climate, it was different before, we try to offset the problem of the past, , , , , , , , , , "
-ETH10,Adult,F,26,Ethiopia,,Addis Ababa,Writer,5,Law,0,Executive & intellectual occupation,,", , , , , , , , , , , , , , "
-ETH11,Adult,M,30,Ethiopia,,Addis Ababa,Unemployed,0,,0,Not paid occupation,,", , , , , , , , , , , , , , "
-ETH12,Adult,F,35,Ethiopia,,Dorze,Potery maker,,,3,Executive & intellectual occupation,,", , , , , , , , , , , , , , "
-ETH13,Adult,F,15,Ethiopia,,Dorze,Student,,,,Student,,", , , , , , , , , , , , , , "
-ETH14,Adult,M,51,Ethiopia,,Addis Ababa,Pastoral ministery,12,"Language and littérature, theology",2,Intermediate occupation,,", , , , , , , , , , , , , , "
-KEN02,Adult,F,39,Kenya,,Addis Ababa,"Senior Policy officer, climate change",6,Environmental science,2,Executive & intellectual occupation,,", , , , , , , , , , , , , , "
-ETH15,Adult,M,24,Ethiopia,,Dorze,Student,5,Electrical and computer engineering,0,Student,Better,"More easy, There living style was different, they couldn't even feed me, I go to school, , , , , , , , , , , "
-ETH16,Adult,M,51,Ethiopia,,Addis Ababa,Education related,6,Education,3,Intermediate occupation,Better,"Easier, main town, clean potable water, electricity , news tv and radio, my parents lived in darkness, , , , , , , , , "
-ETH17,Adult,M,25,Ethiopia,,Addis Ababa,Engineer,5,Electrical and computer engineering,5,Executive & intellectual occupation,Neutral,"Average, same, Not so difficult, not so easy, , , , , , , , , , , , "
-ETH18,Adult,F,71,Ethiopia,,Addis Ababa,Sister,4,Social Studies,0,Not paid occupation,,", , , , , , , , , , , , , , "
-FR059,Adult,M,56,France,Algeria,Paris,Director,5,Nuclear engineering,4,Executive & intellectual occupation,,", , , , , , , , , , , , , , "
-FR060,Adult,F,28,France,,Paris,Artist,3,Fine arts,0,Executive & intellectual occupation,,", , , , , , , , , , , , , , "
-FR061,Adult,F,31,France,,Paris,Artist,5,Fine arts,0,Executive & intellectual occupation,,", , , , , , , , , , , , , , "
-FR062,Adult,M,50,France,,Troyes,Technical director,5,Marketing,1,Executive & intellectual occupation,,", , , , , , , , , , , , , , "
-IND44,Adult,M,58,India,France,Paris,Life Coach,4,Psychology,2,Executive & intellectual occupation,,", , , , , , , , , , , , , , "
-SG07,Adult,F,32,Singapore,,Singapore,International Lawyer,5,Law,0,Executive & intellectual occupation,Better,"Easier, the country was very new at the time of ma parents, they had to fight for things that we are taking for granted, university, right to live , these days we never struggle for those things, , , , , , , , , "
-FR063,Adult,M,62,France,,Marly-le-Roi,"Conseiller ministeriel, Maire",10,"Droit, ENA",2,Executive & intellectual occupation,Both,"We live better, simpler practically, But we need to adapt more than before, very fast changes, we live longer and healthier, access to the news, but more stress with the change, , , , , , , , "
-FR064,Adult,F,28,France,,Louveciennes,Deputee,5,Political Science,0,Executive & intellectual occupation,,", , , , , , , , , , , , , , "
-FR065,Adult,M,57,France,Italia,Paris,Lawyer,5,Law,2,Executive & intellectual occupation,Better,"Much more simpler, No boss, not submitted to someone, earn a lot of money, love my job, , , , , , , , , , "
-FR066,Adult,M,63,France,,Paris,Homeless,0,Cooking,0,Not paid occupation,Worse,"My life is terrible, I don't have parents, I have nobody, alone all the time, , , , , , , , , , , "
+REF,Category,Gender,Age,Country 1,Country 2,Place of living,Job,Years of studies,Type of school,Number of kids,Occupation type,32,32.betterworse,13,13.Fear,14,14.Dream
+AUS001,Adult,F,30,Australia,,Sydney,Phd Student,10,"Law, Health",0,Student,,KO,Other,"Future, Children, Technology, Obsession, Self-centered, , , , , , , , , , ",,"Good, Generosity, Health, Inequality, , , , , , , , , , , "
+CHN01,Adult,F,32,China,,Paris,Former Consultant,5,Engineering,0,Executive & intellectual occupation,,KO,Violence,"Bad intentions, bad people, be fooled, , , , , , , , , , , , ",,"happy life, family, , , , , , , , , , , , , "
+FR001,Adult,F,69,France,,Cucq,Retiree,1,,3,Retiree,,KO,World crisis,"World, Futur, Fanatism, , , , , , , , , , , , ",Personal Dream,"Family, Children, Kids, Travels, , , , , , , , , , , "
+FR002,Adult,M,58,France,,La Calotterie,Farmer,0,,2,Farmer,,KO,No fear,"No fear, Fast, , , , , , , , , , , , , ",Personal Dream,"Farm, Agriculture, Vegetables, Travel, , , , , , , , , , , "
+MAD001,Adult,F,28,Madagascar,,Paris,Singer,3,,0,Executive & intellectual occupation,,KO,,", , , , , , , , , , , , , , ",Personal Dream,"Countryside, boyfriend, friends, landscape, nature, peaceful, , , , , , , , , "
+MAD002,Adult,F,28,Madagascar,,Paris,Entrepreneur,5,Literature & Politics,0,Executive & intellectual occupation,,KO,Personal failure,"Failure, Pressure, Youth, Job, , , , , , , , , , , ",Personal Dream,"Project, Success, Help, Youth, Africa, Education, Degree, , , , , , , , "
+FR003,Adult,M,28,France,,Singapore,Executive,5,Business,0,Executive & intellectual occupation,,KO,Death / Disease,"despair, , , , , , , , , , , , , , ",Personal Dream,"Travel, boat, self-sufficient, , , , , , , , , , , , "
+FR004,Adult,F,27,France,,Sologne,Entrepreneur,3,,0,Executive & intellectual occupation,,KO,Loneliness,"Oppression, Lonely, , , , , , , , , , , , , ",Personal Dream,"Needs, simple, , , , , , , , , , , , , "
+FR005,Adult,M,28,France,,Paris,Entrepreneur,5,,0,Executive & intellectual occupation,,KO,Violence,"ISIS, War, Ideology, Humanism, cruel, , , , , , , , , , ",Personal Dream,"Travelling, Travel, Job, , , , , , , , , , , , "
+FR006,Adult,M,28,France,,Valence,Executive,5,,0,Executive & intellectual occupation,,KO,Other,"Time, , , , , , , , , , , , , , ",Personal Dream,"Smile, Hello, Happiness, , , , , , , , , , , , "
+PER001,Adult,F,58,Peru,,Paris,Cleaning Lady,0,,2,Employee,,KO,,", , , , , , , , , , , , , , ",Personal Dream,"Health, God, Children, Kids, , , , , , , , , , , "
+VEN001,Adult,F,29,Venezuela (Bolivarian Republic of),,Paris,Film Director,4,,0,Executive & intellectual occupation,,KO,Other,"Darkness, imagination, , , , , , , , , , , , , ",Personal Dream,"Happiness, feelings, , , , , , , , , , , , , "
+FR007,Adult,F,36,France,,Paris,Executive,4,Business,2,Executive & intellectual occupation,,KO,Other,"Futur, Kids, children, , , , , , , , , , , , ",,KO
+FR008,Adult,M,27,France,,Paris,Ex-Consultant,5,Business,0,Executive & intellectual occupation,,KO,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+FR009,Adult,M,28,France,,Paris,Executive,5,Business,0,Executive & intellectual occupation,,KO,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+ISR01,Adult,F,27,France,,Tel Aviv,Bartender,4,Cinema,0,Employee,,KO,Other,"Everything, positive, going forward, , , , , , , , , , , , ",Personal Dream,"happiness, smile, , , , , , , , , , , , , "
+FR010,Adult,M,66,France,,Paris,Retiree,5,Business,1,Retiree,,KO,Death / Disease,"Death, Red tape, paperwork, , , , , , , , , , , , ",Personal Dream,"Family, happiness, , , , , , , , , , , , , "
+FR011,Adult,F,15,France,,Paris,Student,,,0,Student,,KO,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+FR012,Adult,F,45,France,,Paris,Mom,4,,4,Not paid occupation,,KO,Violence,"Terrorism, , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+FR013,Adult,F,13,France,,Paris,Student,,,0,Student,,KO,Violence,"Terrorism, bomb, , , , , , , , , , , , , ",Personal Dream,"NEw York, horses, stud, interior design, dancer, dance, , , , , , , , , "
+FR014,Adult,M,80,France,,Paris,Retiree,5,,4,Retiree,,KO,Death / Disease,"Handicap, Age, intellectual , Physical, , , , , , , , , , , ",Personal Dream,"Children, family, happiness, others, , , , , , , , , , , "
+FR015,Adult,M,56,France,,Paris,Junk Dealer,0,,2,"Craftsmen, merchants & business owner",,KO,Other,"Unknown, mystery, , , , , , , , , , , , , ",Personal Dream,"Long life, health, , , , , , , , , , , , , "
+EN01,Adult,F,38,United Kingdom of Great Britain and Northern Ireland,,Paris,Journalist,3,,1,Executive & intellectual occupation,,KO,Losing loved ones,"loved ones, suffering, , , , , , , , , , , , , ",Personal Dream,"Change, evolve, happy, happiness, , , , , , , , , , , "
+ALG01,Adult,M,25,Algeria,,Paris,Consultant,5,Business,0,Executive & intellectual occupation,,KO,Losing loved ones,"Loved ones, loosing them, death, wars, war, , , , , , , , , , ",,KO
+BRE01,Adult,M,25,Brazil,,Madrid,Team Leader,4,,0,Executive & intellectual occupation,,KO,,KO,,KO
+RUS01,Adult,F,25,Russian Federation,,Madrid,Producer,4,,0,Executive & intellectual occupation,,KO,,KO,,KO
+ESP01,Adult,F,25,Spain,,Madrid,,5,,0,#N/A,,KO,,KO,Personal Dream,"Groenland, Polar Bear, , , , , , , , , , , , , "
+FR016,Adult,M,26,France,,Paris,Student,5,Business,0,Student,,KO,,KO,,KO
+ESP02,Adult,F,18,Spain,,Madrid,Student,5,,0,Student,,KO,,KO,,KO
+ESP03,Adult,F,18,Spain,,Madrid,Student,5,,0,Student,,KO,,KO,,KO
+FR017,Adult,M,25,France,,Madrid,Entrepreneur,5,Business,0,Executive & intellectual occupation,,KO,,KO,,KO
+FR018,Adult,M,25,France,,Madrid,Student,5,,0,Student,,KO,,KO,,KO
+USA01,Adult,F,23,United States of America,,Madrid,English Teacher,3,,0,Intermediate occupation,,KO,Personal failure,"Not being happy, having regrets, , , , , , , , , , , , , ",,KO
+FR019,Adult,F,27,France,,Madrid,Teacher,5,Business,0,Intermediate occupation,,KO,,KO,,KO
+ESP04,Adult,F,58,Spain,,Madrid,Sociologist,5,,,Executive & intellectual occupation,,KO,Violence,"hurt, suffering, , , , , , , , , , , , , ",Personal Dream,"Place, countryside, intergeneration, village, , , , , , , , , , , "
+ESP05,Adult,F,44,Spain,,Madrid,Executive,8,Business,5,Executive & intellectual occupation,,KO,Losing loved ones,"People, love, , , , , , , , , , , , , ",Dream for the World,"Happiness, horrors in the world, , , , , , , , , , , , , "
+ESP06,Adult,F,58,Spain,,Madrid,Journalist,3,,,Executive & intellectual occupation,,KO,Loneliness,"Lonelyness, ignorance, fanatism, crualty, , , , , , , , , , , ",Dream for the World,"Help the world, smile, , , , , , , , , , , , , "
+ESP07,Adult,F,21,Spain,,Madrid,Entrepreneur,3,Business,0,Executive & intellectual occupation,,KO,Personal failure,"Don't know what to do with my life, , , , , , , , , , , , , , ",Dream for the World,"Bring something to the world, inspire, , , , , , , , , , , , , "
+ESP08,Adult,M,35,Spain,,Madrid,Film Director,2,Cinema,0,Executive & intellectual occupation,,KO,Death / Disease,"Death, , , , , , , , , , , , , , ",Personal Dream,"Family , happiness, get old, , , , , , , , , , , , "
+ESP09,Adult,M,50,Spain,,Madrid,Economist,7,,1,Executive & intellectual occupation,,KO,Violence,"Insecurity, violence, xenophoby, racism, Europe, , , , , , , , , , ",Personal Dream,"Peace, security, no more fanatism, , , , , , , , , , , , "
+FR020,Adult,M,39,France,,Madrid,Executive,5,Business,2,Executive & intellectual occupation,,KO,Loneliness,"Being bored, , , , , , , , , , , , , , ",Personal Dream,"Basic needs, passions, , , , , , , , , , , , , "
+ESP10,Adult,M,27,Spain,,Madrid,Actor,2,,0,Executive & intellectual occupation,,KO,Fear of Fear,"Fear of fear, Being stuck, , , , , , , , , , , , , ",Personal Dream,"No exact dream, be in peace, know what you have, , , , , , , , , , , , "
+SUI01,Adult,M,13,Switzerland,,Madrid,Schoolboy,,,0,Student,,KO,"Insects, height","Something not friendly in my room, , , , , , , , , , , , , , ",Dream for the World,"Do something to save the planet, Species reproduction, hydrogene, combustible, , , , , , , , , , , "
+FR021,Adult,F,26,France,,Paris,Theologist,9,Political science,0,Executive & intellectual occupation,,KO,"Insects, height","Butterfly, , , , , , , , , , , , , , ",Personal Dream,"Many dreams, night, , , , , , , , , , , , , "
+FR022,Kid,F,10,France,Spain,Madrid,Schoolgirl,,,0,Student,,KO,World crisis,"scorpions, pollution, change planet, climate change, , , , , , , , , , , ",Personal Dream,"Horse, , , , , , , , , , , , , , "
+FR023,Kid,F,8,France,Spain,Madrid,Schoolgirl,,,0,Student,,KO,,KO,,KO
+FR024,Kid,M,8,France,Spain,Madrid,Schoolboy,,,0,Student,,KO,,KO,,KO
+ALG02,Adult,M,63,Algeria,,Paris,Bartender,0,,1,Employee,,KO,Death / Disease,"Nothing, health, , , , , , , , , , , , , ",Personal Dream,"long life, , , , , , , , , , , , , , "
+EN02,Adult,F,26,United Kingdom of Great Britain and Northern Ireland,,London,Urban Planner,5,LSE,0,Executive & intellectual occupation,,KO,"Insects, height","Spiders, unknown, ocean, , , , , , , , , , , , ",Personal Dream,"Nice house, nice family, , , , , , , , , , , , , "
+EN03,Adult,F,26,United Kingdom of Great Britain and Northern Ireland,,London,Theatre,3,Theatre,0,Executive & intellectual occupation,,KO,Death / Disease,"dying, other people dying, terrorism,  heights, raped, , , , , , , , , , ",Personal Dream,"company, happy, open house, family, friends, food, party, kids, no wars, , , , , , "
+RSA01,Adult,F,26,South Africa,,London,Urban Planner,5,Business,0,Executive & intellectual occupation,,KO,Personal failure,"Failure, , , , , , , , , , , , , , ",Personal Dream,"Job passionate about, happy, , , , , , , , , , , , , "
+RSA02,Adult,M,26,South Africa,,London,Student,4,Business,0,Student,,KO,Personal failure,"Failure, loneliness, , , , , , , , , , , , , ",Dream for the World,"a place where there is no fear, , , , , , , , , , , , , , "
+SCO01,Adult,M,25,United Kingdom of Great Britain and Northern Ireland,,London,Lawyer,5,Law,0,Executive & intellectual occupation,,KO,Death / Disease,"being old, , , , , , , , , , , , , , ",Personal Dream,"happy, content, , , , , , , , , , , , , "
+EN04,Adult,M,68,United Kingdom of Great Britain and Northern Ireland,,London,Vicar,2,,,Intermediate occupation,,KO,Personal failure,"Failure, , , , , , , , , , , , , , ",Personal Dream,"2 years to blossom the church, retire, , , , , , , , , , , , , "
+ARM01,Adult,M,32,Armenia,,Paris,Student,11,Business,0,Student,,KO,,KO,,KO
+FR025,Adult,M,21,France,,Paris,Student,5,Business,0,Student,,KO,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+FR026,Adult,F,22,France,,Paris,Student,3,Design,0,Student,,KO,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+IDN01,Adult,F,21,Indonesia,,Istanbul,Student,3,Law,0,Student,,KO,Other,"Unknown, , , , , , , , , , , , , , ",Dream for the World,"Being useful, , , , , , , , , , , , , , "
+TR01,Adult,M,66,Turkey,,Istanbul,Management consulting / teacher,13,Business,2,Executive & intellectual occupation,,KO,Violence,"Anarchy, , , , , , , , , , , , , , ",Personal Dream,"Vision, write a book , transfer my knowledge, financial modeling, Virtual reality, , , , , , , , , , "
+TR02,Adult,M,46,Turkey,,Istanbul,Security Agent,0,,1,Employee,,KO,Death / Disease,"Sickness, , , , , , , , , , , , , , ",Dream for the World,"peace, no material issues, , , , , , , , , , , , , "
+TR03,Adult,F,16,Turkey,England,Istanbul,Student,0,,0,Student,,KO,"Insects, height","Spiders, , , , , , , , , , , , , , ",Dream for the World,"Travel the world, Help people, , , , , , , , , , , , , "
+TR04,Adult,M,52,Turkey,,Istanbul,Tourism,4,Education,,Employee,,KO,Death / Disease,"Health, , , , , , , , , , , , , , ",Personal Dream,"Go on the moon, , , , , , , , , , , , , , "
+TR05,Adult,F,35,Turkey,,Istanbul,Entrepreneur,4,Business,,Executive & intellectual occupation,,KO,Loneliness,"Alone, Lonelyness, , , , , , , , , , , , , ",Personal Dream,"Company, succes, , , , , , , , , , , , , "
+TR06,Adult,M,39,Turkey,,Istanbul,Agriculture,4,Business,1,Farmer,,KO,Violence,"WWIII, Nuclear weapons, chemical weapons, , , , , , , , , , , , ",Personal Dream,"Wealthy, Familly, Peace, no more turmoil, , , , , , , , , , , "
+USA02,Adult,F,24,United States of America,,Istanbul,Journalist,4,Journalism,0,Executive & intellectual occupation,,KO,Losing loved ones,"Losing people, , , , , , , , , , , , , , ",Personal Dream,"Foreign correspondant, , , , , , , , , , , , , , "
+SYR02,Adult,M,25,Syrian Arab Republic,,Istanbul,Volunteer,6,Pharmacy,0,Not paid occupation,,KO,Losing loved ones,"Losing parents, , , , , , , , , , , , , , ",Personal Dream,"Leave Turkey, Masters, normal life, disconnected, , , , , , , , , , , "
+SYR03,Adult,M,31,Syrian Arab Republic,,Istanbul,Assitant Dean,4,Education,0,Employee,,KO,No fear,"Nothing, , , , , , , , , , , , , , ",Personal Dream,"Back to Syria, , , , , , , , , , , , , , "
+SYR01,Adult,M,40,Syrian Arab Republic,,Paris,Chef,3,Cooking,3,"Craftsmen, merchants & business owner",,KO,Other,"Getting older, time going on, , , , , , , , , , , , , ",Personal Dream,"Recognized chef, , , , , , , , , , , , , , "
+FR031,Couple,F,28,France,,Paris,Executive,5,Business,0,Executive & intellectual occupation,,KO,World crisis,"Trump, feel apart of a big part of the population, , , , , , , , , , , , , ",Personal Dream,"Old and happy, , , , , , , , , , , , , , "
+FR032,Couple,M,28,France,,Paris,Entrepreneur,5,Business,0,Executive & intellectual occupation,,KO,World crisis,"Trump, feel apart of a big part of the population, , , , , , , , , , , , , ",Personal Dream,"Become old withou beong adult, , , , , , , , , , , , , , "
+VEN02,Couple,M,40,Venezuela (Bolivarian Republic of),,London,Executive,7,Business,2,Executive & intellectual occupation,,KO,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+VEN03,Couple,F,40,Venezuela (Bolivarian Republic of),,London,Executive,2,Business,2,Executive & intellectual occupation,,KO,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+FR033,Adult,M,37,France,,Paris,,3,,3,#N/A,,KO,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+FR034,Kid,F,12,France,,Paris,Schoolgirl,,,0,Student,,KO,,KO,,KO
+FR035,Kid,F,10,France,,Paris,Schoolgirl,,,0,Student,,KO,,KO,,KO
+FR036,Kid,M,8,France,,Paris,Schoolboy,,,0,Student,,KO,,KO,,KO
+FR037,Adult,M,95,France,,Paris,Priest,3,,0,Intermediate occupation,,KO,Violence,"Violence, with no reason, , , , , , , , , , , , , ",,"Live on a mountain, nature, snow, , , , , , , , , , , , "
+FR038,Adult,F,22,France,,Paris,Model,1,Arts,0,Employee,,KO,Death / Disease,"Death, time going by, , , , , , , , , , , , , ",,"Harmony, family, simple life, learning, , , , , , , , , , , "
+FR039,Adult,F,26,France,,Paris,Illustrator,6,Arts,0,Executive & intellectual occupation,,KO,,KO,,KO
+SYR04,Couple,F,39,Syrian Arab Republic,France,Strasbourg,Caterer,3,Arts,3,"Craftsmen, merchants & business owner",,KO,,KO,,KO
+SYR05,Couple,M,28,Syrian Arab Republic,,Strasbourg,Architect,5,Architecture,0,Executive & intellectual occupation,,KO,,KO,,KO
+TIB01,Adult,M,45,China,Tibet,Strasbourg,Chef,5,Religious,2,"Craftsmen, merchants & business owner",,KO,Violence,"Bad people, violence, , , , , , , , , , , , , ",Dream for the World,"Help People, , , , , , , , , , , , , , "
+SYR06,Adult,M,39,Syrian Arab Republic,,Strasbourg,Chef,3,Cooking,2,"Craftsmen, merchants & business owner",,KO,,KO,Dream for the World,"End of war, , , , , , , , , , , , , , "
+FR040,Adult,M,19,France,,Paris,Unemployed,0,,0,Not paid occupation,,KO,World crisis,"End of the world, , , , , , , , , , , , , , ",Personal Dream,"Create a beautiful family, loved ones, , , , , , , , , , , , , "
+FR041,Mum,F,37,France,,Paris,Human ressources,5,Business,2,Intermediate occupation,,KO,,KO,,KO
+FR042,Kid,M,5,France,,Paris,Schoolboy,,,0,Student,,KO,,KO,,KO
+FR043,Kid,F,8,France,,Paris,Schoolgirl,,,0,Student,,KO,,KO,,KO
+IND01,Adult,M,36,India,France,Paris,Chef,3,Business,0,"Craftsmen, merchants & business owner",,KO,Violence,"When I was in India, everybody wanted to kill me, my parents too, they hate me, ma father and brother told me shoot him, 1 night to live, , , , , , , , , ",,", , , , , , , , , , , , , , "
+FR044,Adult,F,37,France,,Paris,Advertising,5,Marketing,2,Executive & intellectual occupation,,KO,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+FR045,Kid,M,6,France,,Paris,Schoolboy,,,0,Student,,KO,,KO,,KO
+FR046,Adult,F,27,France,,Paris,Music Industry,5,Business,0,Executive & intellectual occupation,,KO,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+AFG01,Kid,F,11,Afghanistan,England,London,Schoolgirl,,,0,Student,,KO,,KO,,KO
+EN06,Kid,F,10,United Kingdom of Great Britain and Northern Ireland,,London,Schoolgirl,,,0,Student,,KO,,KO,,KO
+EN07,Kid,F,7,United Kingdom of Great Britain and Northern Ireland,,London,Schoolgirl,,,0,Student,,KO,,KO,,KO
+LIB01,Adult,M,37,France,Lebanon,Paris,Musician & composer,12,Music,1,Executive & intellectual occupation,,KO,Death / Disease,"Death, , , , , , , , , , , , , , ",Dream for the World,"For me or for the world ?, World : happy friends and family, , , , , , , , , , , , , "
+LIB02,Adult,F,28,Lebanon,France,Paris,Former Consultant,5,Political Science,0,Executive & intellectual occupation,,KO,Fear of Fear,"fear, fear make you lose your capacities, , , , , , , , , , , , , ",Dream for the World,"Stop wars, , , , , , , , , , , , , , "
+TR07,Adult,F,26,Turkey,,Paris,Photographer,6,Journalism,0,Executive & intellectual occupation,,KO,"Insects, height","Insects, , , , , , , , , , , , , , ",,KO
+VEN04,Adult,M,30,Venezuela (Bolivarian Republic of),,Buenos Aires,Bakery employee,5,Human Ressources,0,Employee,,KO,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+MEX01,Adult,F,30,Mexico,,Buenos Aires,Student,10,Education - Social Science,0,Student,,KO,Death / Disease,"Die, that the world forgets me, , , , , , , , , , , , , ",Personal Dream,"Find a good project to work with kids, travel , empower young kids, , , , , , , , , , , , "
+ISR02,Adult,M,34,Israel,,Paris,Psychotherapist,8,Clinical social work,2,Executive & intellectual occupation,,KO,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+FR047,Adult,M,74,France,,Paris,Writer,10,,2,Executive & intellectual occupation,,KO,Fear of Fear,"To be afraid, , , , , , , , , , , , , , ",Personal Dream,"No dreams, only projects, , , , , , , , , , , , , , "
+FR049,Kid,F,8,France,,Paris,Schoolgirl,,,0,Student,,KO,,KO,,KO
+FR050,Kid,F,6,France,,Paris,Schoolgirl,,,0,Student,,KO,,KO,,KO
+FR051,Adult,F,60,France,,Chantilly,Retiree,2,,2,Retiree,,KO,Other,"Children, , , , , , , , , , , , , , ",Personal Dream,"Travel as much as possible, , , , , , , , , , , , , , "
+EN08,Kid,F,10,United Kingdom of Great Britain and Northern Ireland,,London,Schoolgirl,,,0,Student,,KO,,KO,,KO
+ARG01,Adult,M,27,Argentina,,Buenos Aires,Marketing,6,Engineering,0,Executive & intellectual occupation,,KO,Personal failure,"fail, , , , , , , , , , , , , , ",Personal Dream,"family like mine, work, friends, , , , , , , , , , , , "
+ARG02,Adult,M,28,Argentina,,Buenos Aires,Economist,6,Economics,0,Executive & intellectual occupation,,KO,Death / Disease,"Death, lose freedom, physical and intellectual , , , , , , , , , , , , ",Personal Dream,"for me : have an experience of life of which I'm proud, Let something, , , , , , , , , , , , , "
+ARG03,Adult,F,33,Argentina,,Buenos Aires,Journalism,4,Journalism,0,Executive & intellectual occupation,,KO,Personal failure,"Spiders, Coakroach, No reach my goals, family mal, , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+CAN01,Adult,M,35,Canada,,Buenos Aires,Writer,0,,0,Executive & intellectual occupation,,KO,Death / Disease,"Dying for nothing, , , , , , , , , , , , , , ",Personal Dream,"My reality, , , , , , , , , , , , , , "
+ARG04,Adult,M,28,Argentina,,Córdoba,Entrepreneur,4,Business,0,Executive & intellectual occupation,,KO,World crisis,"my ego, the global crisis , some people thougths, global warming, , , , , , , , , , , ",Personal Dream,"align thoughts, says, acts, , , , , , , , , , , , , , "
+ARG05,Kid,M,11,Argentina,,Córdoba,Schoolboy,0,,0,Student,,KO,,KO,,KO
+ARG06,Kid,M,9,Argentina,,Córdoba,Schoolboy,0,,0,Student,,KO,,KO,,KO
+ARG07,Adult,F,28,Argentina,,Córdoba,Photographer,3,Photography,0,Executive & intellectual occupation,,KO,Loneliness,"Lonelyness, away of loved-ones, closed and bad people, those than don't think about other, , , , , , , , , , , ",Personal Dream,"Live out of photography, traveling doing photography, , , , , , , , , , , , , "
+ARG08,Adult,F,83,Argentina,,Córdoba,Retiree,0,,0,Retiree,,KO,No fear,"Nothing special, , , , , , , , , , , , , , ",Personal Dream,"Reached already, that my granddaughers are happy, , , , , , , , , , , , , "
+EN09,Adult,F,43,United Kingdom of Great Britain and Northern Ireland,,London,Primary School Principal,4,,2,Intermediate occupation,,KO,,KO,,KO
+ARG09,Adult,F,29,Argentina,,Córdoba,Chef,6,Social Communication & Gastronomy,0,"Craftsmen, merchants & business owner",,KO,Personal failure,"Not being able to control my life, , , , , , , , , , , , , , ",Personal Dream,"Injust question, now : have a peaceful life, , , , , , , , , , , , , "
+ARG10,Adult,F,27,Argentina,,Córdoba,Illustrator,4,Communication,0,Executive & intellectual occupation,,KO,Death / Disease,"Death, , , , , , , , , , , , , , ",Personal Dream,"that everything I do makes me happy, , , , , , , , , , , , , , "
+ARG11,Adult,M,54,Argentina,,San Martín,Onologist & Teacher,5,Onology,5,Executive & intellectual occupation,,KO,Personal failure,"Passivity, wait doing nothing, I would be afraid no to win my own money to eat, I would fear that someone tells me one day ""I didn't find anyone to help me"", God will juge me, , , , , , , , , , ",,", , , , , , , , , , , , , , "
+IT01,Adult,M,83,Italy,Argentina,San Martín,Farmer,0,0,3,Farmer,,KO,Violence,"Insecurity, , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+ARG12,Adult,M,38,Argentina,,Mendoza,Farmer,0,0,3,Farmer,,KO,Death / Disease,"die, , , , , , , , , , , , , , ",Personal Dream,"children's future, , , , , , , , , , , , , , "
+ARG13,Adult,M,45,Argentina,,San Martín,Onologist,6,Onology,4,Executive & intellectual occupation,,KO,Death / Disease,"getting old, , , , , , , , , , , , , , ",Personal Dream,"Have my home, be recognized for what I do , onology, have a small winery, , , , , , , , , , , "
+ARG14,Adult,M,44,Argentina,,San Martín,Architect,6,Architecture,3,Executive & intellectual occupation,,KO,Other,"Losing time, , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+ARG15,Adult,F,43,Argentina,,Mendoza,Journalist,0,,0,Executive & intellectual occupation,,KO,No fear,"Nothing, , , , , , , , , , , , , , ",Other,"I don't have long term dreams, , , , , , , , , , , , , , "
+ARG16,Adult,F,30,Argentina,,Córdoba,Stylist,4,Journalism,0,Executive & intellectual occupation,,KO,Loneliness,"Loneliness, , , , , , , , , , , , , , ",Personal Dream,"Live in a white house, sea, love my job, family, , , , , , , , , , , "
+ARG17,Adult,M,66,Argentina,,Córdoba,Neurologist,14,Medecine,4,Executive & intellectual occupation,,KO,Violence,"the way humanity is going, cruauty, , , , , , , , , , , , , ",Personal Dream,"creonic, freeze body, , , , , , , , , , , , , "
+ARG18,Adult,F,51,Argentina,,Salta,Sport teacher,7,Sport,2,Intermediate occupation,Better,"better, more commodity, but more or less the same, , , , , , , , , , , , ",No fear,"Nothing, , , , , , , , , , , , , , ",Personal Dream,"Travel, kids ok, have my house, see friends, , , , , , , , , , , "
+ARG19,Adult,F,68,Argentina,,Mendoza,Artist,2,,0,Executive & intellectual occupation,,KO,Death / Disease,"Old age, depend on others, , , , , , , , , , , , , ",Dream for the World,"a lot, and I reach them all, no problem for my family, that people are more accessible, everybody in peace, , , , , , , , , , , "
+USA03,Adult,F,24,United States of America,France,New York City,Paralegal,4,Political Science,0,Executive & intellectual occupation,Better,"Better, dad jew in France, mum segregation texas, , , , , , , , , , , , ",Violence,"Abuse (rape), snakes, , , , , , , , , , , , , ",Personal Dream,"Family, be in peace, great carrier, , , , , , , , , , , , "
+ARG20,Adult,F,49,Argentina,,Tilcara,Chef,0,,3,"Craftsmen, merchants & business owner",,KO,Death / Disease,"Death, for me and other, , , , , , , , , , , , , ",Personal Dream,"Have a house in Tilcara, with my kids, , , , , , , , , , , , , "
+BOL01,Adult,M,78,Bolivia (Plurinational State of),,Tarija,Ex President,6,,3,Executive & intellectual occupation,Better,"Better, in every part of life, , , , , , , , , , , , , ",Other,"Surprise, unknown, being taken by surprise, no control, fear comes from lack of information, , , , , , , , , , ",,", , , , , , , , , , , , , , "
+ARG21,Kid,F,9,Argentina,,Salta,Schoolgirl,,,,Student,,KO,,KO,,KO
+ARG22,Adult,F,41,Argentina,,Salta,Street Worker,2,System analysis,6,Worker,Both,"Better, unless to raise my children, , , , , , , , , , , , , ",Other,"don't have enough for my kids, , , , , , , , , , , , , , ",Dream for the World,"economic stability, , , , , , , , , , , , , , "
+ARG23,Adult,M,43,Argentina,,Salta,Psicoterapeuta / Poeta,6,Psychology,3,Executive & intellectual occupation,Better,"Better, much better, know what I want to do , , , , , , , , , , , , ",Violence,"spiders, that human doesn't manage to live together , , , , , , , , , , , , , ",Personal Dream,"know that what I did made sense , , , , , , , , , , , , , , "
+BOL02,Adult,F,33,Bolivia (Plurinational State of),,Tarija,Secretary of economic development,5,Economic development,0,Executive & intellectual occupation,,KO,Losing loved ones,"Lose my sisters, , , , , , , , , , , , , , ",Other,"I'm reaching it, work for my city, , , , , , , , , , , , , "
+SCO02,Kid,F,11,United Kingdom of Great Britain and Northern Ireland,,Glasgow,Schoolgirl,,,0,Student,,KO,,KO,,KO
+SCO03,Kid,F,7,United Kingdom of Great Britain and Northern Ireland,,Glasgow,Schoolgirl,,,0,Student,,KO,,KO,,KO
+BOL03,Kid,M,8,Bolivia (Plurinational State of),,Tarija,Schoolboy,,,0,Student,,KO,,KO,,KO
+BOL04,Kid,M,11,Bolivia (Plurinational State of),,Tarija,Schoolboy,,,0,Student,,KO,,KO,,KO
+BOL05,Adult,M,64,Bolivia (Plurinational State of),,Tarija,Retiree,5,Accountabilty,4,Retiree,,KO,Loneliness,"Lonelyness, , , , , , , , , , , , , , ",,"Family, , , , , , , , , , , , , , "
+BOL06,Adult,M,41,Bolivia (Plurinational State of),,Tarija,Lawyer,5,Law,2,Executive & intellectual occupation,Better,"Better, reach goals before them, , , , , , , , , , , , , ",Losing loved ones,"Something bad happen to my family, , , , , , , , , , , , , , ",Personal Dream,"Be fully happy, see my kids happy, , , , , , , , , , , , , "
+PER02,Adult,F,40,Peru,,Tarija,Religious person,2,Nurse,0,Intermediate occupation,Better,"Father fight for their kids to go ahead, Better, , , , , , , , , , , , , ",Other,"Keep the grace of god, , , , , , , , , , , , , , ",Dream for the World,"Improve the house of the old people, , , , , , , , , , , , , , "
+ESP11,Adult,F,73,Spain,,Tarija,Retiree,6,Political Science,3,Retiree,Both,"Material better, human quality worse, , , , , , , , , , , , , ",Death / Disease,"Today death, Because I think a lot about my childhood, , , , , , , , , , , , , ",Personal Dream,"Remain independent physically, be tolerant, , , , , , , , , , , , , "
+BOL07,Adult,F,30,Bolivia (Plurinational State of),,Santa Cruz,Hotel Employee,0,,1,Employee,Better,"Better, More opportunity, , , , , , , , , , , , , ",Losing loved ones,"Everything, Lose my family, , , , , , , , , , , , , ",Dream for the World,"Help Many people, répandre la parole de dieu, , , , , , , , , , , , , "
+BOL08,Adult,F,30,Bolivia (Plurinational State of),,Santa Cruz,Hotel Employee,0,,0,Employee,Better,"I've always wanted to improve, access to education, we can look for a lot of thing , it's up to you to live better , , , , , , , , , , , ",Other,"Darkness, I love light, , , , , , , , , , , , , ",Dream for the World,"Have 1M dollar to give it, , , , , , , , , , , , , , "
+BOL09,Adult,M,45,Bolivia (Plurinational State of),,Uyuni,Tourist transport,2,,2,Worker,Better,"Better, every year that passes we improve our conditions, , , , , , , , , , , , , ",Death / Disease,"Death, leave this world, , , , , , , , , , , , , ",Personal Dream,"Family, , , , , , , , , , , , , , "
+IT02,Adult,M,30,Italy,,La Paz,UN,5,Political Science,1,Executive & intellectual occupation,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+FR067,Adult,F,61,France,Bolivia,La Paz,Anthropologue & Education,5,Anthropology,4,Executive & intellectual occupation,Better,"Better, because I'm free, they had war, many things are easier, , , , , , , , , , , ",Personal failure,"Me, not being able to do what I can do , , , , , , , , , , , , , ",Dream for the World,"Everybody happy, make a better world, , , , , , , , , , , , , "
+BOL10,Kid,M,10,Bolivia (Plurinational State of),,Isla del Sol,Schoolboy,,,,Student,,KO,,KO,,KO
+BOL11,Kid,F,8,Bolivia (Plurinational State of),,Isla del Sol,Schoolgirl,,,,Student,,KO,,KO,,KO
+BOL12,Adult,M,32,Bolivia (Plurinational State of),,Isla del Sol,Construction engineer,1,Architecture,2,Executive & intellectual occupation,Both,"Economically worse, I still have to succeed in life, Family better, education better, , , , , , , , , , , ",Losing loved ones,"Lose my father, , , , , , , , , , , , , , ",Personal Dream,"Travel everywhere with my father, , , , , , , , , , , , , , "
+BOL13,Adult,F,28,Bolivia (Plurinational State of),,Isla del Sol,Tourism,5,Administration,0,Employee,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+IRN01,Adult,M,34,Iran (Islamic Republic of),,Tehran,Agri business,6,dietetics,0,Farmer,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+PER03,Adult,F,24,Peru,,Lima,Consulting infrastructure,5,international business,0,Executive & intellectual occupation,,", , , , , , , , , , , , , , ",Violence,"Pain, that someone hurt me, , , , , , , , , , , , , ",Personal Dream,"Travel the world, , , , , , , , , , , , , , "
+PER04,Adult,F,55,Peru,,Cusco,School Principal,5,Superior,0,Intermediate occupation,Better,"Each one live a good moment, make the most of your period, technology, , , , , , , , , , , , ",Other,"Darkness, Enter in countries that I don't know, say something wrong for other people, , , , , , , , , , , , ",Dream for the World,"Travel, No more corruption, peace in my country, start living life, why are we making everyhting complicated, , , , , , , , , , "
+BRE02,Adult,M,50,Brazil,,Rio de Janeiro,Tourist guide,0,,2,Employee,Worse,"More opportunities before, More difficult today, more competition, , , , , , , , , , , , , ",Violence,"Violence, ego, egoisme, Concentration of money, , , , , , , , , , , ",Personal Dream,"Money, Bali, have a quiet life, , , , , , , , , , , , "
+CAN02,Kid,F,9,Canada,"France, India, Brazil",Rio de Janeiro,Schoolgirl,,,,Student,,KO,,KO,,KO
+BRE03,Adult,F,36,Brazil,,Rio de Janeiro,Maid,0,,1,Employee,Better,"Way better , mother wooden house with no bathroom, , , , , , , , , , , , , ",Losing loved ones,"something happens to my son, , , , , , , , , , , , , , ",Personal Dream,"study, raise my son , leave favela and violence, nobody gets used to bad things, , , , , , , , , , , "
+TTO01,Kid,F,11,Trinidad and Tobago,Ireland,Rio de Janeiro,Schoolgirl,,,0,Student,,KO,,KO,,KO
+POR01,Adult,F,69,Portugal,,Paredes,Photographer,13,"Language, visual education",1,Executive & intellectual occupation,Better,"Better, Changes happened slower before, , , , , , , , , , , , , ",Violence,"Wars, being hurt, , , , , , , , , , , , , ",Personal Dream,"see my son happy, family, , , , , , , , , , , , , "
+BRE04,Kid,F,7,Brazil,,Salvador,Schoolgirl,,,,Student,,KO,,KO,,KO
+BRE05,Adult,M,51,Brazil,,Rio de Janeiro,Dealer,0,,0,"Craftsmen, merchants & business owner",,", , , , , , , , , , , , , , ",No fear,"No fear, , , , , , , , , , , , , , ",Other,"I'm leaving my dream , , , , , , , , , , , , , , "
+BRE06,Adult,M,42,Brazil,,Rio de Janeiro,Photographer,4,Marketing,0,Executive & intellectual occupation,Better,"Better, less work, less obligations, , , , , , , , , , , , ",Other,"don't have money to keep my styled life, , , , , , , , , , , , , , ",Personal Dream,"Travel, meet new people, I dream awake, , , , , , , , , , , , "
+BRE07,Adult,M,44,Brazil,,Palmeiras,Hiking Guide,0,,0,Employee,Better,"better, I'm rich compare to them, , , , , , , , , , , , , ",Other,"Man, , , , , , , , , , , , , , ",Personal Dream,"Continue living as I do today, trekking, , , , , , , , , , , , , "
+BRE08,Adult,M,60,Brazil,,Rio de Janeiro,Restaurants Owner,0,,4,"Craftsmen, merchants & business owner",Better,"Better, brazil is a country of oppourtunity, My father was a barber, , , , , , , , , , , , ",No fear,"Nothing, , , , , , , , , , , , , , ",Personal Dream,"More time to hike, , , , , , , , , , , , , , "
+BRE09,Adult,F,42,Brazil,,Salvador,Lawyer and Tour Guide,10,Law and language,0,Executive & intellectual occupation,Both,"Some things better, dictature before, violence today, , , , , , , , , , , , ",Death / Disease,"Health, , , , , , , , , , , , , , ",Personal Dream,"Peaceful life, bucket list, , , , , , , , , , , , , "
+BRE10,Adult,F,74,Brazil,,Salvador,Retiree (Teacher),4,Teaching,3,Retiree,Worse,"better with money, more confort, i buy what i want and not what i can, , , , , , , , , , , , ",Loneliness,"lonelyness, i love people, , , , , , , , , , , , , ",Personal Dream,"be always with my family and my friends, and see them happy, , , , , , , , , , , , , "
+BRE11,Adult,M,64,Brazil,Argentina,Rio de Janeiro,Mathematician,6,,,Executive & intellectual occupation,,KO,Death / Disease,"Sickness, Health, Fascism, intolerancia, , , , , , , , , , , ",Dream for the World,"Create the edition company, give chance to people to be more educated, to rise up socially, , , , , , , , , , , , "
+BRE12,Adult,M,55,Brazil,,Jericocoara,Barman,0,,3,Employee,Worse,"Worse, It was better when I was 15, , , , , , , , , , , , , ",Death / Disease,"Death, getting old, , , , , , , , , , , , , ",,KO
+BRE13,Adult,M,40,Brazil,,Jericocoara,Musician,0,,3,Executive & intellectual occupation,Better,"Better, , , , , , , , , , , , , , ",Other,"ignorance, , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+BRE14,Adult,M,20,Brazil,,Jericocoara,Musician,0,,,Executive & intellectual occupation,Better,"Better, easier, money, Do what I want to do, , , , , , , , , , , ",Other,"ignorance, , , , , , , , , , , , , , ",Personal Dream,"Understanding the world, , , , , , , , , , , , , , "
+COL01,Adult,M,45,Colombia,,Quindio,Agriculture Worker,0,,2,Worker,Better,"Better, It was tough for my parents, , , , , , , , , , , , , ",Death / Disease,"Being old, , , , , , , , , , , , , , ",Personal Dream,"have a future, , , , , , , , , , , , , , "
+COL02,Adult,M,23,Colombia,,Quindio,Cafe,5,Administration,0,Employee,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+COL03,Adult,M,50,Colombia,,Quindio,Cafe,7,Economia,4,Employee,Better,"Better, , , , , , , , , , , , , , ",Loneliness,"Lonelyness, , , , , , , , , , , , , , ",Personal Dream,"See my family happy, , , , , , , , , , , , , , "
+COL04,Adult,F,70,Colombia,,Salento,Volunteer,0,,4,Not paid occupation,Worse,"More difficult, less traditions, more corruption, , , , , , , , , , , , ",Other,"Being cheated, lies, , , , , , , , , , , , , ",Personal Dream,"Live longer, see my kids happy, , , , , , , , , , , , , "
+COL05,Adult,M,25,Colombia,,Minca,Agriculture Worker,0,,1,Worker,Better,"Better, my father had a car accident, , , , , , , , , , , , , ",No fear,"Nothing, , , , , , , , , , , , , , ",Personal Dream,"Have a good place for my family , , , , , , , , , , , , , , "
+COL06,Adult,M,30,Colombia,,Bogotá,Project owner,5,International cooperation,0,Executive & intellectual occupation,Both,"Better, Their generation was focusing on jobs, us : how to live, why , because we have access to more information , At the same time some are lost, anxiety, less stability, , , , , , , , , ",Personal failure,"Not making the most of my life, , , , , , , , , , , , , , ",Personal Dream,"At one moment National Geographic photograph, now happy life, , , , , , , , , , , , , "
+COL07,Adult,M,46,Colombia,,Santa Marta,Mason,0,,2,,Better,"A bit better, It was difficil with 3 children for my parents, but they raised me well , nothing material but good education, , , , , , , , , , , ",Losing loved ones,"that my parents die, , , , , , , , , , , , , , ",Personal Dream,"Tranquility, , , , , , , , , , , , , , "
+COL08,Adult,F,43,Colombia,,Bogotá,Modern Language,2,Language,0,Executive & intellectual occupation,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+COL09,Adult,F,31,Colombia,,Bogotá,History teacher,7,Political Science,1,Intermediate occupation,Better,"Economically and freedom equal, less constraints, , , , , , , , , , , , , ",Other,"Crazyness, , , , , , , , , , , , , , ",Personal Dream,"Travel with my daughter and see her happy, , , , , , , , , , , , , , "
+COL10,Adult,M,28,Colombia,France,Ubaté,Farmer,6,Political Science,0,Farmer,Better,"Better for the freedom of doing what I want, , , , , , , , , , , , , , ",World crisis,"More extreme climate change, no more able to produce food, here with the cows, when people start to act as a massive group, when people let it go , , , , , , , , , , ",Dream for the World,"Have a new kind of agriculture here, ecosystem, reproduce something as productive as the jungle, , , , , , , , , , , , "
+COL11,Adult,F,50,Colombia,,Bogotá,"Editor, Entrepreneur, Artist",10,Design & education,0,Executive & intellectual occupation,Worse,"Some better, some worse, Opportunities for women, way better, access to communication, health, worst : life quality, pollution, food, more tasty, , , , , , , ",World crisis,"Ignorance and power, together, , , , , , , , , , , , , ",Dream for the World,"People learn to write and read, , , , , , , , , , , , , , "
+COL12,Adult,M,32,Colombia,,Bogotá,Bogota Councilor,8,economy,0,Executive & intellectual occupation,Both,"More opportunities, but complicated world today, difficult to get out of everyday's rush, more simplicity before, , , , , , , , , , , ",Loneliness,"Lonelyness, , , , , , , , , , , , , , ",Dream for the World,"Continue to help my country, , , , , , , , , , , , , , "
+USA04,Adult,M,28,United States of America,Mexico,Dallas,Driving Delivery,1,Web Design,4,Worker,Better,"Worse, I've been blessed a lot, , , , , , , , , , , , , ",Personal failure,"failure, , , , , , , , , , , , , , ",Personal Dream,"Materialisticly : own properties and businesses, be able to live something positive , , , , , , , , , , , , , "
+USA05,Adult,M,34,United States of America,South Korea,Dallas,Company Owner,4,History,0,Executive & intellectual occupation,Neutral,"Both, better opportunities, , , , , , , , , , , , , ",Personal failure,"My own character defeats, , , , , , , , , , , , , , ",Dream for the World,"Be and stay happy, help people, , , , , , , , , , , , , "
+USA06,Adult,M,19,United States of America,,Dallas,Student,4,Business Administration,0,Student,Both,"First I didn't know what my parents were going to , SO worse and then better, They teach you to become stronger and live better, , , , , , , , , , , , ",Fear of Fear,"Doubt, Fear, not learning, Being afraid is your thoughts that you put into yourself without release it, so satisfy yourself, , , , , , , , , , ",Personal Dream,"Be able to live fully, Be as joyful as I can be , I'm just a kid trying to find joy and to spread it, , , , , , , , , , , , "
+USA07,Adult,F,36,United States of America,,Dallas,Lead Farm,7,Health & Wealthness,3,Farmer,Better,"Better, Healthwise, my father wanted me to do better, hollistically I'm not sure I do better, , , , , , , , , , , ",Losing loved ones,"My family being hurt, , , , , , , , , , , , , , ",Personal Dream,"Become the best doctor in the world, , , , , , , , , , , , , , "
+USA08,Adult,M,42,United States of America,,Dallas,Chef & CEO,4,Culinary,2,"Craftsmen, merchants & business owner",Better,"In general, better, more opportunities, , , , , , , , , , , , , ",Other,"Dancing, , , , , , , , , , , , , , ",Dream for the World,"World better place when I die, I participated, , , , , , , , , , , , , "
+USA09,Adult,M,67,United States of America,,Dallas,CEO,7,Business and Finance,2,"Craftsmen, merchants & business owner",Better,"much better, physically, live longer, new world, easier, , , , , , , , , , ",Death / Disease,"Cancer, sudden death, , , , , , , , , , , , , ",,KO
+USA10,Adult,F,30,United States of America,,Forth Worth,Hairstylist,3,"Arts, Mental Health",,"Craftsmen, merchants & business owner",Better,"Simpler, I don't have kids, , , , , , , , , , , , , ",Personal failure,"Not doing what I want to do , , , , , , , , , , , , , , ",Other,"I don't think I have a dream, I just want to be an old lady with grandkids, a garden and doing arts, , , , , , , , , , , , , "
+USA11,Adult,M,46,United States of America,,New Orleans,Art Administration,4,Movie,,Intermediate occupation,Better,"Much better, I can do a lot more, not better economic prospect, , , , , , , , , , , , ",Violence,"blind hatred, people in a rage, , , , , , , , , , , , , ",Dream for the World,"compassion society, that just covers everything, , , , , , , , , , , , , "
+USA12,Kid,F,7,United States of America,,Dallas,,,,,#N/A,,KO,,KO,,KO
+USA13,Adult,F,40,United States of America,,Detroit,Baker,5,Culinary,0,"Craftsmen, merchants & business owner",Cannot compare,"I live differently, I think I'm making better choices, when a day is done, it's really about how you make people feel, and she did amazing , , , , , , , , , , , , ","Insects, height","bugs, insects, all I was afradi of already happened, , , , , , , , , , , , ",,KO
+USA14,Adult,F,49,United States of America,,New Orleans,Artist / Teacher,4,Painting,5,Executive & intellectual occupation,Cannot compare,"Very different, they were responsible human beings, I'm an artist, you can't escape that, I'm messy, they were more conformative, , , , , , , , , ",Losing loved ones,"The loss of my children, , , , , , , , , , , , , , ",Dream for the World,"happiness, for everyone I love, , , , , , , , , , , , , "
+USA15,Adult,M,59,United States of America,,New Orleans,Retired Attorney,9,Law,5,Retiree,Both,"same and now worse since I retired, , , , , , , , , , , , , , ","Insects, height","heights, , , , , , , , , , , , , , ",Personal Dream,"fix this house, , , , , , , , , , , , , , "
+USA16,Kid,F,14,United States of America,,New Orleans,School Girl,,,,Student,,KO,,KO,,KO
+USA17,Kid,F,9,United States of America,,New Orleans,School Girl,,,,Student,,KO,,KO,,KO
+USA18,Kid,M,10,United States of America,,New Orleans,School Boy,,,,Student,,KO,,KO,,KO
+USA19,Adult,M,35,United States of America,,New Orleans,Singer,3,Business,0,Executive & intellectual occupation,Worse,"much more complicated, I am more complicated, I am an african american gay male, , , , , , , , , , , , ",Other,"people, humans, , , , , , , , , , , , , ",Personal Dream,"Continue my music, find some peace, be kind with everybody, , , , , , , , , , , , "
+USA20,Kid,M,7,United States of America,,New Orleans,,,,,#N/A,,KO,,KO,,KO
+USA21,Adult,M,30,United States of America,,New Orleans,Real Estate,4,Journalism,0,Executive & intellectual occupation,Both,"Both, I know more, some of things still havn't changed, , , , , , , , , , , , ",Death / Disease,"Not knowing when and how I'm gonna die, , , , , , , , , , , , , , ",Personal Dream,"be able to provide for my family, give before you recieve, , , , , , , , , , , , , "
+USA22,Adult,F,26,United States of America,,Violet,Musician,0,,0,Executive & intellectual occupation,Better,"Life is easier, from what they raised me, I'm not living worse, I have an opportunity to fight, , , , , , , , , , , ",Fear of Fear,"Fear itself, , , , , , , , , , , , , , ",Personal Dream,"to not be afraid, no let anybody let my art be deluded, I want my art to be accepted, , , , , , , , , , , , "
+USA23,Adult,M,44,United States of America,,New Orleans,Garden Science Teacher,4,Biology,3,Intermediate occupation,Better,"They might think that they lived better, I think I lived better, They reached a ceiling, they don't see beyond that scope, no ceiling for me , , , , , , , , , , ",Fear of Fear,"Fear, try not to be afraid of things or concepts, try to teach kids not to be afraid, , , , , , , , , , , , ",Other,"I have no set dream, my life is a dream, I have what I need, , , , , , , , , , , , "
+USA24,Adult,M,37,United States of America,,Dallas,Photographer,0,,2,Executive & intellectual occupation,Better,"Yes, overcome some problems that my parents had, progress, , , , , , , , , , , , ",Fear of Fear,"fear as a whole, macro social fears, will I be able to reach what I want to reach ? , avoid that man in my head, I won't have time to do all that I want to do if I spend time being afraid*, , , , , , , , , , ",,KO
+USA25,Adult,M,66,United States of America,,New Orleans,Artist / Musician,5,Jazz,0,Executive & intellectual occupation,Better,"Better, they were very poor, sacrifice, , , , , , , , , , , , ",Other,"Ignorance, snakes,  , , , , , , , , , , , , ",Personal Dream,"Live free, peacefull, travel, , , , , , , , , , , , , "
+USA26,Adult,M,30,United States of America,,New Orleans,Artist,2,Business,0,Executive & intellectual occupation,,", , , , , , , , , , , , , , ",Personal failure,"not accomplishing my goals, , , , , , , , , , , , , , ",Personal Dream,"become a successful artist, , , , , , , , , , , , , , "
+USA27,Adult,F,27,United States of America,,New Orleans,Student,4,Mechanical Engineering,0,Student,Worse,"more difficult, knowledge doesn't help us, ignorance is blessed, less stressed out, , , , , , , , , , , ",Violence,"all the normal thing, things beyond controm , terrorism, news stories, the world going mad, , , , , , , , , , ",Dream for the World,"leave a good imprint, be helpful, , , , , , , , , , , , , "
+USA28,Adult,F,26,United States of America,,New York City,Community Manager,4,French / Religious studies,0,Executive & intellectual occupation,Neutral,"my dad is a refugee, so better in that sense, but he's happy, I don't know, same, , , , , , , , , , , ",Loneliness,"Being alone, , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+FR068,Kid,F,5,France,,New York City,,,,0,#N/A,,KO,,KO,,KO
+FR052,Kid,F,8,France,,New York City,,,,0,#N/A,,KO,,KO,,KO
+FR053,Adult,F,29,France,Lebanon,New York City,Art production,5,Art,0,Executive & intellectual occupation,Better,"My home is better than were I grew up, Now I live better, But My parents lived for us, I live for me, , , , , , , , , , , , ",Loneliness,"Big emptiness, feeling empty, depression, being bored, , , , , , , , , , , ",Personal Dream,"I dream a lot at night, being happy, it's more like hope, why must it be my dream, 2 week dreams, , , , , , , , , , "
+USA29,Adult,M,41,United States of America,,Dearborn,DJ / Producer,4,Fine Arts,2,Executive & intellectual occupation,Cannot compare,"My life is very similar , same neighbourhood, I live differently than them, father motor company, very different life, , , , , , , , , , ",Other,"Not leaving a mark , , , , , , , , , , , , , , ",Dream for the World,"people will accept each other for what they are, we all come from the same thing, , , , , , , , , , , , , "
+USA30,Adult,F,41,United States of America,,Dearborn,Record Label Owner,5,Business Administration,2,Executive & intellectual occupation,Better,"better, everything opposite that they educate me , , , , , , , , , , , , , ","Insects, height","Vampires, , , , , , , , , , , , , , ",Personal Dream,"Live a long and happy life with my family, , , , , , , , , , , , , , "
+USA31,Adult,M,38,United States of America,,Ferndale,Roofer,2,General,0,"Craftsmen, merchants & business owner",Better,"A lot better, my mentality, progression, , , , , , , , , , , , ",Violence,"apocalyptic potential outcome of human civilisation, intense physical pain, , , , , , , , , , , , , ",Dream for the World,"World peace, , , , , , , , , , , , , , "
+SYR07,Adult,M,39,Syrian Arab Republic,,Dearborn,Film Maker,4,Movie,1,Executive & intellectual occupation,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+USA32,Adult,F,30,United States of America,,Detroit,Artist Designer,6,"Political Science, Fiber Arts",0,Executive & intellectual occupation,Better,"I earn less, with technology it's my choice, it's my own destiny , , , , , , , , , , , , ",Death / Disease,"death, , , , , , , , , , , , , , ",Dream for the World,"creatively fullfilled, postively impact the world, , , , , , , , , , , , , "
+USA33,Adult,F,34,United States of America,,Detroit,Uber Driver,4,International communication,0,Worker,Cannot compare,"In terms of what ? , it's circumstancial , they didn't have the internet, it's more complicated and easier, , , , , , , , , , , ",Death / Disease,"spiders, dying, in a plane crash, , , , , , , , , , , , ",Personal Dream,"maintain my spirit and happines, and energy and health, maintain good relationships, fell happy about life , , , , , , , , , , , "
+USA34,Adult,F,28,United States of America,,Detroit,Tax analyst,3,Psychology,0,Executive & intellectual occupation,Better,"easier, better job at a younger age, , , , , , , , , , , , , ",Fear of Fear,"fear itself, , , , , , , , , , , , , , ",Personal Dream,"live in the middle of nowhere, live of of the land, solar panels, , , , , , , , , , , , "
+USA35,Adult,F,22,United States of America,,Detroit,Student,1,Environmental Science,0,Student,Better,"Better, my parents have paved the way for me that they didn't have, , , , , , , , , , , , , ",Loneliness,"Depression, , , , , , , , , , , , , , ",Dream for the World,"To be content, feeling that the earth was not in danger, , , , , , , , , , , , , "
+USA36,Adult,F,57,United States of America,,New York City,Artist,6,Biological psychology / MBA,0,Executive & intellectual occupation,Better,"Better, they had to struggle so much t o get out of poverty that they didn't have time to enjoy life, , , , , , , , , , , , , ","Insects, height","height, not always, , , , , , , , , , , , , ",Personal Dream,"to make beautiful art that people respond to , , , , , , , , , , , , , , "
+CHN02,Adult,F,33,China,,New York City,Marketing Manager,6,Economics & MBA,0,Executive & intellectual occupation,Both,"subjective, luckier than our parents, lot of  technical convenience, AC, psychological : overwhelmed with too many choices today, high level of satisfaction before, today frustration, every generation has its own problem, , , , , , , ",Losing loved ones,"departure of people I love, , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+ALL01,Adult,M,31,Germany,,New York City,Physician / Researcher,7,Medicine,0,Executive & intellectual occupation,Better,"Way better, opportunities, I enjoy my life, I wish they could do so, but there are happy too, , , , , , , , , , ",Violence,"War, Environmental destruction, we must keep our planet good for the future, , , , , , , , , , , , ",Personal Dream,"Win the nobel prize, , , , , , , , , , , , , , "
+ALL02,Adult,F,31,Germany,,New York City,Art historian,6,Art History,0,Executive & intellectual occupation,Better,"better, They provided me a lot, , , , , , , , , , , , , ",Losing loved ones,"that something happen to my husband, , , , , , , , , , , , , , ",Personal Dream,"growing old with my husband, , , , , , , , , , , , , , "
+USA37,Adult,F,30,United States of America,,New York City,Consultant,7,Business / Writing,0,Executive & intellectual occupation,Neutral,"equal, they gave me all the opportunities I have, , , , , , , , , , , , , ","Insects, height","spiders, quitting my job, everyone advises me not to quit my job, , , , , , , , , , , , ",Personal Dream,"Write a book, I already have an idea, , , , , , , , , , , , , "
+USA38,Adult,F,24,United States of America,Portugal,New York City,Maid / Designer,6,Hospitality & tourism management / Design,0,Executive & intellectual occupation,Neutral,"Equal, When they were my age they were dealing with the samei thing, , , , , , , , , , , , , ",Personal failure,"Wastefullness, spending my whole life wasting things, water when you brush your teeth, light on at night…, not having anything to recycle, , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+FR054,Adult,M,36,France,,Paris,Consultant,3,Language and political sciences,1,Executive & intellectual occupation,Neutral,"Same, good level of living, , , , , , , , , , , , , ",Death / Disease,"death, nothing after, , , , , , , , , , , , , ",Personal Dream,"Dying at 97 yo, with my wife after doing a big party, , , , , , , , , , , , , "
+FR055,Adult,M,27,France,,Paris,Lawyer,5,Law,0,Executive & intellectual occupation,Worse,"Worse, they start way faster than me a life made of small pleasure, plus insousciants, I always have to fights to keep everything, there's always someone to try to fuck you, we are sick of equality, , , , , , , , , ",Death / Disease,"many things, sickness, hopital, myself, becoming crazy, , , , , , , , , , ",Other,"I can't answer, simple dreams, a small happy life, pueril glory, , , , , , , , , , , "
+FR056,Adult,M,59,France,,Paris,Productor / Journalist,5,"Political Science, Journalism",4,Executive & intellectual occupation,Both,"I don't know, better standards of living, but easier in the 80' because we still had some illusions, , , , , , , , , , , , ",Losing loved ones,"Losing my loved ones, , , , , , , , , , , , , , ",Personal Dream,"Die eaten by a white shark, , , , , , , , , , , , , , "
+AUS02,Adult,M,29,Australia,,New York City,Freelance Artist,5,Architecture / Fashion / Advertising,0,Executive & intellectual occupation,Both,"Both, more complications with technologies, but more options, , , , , , , , , , , , ",Personal failure,"Not being enough, , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+SYR08,Kid,M,13,Syrian Arab Republic,,Paris,,,,,#N/A,,KO,,KO,,KO
+SYR09,Kid,M,10,Syrian Arab Republic,,Paris,,,,,#N/A,,KO,,KO,,KO
+SYR10,Kid,M,6,Syrian Arab Republic,,Paris,,,,,#N/A,,KO,,KO,,KO
+EN10,Kid,F,9,Kosovo (Republic of),UK,London,,,,,#N/A,,KO,,KO,,KO
+EN11,Kid,F,9,United Kingdom of Great Britain and Northern Ireland,Pakistan,London,,,,,#N/A,,KO,,KO,,KO
+EN12,Kid,F,10,United Kingdom of Great Britain and Northern Ireland,,London,,,,,#N/A,,KO,,KO,,KO
+ROM01,Kid,M,11,Romania,England,London,,,,,#N/A,,KO,,KO,,KO
+EN13,Kid,M,10,Kosovo (Republic of),UK,London,,,,,#N/A,,KO,,KO,,KO
+EN14,Kid,M,10,United Kingdom of Great Britain and Northern Ireland,Pakistan,London,,,,,#N/A,,KO,,KO,,KO
+EN15,Kid,F,11,United Kingdom of Great Britain and Northern Ireland,Caribbean,London,,,,,#N/A,,KO,,KO,,KO
+HUN01,Kid,F,11,Hungary,Iran,London,,,,,#N/A,,KO,,KO,,KO
+EN16,Kid,M,11,United Kingdom of Great Britain and Northern Ireland,,London,,,,,#N/A,,KO,,KO,,KO
+EN17,Kid,F,11,United Kingdom of Great Britain and Northern Ireland,,London,,,,,#N/A,,KO,,KO,,KO
+EN18,Kid,M,11,Lebanon,UK,London,,,,,#N/A,,KO,,KO,,KO
+MAR01,Kid,F,11,Morocco,,London,,,,,#N/A,,KO,,KO,,KO
+EN19,Kid,F,11,United Kingdom of Great Britain and Northern Ireland,,London,,,,,#N/A,,KO,,KO,,KO
+EN20,Kid,F,11,Pakistan,UK,London,,,,,#N/A,,KO,,KO,,KO
+EN21,Kid,F,7,United Kingdom of Great Britain and Northern Ireland,,London,,,,,#N/A,,KO,,KO,,KO
+EN22,Kid,F,7,United Kingdom of Great Britain and Northern Ireland,,London,,,,,#N/A,,KO,,KO,,KO
+EN23,Kid,F,9,United Kingdom of Great Britain and Northern Ireland,,London,,,,,#N/A,,KO,,KO,,KO
+EN24,Kid,M,8,United Kingdom of Great Britain and Northern Ireland,,London,,,,,#N/A,,KO,,KO,,KO
+AUS03,Kid,F,6,Australia,,London,,,,,#N/A,,KO,,KO,,KO
+EN25,Kid,M,7,United Kingdom of Great Britain and Northern Ireland,,London,,,,,#N/A,,KO,,KO,,KO
+RUS02,Kid,M,6,Russian Federation,,Moscow,,,,,#N/A,,KO,,KO,,KO
+RUS03,Kid,F,10,Russian Federation,,Moscow,,,,,#N/A,,KO,,KO,,KO
+RUS04,Kid,F,9,Russian Federation,,Moscow,,,,,#N/A,,KO,,KO,,KO
+RUS05,Adult,F,31,Russian Federation,,Moscow,Recruiter,5,Psychology,0,Intermediate occupation,Better,"Better, more open world, more opportunities, less stereotypes, happier, , , , , , , , , , ",Violence,"fall from my bycicle and get injured, , , , , , , , , , , , , , ",Other,"No specific dream, just live and be happy, , , , , , , , , , , , , "
+AZ01,Adult,F,24,Azerbaijan,Russia,Moscow,PR,5,International relations,0,Intermediate occupation,Better,"Better, they lived during soviet times, everybody knows what happened then, , , , , , , , , , , , ",Personal failure,"Have regrets when i'm old, That I've not done enough, , , , , , , , , , , , , ",Personal Dream,"To make my dream come true, , , , , , , , , , , , , , "
+RUS06,Adult,M,44,Russian Federation,Ossetia,Moscow,Entrepreneur,10,Physics,1,Executive & intellectual occupation,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+RUS07,Adult,F,76,Russian Federation,,Moscow,Professor of economics,10,International economy and Foreign Trade Finance,1,Executive & intellectual occupation,Neutral,"it depends on the health and the age, , , , , , , , , , , , , , ",Death / Disease,"sickness, for me and the others, , , , , , , , , , , , , ",,KO
+RUS08,Adult,M,39,Russian Federation,,Moscow,Conductor of Russian Style Folkestra,9,Music,1,Executive & intellectual occupation,Better,"Easier, Calmer, , , , , , , , , , , , , ",Violence,"War, Military collision, , , , , , , , , , , , , ",Dream for the World,"See people healthy around me, healthy relations , respect, without any extravagancies, , , , , , , , , , , "
+OUZ01,Adult,F,48,Uzbekistan,,Moscow,Cleaning Lady,0,,3,Employee,Worse,"Worse, Soviet union before, Stability, didn't think about tomorrow, no odd jobs, , , , , , , , , , ",Loneliness,"Old age, Loneliness, disease, , , , , , , , , , , , ",Personal Dream,"Come back home soon, Live with my family, , , , , , , , , , , , , "
+RUS09,Adult,M,26,Russian Federation,,Moscow,Operations Manager,5,Translation and interpretation,0,Executive & intellectual occupation,Cannot compare,"I can't answer, different rules and school programs, culture…, I'm leaving in another country, their life is their life, they had their happy moments, , , , , , , , , , ",Loneliness,"I hate lonelyness, I'm a very communicative person, odio soledad, , , , , , , , , , , , ",Other,"I've got rid of all dreams since the time I stopped being a kid, , , , , , , , , , , , , , "
+RUS10,Adult,F,33,Russian Federation,,Moscow,Newspaper Director,5,Economics,0,Executive & intellectual occupation,Better,"better , more opportunities, better political system, , , , , , , , , , , , ",Losing loved ones,"death of my parents, , , , , , , , , , , , , , ",Personal Dream,"many, see and try everything in the world, you should do everything you can to understand everyhthing, , , , , , , , , , , , "
+RUS11,Adult,F,31,Russian Federation,,Moscow,Education,7,Linguistics,0,Intermediate occupation,Better,"Better, the world is becoming better, every generation , , , , , , , , , , , , ","Insects, height","Heights, , , , , , , , , , , , , , ",Personal Dream,"To see the world, , , , , , , , , , , , , , "
+GE01,Adult,F,26,Georgia,Russia,Tbilisi,"Director, Writer",5,PR,0,Executive & intellectual occupation,Better,"Better life, I can do anything, and choose my life, I can listen to my heart, They didn't believe they can do everything, no thinking about what they really want to do , If people understand what they want to do, the world will change, I try to take them out of them, , , , , , , ",Losing loved ones,"Losing people, , , , , , , , , , , , , , ",Personal Dream,"See all people I love happy, understand myself completely, use all talents that I have, , , , , , , , , , , , "
+GE02,Adult,F,26,Georgia,Russia,Moscow,Director,5,Art History,0,Executive & intellectual occupation,Better,"Better, more opportunities, Life in soviet times was very different, more complicated to get knowledge, to explore the world, to provide yourslefe with anything , , , , , , , , , , , ",Fear of Fear,"stop being afraid of anything, when you have something to lose, otherwise cynical, , , , , , , , , , , , ",Personal Dream,"become a better myself, spend time with people I love, see them happy, , , , , , , , , , , , "
+RUS12,Adult,F,27,Russian Federation,,Irkutsk,HR,6,Economics,1,Intermediate occupation,Better,"Better, And I try to help them to plundge into my world, , , , , , , , , , , , , ",World crisis,"I've thinking about the disappearance of Baikal, Scared of people destroying the nature, , , , , , , , , , , , , ",Personal Dream,"Travel around the world, I want to take energy from every corner of the planet, , , , , , , , , , , , , "
+TR08,Adult,M,23,Turkey,,Istanbul,Volunteer Imam and Student,5,International relations,0,Student,,", , , , , , , , , , , , , , ",Violence,"Become enslaved as a nation, Live under the flag of our own nation, , , , , , , , , , , , , ",Dream for the World,"Continue my study, contribute to help the world / my country, , , , , , , , , , , , , "
+RUS13,Adult,F,28,Russian Federation,,Olkhon Island,Hotel Administrator,5,economy,0,Intermediate occupation,Cannot compare,"I don't know, time was different, they cared less about things, maybe things were easier and more simple before, , , , , , , , , , , , ",Loneliness,"My thoughts, the dark, , , , , , , , , , , , , ",Personal Dream,"build a home for me and my boyfriend, give birth, family, , , , , , , , , , , , "
+MN01,Adult,M,54,Mongolia,,Soft Gobi,Nomad,0,,3,Not paid occupation,Better,"Better, we have plenty of everything now, they were nothing more they could do than taking care of the cattle, , , , , , , , , , , , ",Death / Disease,"Sickness, , , , , , , , , , , , , , ",Personal Dream,"Increasing our cattles, , , , , , , , , , , , , , "
+MN02,Adult,M,61,Mongolia,,Middle Gobi,Driver,0,,2,Worker,Cannot compare,"Parents were nomad, different life but both happy, , , , , , , , , , , , , ","Insects, height","Snakes, , , , , , , , , , , , , , ",Personal Dream,"Already came true, many grandchildren, , , , , , , , , , , , , "
+KOR01,Adult,F,36,Republic of Korea,,Seoul,Elementary school teacher,3,,0,Intermediate occupation,Better,"Easier, not the same chances to study, I studied mostly via the internet, I live better than them, , , , , , , , , , , ",Other,"What I don't know, , , , , , , , , , , , , , ",Personal Dream,"Being the President, , , , , , , , , , , , , , "
+MN03,Adult,F,24,Mongolia,,Ulaanbaatar,Student,4,electronic engineering,0,Student,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+MN04,Adult,M,28,Mongolia,,Ulaanbaatar,,2,,,#N/A,Better,"Better, , , , , , , , , , , , , , ","Insects, height","Butterfly, , , , , , , , , , , , , , ",Personal Dream,"Live peacefully, , , , , , , , , , , , , , "
+MN05,Adult,M,28,Mongolia,,Ulaanbaatar,Motorcycle racer,4,information technology,0,Intermediate occupation,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+CAM01,Adult,F,47,Cameroon,,Ulaanbaatar,Sister,5,Education,0,Not paid occupation,Better,"Better, long time ago, world has changed, , , , , , , , , , , , , ",Personal failure,"be disappointed of not doing what I want to do, fear of not succeeding, , , , , , , , , , , , , ",Dream for the World,"A better world, , , , , , , , , , , , , , "
+TW01,Adult,F,20,Taiwan (Republic of China),,Taipei,Student,4,Fashion Design,0,Student,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+CHN03,Adult,F,31,China,,Ulaanbaatar,Sister,5,Theology,0,Not paid occupation,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+MN06,Kid,F,7,Mongolia,,Ulaanbaatar,,,,,#N/A,,KO,,KO,,KO
+MN07,Kid,F,9,Mongolia,,Ulaanbaatar,,,,,#N/A,,KO,,KO,,KO
+MN08,Adult,F,24,Mongolia,,Ulaanbaatar,Student,4,Tourism and hotellerie,0,Student,Better,"Better, , , , , , , , , , , , , , ",Losing loved ones,"mice, dark, losing a loved one, , , , , , , , , , , , ",Dream for the World,"help raped and abused women, , , , , , , , , , , , , , "
+MN09,Adult,F,53,Mongolia,,Ulaanbaatar,Teacher,8,Teaching,3,Intermediate occupation,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+MN10,Adult,F,58,Mongolia,,Ulaanbaatar,Cook,4,Bachelor,4,Employee,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+MN11,Adult,F,46,Mongolia,,Ulaanbaatar,Sewing teacher,4,Sewing,1,Intermediate occupation,Better,"way better because of technology, Hungary in 1992 - very exepensive to communicate with my mum, today she is in France and we talk everyday for free, , , , , , , , , , , , ",Violence,"Some people's psychology, violent people, fighting rather than smiling, I alsways tell people to smile, before all mongolians were very respectful to each other, not anymore today, , , , , , , , , , ",Personal Dream,"travel the world, , , , , , , , , , , , , , "
+MN12,Adult,F,30,Mongolia,,Ulaanbaatar,Mother,4,Tourism,2,Not paid occupation,Better,"Better, More chance for education for kids, But they also need more things than before, , , , , , , , , , , , ",Losing loved ones,"that my son would get a cold, before nothing, , , , , , , , , , , , , ",Personal Dream,"Big dreams, changed with my kids, success for them in the future, , , , , , , , , , , , "
+MN13,Adult,F,40,Mongolia,,Ulaanbaatar,Kindergarden teacher,0,,3,Intermediate occupation,Worse,"Everybody had a job at that time, people used to communicate more, it's getting more complicated now, , , , , , , , , , , , ",No fear,"Almost nothing, darkness sometimes, , , , , , , , , , , , , ",Personal Dream,"I wanted to be a teacher when I was a kid, but I couldn't study as I was living in the countryside, I'm now a kindergarten teacher, I'd like to study more, , , , , , , , , , , "
+MN14,Adult,M,28,Mongolia,,Ulaanbaatar,Policeman,0,,1,Employee,Neutral,"50/50, I have to take care of family and many other things, , , , , , , , , , , , , ",Death / Disease,"Sickness, , , , , , , , , , , , , , ",Personal Dream,"my dream came true, I'm a father and have a beautiful family, , , , , , , , , , , , , , "
+AFG02,Adult,M,26,Afghanistan,,Ulaanbaatar,Student,5,Business,0,Student,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+YEM01,Adult,M,34,Yemen,,Ulaanbaatar,Business,3,Computer application,1,Executive & intellectual occupation,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+MN15,Adult,F,45,Mongolia,,Ulaanbaatar,Museum Guide,0,,3,Employee,Worse,"Worse, socialist system before, better living potential and welfare state, society is getting tough now, , , , , , , , , , , ",Other,"people spite, , , , , , , , , , , , , , ",Dream for the World,"Happiness to all humans, , , , , , , , , , , , , , "
+SG01,Adult,F,25,Singapore,,Singapore,Fashion Designer & Nurse,4,Nurse & Fashion Design,0,Executive & intellectual occupation,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+SG02,Adult,M,27,Singapore,,Singapore,Friefighter,4,Animation,0,Employee,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+PH01,Adult,F,28,Philippines,,Singapore,Preschool Teacher,8,Education,,Intermediate occupation,Better,"Easier, I also learnt to grow the hard way, they are used to hard time, more resilient, sometimes I feel like giving up, , , , , , , , , , ",Personal failure,"Not being enough, as a teacher, friend, girlfriend, , , , , , , , , , , , , ",Dream for the World,"have a good influence on people, theat they don't give up thanks to me, , , , , , , , , , , , , "
+SG03,Adult,F,29,Singapore,,Singapore,Content Producer,2,Mass communications,0,Executive & intellectual occupation,Better,"Life is easier, we have much more, maybe simpler before, complicated doesn't mean it""s bad, I have more freedom, grandma 13 kids !, financially stable, , , , , , , , ",Death / Disease,"Not existing, what will happen when I die ?, I don't have a religion, so I don't know, , , , , , , , , , , ",Personal Dream,"world peace, ahah no, be a productive and good person, know who you are, it's a maturity to have less friend when you grow old, my dream is to be in the circle of people I love, , , , , , , , , "
+SG04,Adult,M,26,Singapore,,Singapore,Urban Planner,4,Urban Planning,0,Executive & intellectual occupation,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+SG05,Adult,F,33,Singapore,,Singapore,Coordinator,7,Science,0,Executive & intellectual occupation,Better,"people focus more on purpose than job itself today, so easier , , , , , , , , , , , , , ",Personal failure,"Being lost, in terms of purpose in life, we are so busy with modern life, that it's too late, , , , , , , , , , , ",Personal Dream,"Have a house, short one, mountain view, cows, don't have to work , ride horse everyday, make cheese, put a lot of chocolate in my house, invite friends everyday, , , , , , "
+SG06,Adult,F,29,Singapore,,Singapore,Director / Producer,6,Film & Theatre,0,Executive & intellectual occupation,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+IND02,Adult,F,36,India,,Singapore,Communication Strategist,5,Business & Communication,1,Executive & intellectual occupation,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+MN16,Kid,F,6,Mongolia,,Ulaanbaatar,,,,,#N/A,,KO,,KO,,KO
+MYN01,Adult,M,32,Myanmar,,Yangon,Head of IT & Business Solutions,4,Mathematics,0,Executive & intellectual occupation,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+MYN02,Adult,M,33,Myanmar,,Yangon,Security Guard,,,,Employee,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+CAN03,Adult,M,54,Canada,,Yangon,Wellness Therapist,7,,2,Executive & intellectual occupation,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+MYN03,Adult,F,25,Myanmar,,Yangon,Freelance Consultant,5,Economics,0,Executive & intellectual occupation,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+IND03,Adult,M,46,India,,Yangon,Marketing Director,7,Physics and Management,1,Executive & intellectual occupation,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+MYN04,Adult,F,24,Myanmar,,Yangon,Research Assistant,4,Economics,0,Executive & intellectual occupation,Worse,"More complicated, many aspects to consider, they didn't have to worry about many things, , , , , , , , , , , , ",Losing loved ones,"Losing my loved ones, , , , , , , , , , , , , , ",Personal Dream,"Get more education, go abroad, , , , , , , , , , , , , "
+MYN05,Adult,M,26,Myanmar,,Yangon,Translator,5,Electrical Power and English,0,Executive & intellectual occupation,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+MYN06,Adult,F,18,Myanmar,India,Yangon,"Teacher, Sales and Marketing",2,Arts,0,Intermediate occupation,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+IDN02,Adult,F,34,Indonesia,,Yangon,Teacher,5,Mathematics,,Intermediate occupation,Worse,"More complicated, Their life was more simple, little things to make them happy, today more than that, , , , , , , , , , , ",Losing loved ones,"Coakroach, losing someone that I love, , , , , , , , , , , , , ",Personal Dream,"Have baby, , , , , , , , , , , , , , "
+IDN03,Adult,M,41,Indonesia,,Yangon,Entrepreneur,5,Management,,Executive & intellectual occupation,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+IDN04,Kid,M,13,Indonesia,,Yangon,,,,,#N/A,,KO,,KO,,KO
+MYN07,Adult,M,31,Myanmar,,Yangon,Teacher,9,Chemistry,0,Intermediate occupation,Cannot compare,"I don't know, Ive never lived my parents life, , , , , , , , , , , , , ",Other,"female character in the lord of the ring, she answers this question saying : being put in prison until there is no use for me, I hope our government will allow people to work for the development of our country, , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+MYN08,Adult,M,24,Myanmar,,Yangon,Business Manager,3,English,0,Executive & intellectual occupation,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+MYN09,Adult,F,30,Myanmar,,Yangon,Preschool Teacher,3,BA language,0,Intermediate occupation,Both,"Life is difficult, same, mum single, , , , , , , , , , , , ",Other,"Life, That I can't meditate, , , , , , , , , , , , , ",Personal Dream,"Live in a village when I get old, education, work in the mountains, , , , , , , , , , , , "
+MYN10,Adult,M,47,Myanmar,,Yangon,Monk,4,Monastery,0,Intermediate occupation,Better,"Easier, thanks to my teachers, my parents : traditional way in the village, me city, , , , , , , , , , , ",Death / Disease,"Death, , , , , , , , , , , , , , ",Dream for the World,"help novie monks, , , , , , , , , , , , , , "
+MYN11,Adult,M,26,Myanmar,,Ayervatty Division,Student,2,Agriculture,0,Student,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+MYN12,Adult,M,55,Myanmar,,Yangon,NGO Founder,2,Organic Argiculture,3,"Craftsmen, merchants & business owner",Better,"Easier, I created what I want to do, , , , , , , , , , , , , ","Insects, height","Snakes, , , , , , , , , , , , , , ",Personal Dream,"become Popular in Myanmar, , , , , , , , , , , , , , "
+ALL03,Adult,M,48,Germany,,Yangon,International Police Adviser,5,"Risk Crisis Management, Peacekeeping",1,Executive & intellectual occupation,Both,"Philosophical question, everytime in life has its challenges, old enough to look back when we had no internet, more quiet, but hard to say if it was better, , , , , , , , , , ",Death / Disease,"having a bad health, suffering in pain, , , , , , , , , , , , , ",Personal Dream,"going to interesting places and meeting a lot of people, I'm living the dream, enjoy life, , , , , , , , , , , , "
+MYN13,Adult,F,24,Myanmar,,Mandalay,Teacher,4,English,0,Intermediate occupation,Both,"More complicated, I moved to mandalay, to continue my studies, thought it was more easy, but very competitive, lots of skills to have a job, why can't we learn from doing things ?, , , , , , , , ","Insects, height","Snakes, , , , , , , , , , , , , , ",Personal Dream,"Found an organic farm, , , , , , , , , , , , , , "
+MYN14,Adult,F,22,Myanmar,,Countryside,Student,1,Agriculture,0,Student,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+IND04,Adult,M,33,India,,New Delhi,Policeman,0,Central School,2,Employee,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+IND05,Adult,F,83,India,,Gurgaon,Housewife,2,Arts,4,Not paid occupation,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+IND06,Adult,F,53,India,,Gurgaon,Teacher,7,Botany,1,Intermediate occupation,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+IND07,Adult,F,32,India,,New Delhi,Cook,0,,3,Employee,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+IND08,Adult,M,37,India,,New Delhi,Bag Master,0,,8,,Worse,"Worse, inflation very high now, easier for them to bring us up, difficult today, , , , , , , , , , , ",Personal failure,"Myself, emotional and sensitive, afraid of making mistakes, , , , , , , , , , , , ",Personal Dream,"work hard, become someone good, raise my kids, , , , , , , , , , , , "
+IND09,Adult,M,35,India,,New Delhi,Belt Master,0,,2,,Better,"My parents life was more complicated, more problems, no one was eanring money at all, , , , , , , , , , , , ","Insects, height","Water, , , , , , , , , , , , , , ",Personal Dream,"Earn money to live well, what else could be my dream…, , , , , , , , , , , , , "
+IND10,Adult,F,23,India,,Nimmu,House keeping,,,0,Employee,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+IND11,Adult,M,37,India,,New Delhi,Yoga Coach,5,Yoga arts and management,2,Executive & intellectual occupation,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+IND12,Adult,M,43,India,,Gurgaon,Business Manager,3,Humanities /Arts,2,Executive & intellectual occupation,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+IND13,Adult,M,36,India,,Gurgaon,Business Manager,5,Commerce / Fashion,2,Executive & intellectual occupation,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+IND14,Adult,F,41,India,,New Delhi,Home Maker,7,Accounting,1,Executive & intellectual occupation,Both,"Both, I was happier when I was a child, Technology didn't bring us as much ease as we think, I feel unconfortable when I don't have my phone, , , , , , , , , , , ",Death / Disease,"Losing my health, With all the junk food and pollution, easy, , , , , , , , , , , , ",Personal Dream,"Still be healthy at 80, Be healthy, , , , , , , , , , , , , "
+IND15,Adult,F,32,India,,Gurgaon,Product developper (fashion),3,Fashion,1,Executive & intellectual occupation,Better,"More comfortable, I've seen girls not educated just because they where girls, they didn't do this to me, , , , , , , , , , , , ",Losing loved ones,"My daughter is 1,5 yo, afraid of india, I want her to be safe, , , , , , , , , , , , ",Personal Dream,"Become very rich, live a very good life, money is very important, , , , , , , , , , , , "
+USA39,Adult,F,35,United States of America,,Los Angeles,Interior Designer,5,Interior Design,,Executive & intellectual occupation,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+IND16,Adult,F,17,India,,New Delhi,,,,,#N/A,,KO,,KO,,KO
+IND17,Adult,M,19,India,,New Delhi,,,,,#N/A,,KO,,KO,,KO
+IND18,Adult,F,19,India,,New Delhi,,,,,#N/A,,KO,,KO,,KO
+IND19,Adult,F,19,India,,New Delhi,,,,,#N/A,,KO,,KO,,KO
+IND20,Adult,F,18,India,,New Delhi,,,,,#N/A,,KO,,KO,,KO
+IND21,Adult,M,20,India,,New Delhi,,,,,#N/A,,KO,,KO,,KO
+IND22,Adult,F,18,India,,New Delhi,,,,,#N/A,,KO,,KO,,KO
+IND23,Adult,F,18,India,,New Delhi,,,,,#N/A,,KO,,KO,,KO
+IND24,Adult,F,20,India,,New Delhi,,,,,#N/A,,KO,,KO,,KO
+IND25,Adult,F,20,India,,New Delhi,,,,,#N/A,,KO,,KO,,KO
+IND26,Adult,F,18,India,,New Delhi,,,,,#N/A,,KO,,KO,,KO
+IND27,Adult,M,18,India,,New Delhi,,,,,#N/A,,KO,,KO,,KO
+IND28,Adult,F,18,India,,New Delhi,,,,,#N/A,,KO,,KO,,KO
+IND29,Adult,F,18,India,,New Delhi,,,,,#N/A,,KO,,KO,,KO
+IND30,Adult,F,20,India,,Kolkata,,,,,#N/A,,KO,,KO,,KO
+IND31,Adult,M,18,India,,Kolkata,,,,,#N/A,,KO,,KO,,KO
+IND32,Adult,M,22,India,,Kolkata,,,,,#N/A,,KO,,KO,,KO
+IND33,Adult,F,20,India,,Kolkata,,,,,#N/A,,KO,,KO,,KO
+IND34,Adult,F,16,India,,Kolkata,,,,,#N/A,,KO,,KO,,KO
+IND35,Adult,F,21,India,,Kolkata,,,,,#N/A,,KO,,KO,,KO
+IND36,Adult,M,21,India,,Kolkata,,,,,#N/A,,KO,,KO,,KO
+IND37,Adult,F,18,India,,Kolkata,,,,,#N/A,,KO,,KO,,KO
+IND38,Adult,F,20,India,,Kolkata,,,,,#N/A,,KO,,KO,,KO
+FR057,Adult,M,24,France,,Kolkata,,,,,#N/A,,KO,,KO,,KO
+FR058,Adult,M,29,France,,Kolkata,,,,,#N/A,,KO,,KO,,KO
+IND39,Adult,F,30,India,,New Delhi,Artist,7,Engineering,,Executive & intellectual occupation,Both,"Pros and cons, simpler in terms of opportunities, better education, travel, they didn't have this, their life was simple, sometimes we have too many choices, , , , , , , , ",Other,"Anger and arguments, they kill time and hearts, , , , , , , , , , , , , ",,"To be an artist, I don't need a gallery to represent my work, To have a restaurant where it's about nobody being hungry, Feeding is the most direct act of human nature, travel more,  , , , , , , , , , "
+IND40,Adult,M,43,India,,New Delhi,Tailor,,,3,"Craftsmen, merchants & business owner",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+IND41,Adult,F,40,India,,Bangalore,Banker,6,Business,0,Executive & intellectual occupation,Both,"Complicated because I want more, Easier because of techology, superior technical era, , , , , , , , , , , , ",Personal failure,"Regrets, , , , , , , , , , , , , , ",,"Make as many interesting connections as possible, live as many stories as possible, , , , , , , , , , , , , "
+IND42,Adult,F,75,India,,Kolkata,Housewife,4,Littérature and history,2,Not paid occupation,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+AUS04,Adult,F,34,Australia,India,Kolkata,Homemaker,5,English littérature,1,"Craftsmen, merchants & business owner",Both,"Both, they had simpler needs, also lots of things are easier, technologies, too many choices today, , , , , , , , , , ",Other,"Taking risks sometimes, , , , , , , , , , , , , , ",,"Everybody to be happy, accepting the others, , , , , , , , , , , , , "
+IND43,Adult,M,27,India,,Kolkata,Retail,3,Arts,3,"Craftsmen, merchants & business owner",Better,"Easier, everything gets better with time, at their time struggle was everything, , , , , , , , , , , , ",Personal failure,"Myself, I'm a very destructive person, I just go over the limits sometimes, If I drink I drink extreme, If I fight I fight extreme, If I love I love extreme, , , , , , , , , ",,"To be very rich and successful, I want to make a difference, , , , , , , , , , , , , "
+NP01,Adult,F,33,Nepal,,Kathmandu,Social Worker,5,Sociology,72,Intermediate occupation,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+NP02,Adult,M,50,Nepal,,Kathmandu,Shop retailer,0,,3,"Craftsmen, merchants & business owner",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+NP03,Adult,M,34,Nepal,,Kathmandu,Entrepreneur,6,Business,0,Executive & intellectual occupation,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+NP04,Adult,F,15,Nepal,,Kathmandu,Student,,,,Student,Neutral,"I don't know before my birth, same food , same type of clothe, we sleep in same kind of rooms, so same same, , , , , , , , , , ","Insects, height","Snakes, , , , , , , , , , , , , , ",,"Become a singer, , , , , , , , , , , , , , "
+NP05,Adult,M,40,Nepal,,Kathmandu,Motivational trainer,12,"Yoga, human consciousness",,Executive & intellectual occupation,Both,"Modernity, trains, technology, I'm compelled to make my life complex, but yoga helps me to make it more simple , , , , , , , , , , , , ",No fear,"Nothing, , , , , , , , , , , , , , ",,"To sleep with stress free mind every night, , , , , , , , , , , , , , "
+NP06,Adult,M,55,Nepal,,Kathmandu,Chief of local government,3,Management,2,Executive & intellectual occupation,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+NP07,Adult,F,34,Nepal,,Kathmandu,Cook,0,,2,Employee,Better,"Much easier now, Im' independent, I don't need to ask people for money, , , , , , , , , , , , ",Violence,"Going back to my days in the village, Where my husband was troubling me, Now I'm aay from mental and physical pain, I don't want to relive the past, , , , , , , , , , , ",,"Go abroad once, , , , , , , , , , , , , , "
+NP08,Adult,M,44,Nepal,,Kathmandu,Farmer,0,,2,Farmer,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+NP09,Adult,F,16,Nepal,,Kathmandu,Student,,Management,,Student,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+NP10,Adult,M,30,Nepal,,Chaughada,Worker,6,Humanities,,Worker,Better,"Easier, in their time, no mobile or TV, walk 9h to kathmandu, now a bus or motorbike, new technology helps us, , , , , , , , , , , ",Personal failure,"The society, People talking about me, people might think I'm not doing good, It influence everything I'm doing, , , , , , , , , , , ",,"To be a successful person, everyone's dream, , , , , , , , , , , , , "
+NP11,Adult,M,31,Nepal,,Kathmandu,Teacher,3,Sociology,2,Intermediate occupation,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+NP12,Adult,M,64,Nepal,,Chaughada,Rice Mill Owner,0,,,"Craftsmen, merchants & business owner",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+NP13,Adult,F,46,Nepal,,Chaughada,Housewife,0,,2,Not paid occupation,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+NP14,Adult,F,23,Nepal,,Chaughada,Housewife,0,,0,Not paid occupation,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+NP15,Adult,M,24,Nepal,,Chaughada,Farmer,0,,1,Farmer,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+NP16,Adult,M,14,Nepal,,Chaughada,Student,,,,Student,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+NP17,Adult,M,49,Nepal,,Chaughada,Farmer,0,,2,Farmer,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+NP18,Adult,F,26,Nepal,,Chaughada,Housewife,0,,1,Not paid occupation,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+NP19,Adult,M,48,Nepal,,Kathmandu,Travel Agent / School principal,5,Anthropology,0,Intermediate occupation,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+NP20,Adult,F,17,Nepal,,Kathmandu,Student,,,0,Student,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+IRN02,Adult,M,30,Iran (Islamic Republic of),,Tehran,Petroleum Engineer,4,Petroleum Engineering,0,Executive & intellectual occupation,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+IRN03,Adult,F,27,Iran (Islamic Republic of),,Tehran,Advertising,7,Architecture,0,Executive & intellectual occupation,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+AFG03,Adult,M,42,Afghanistan,,Tehran,Caretaker,0,,2,Intermediate occupation,Better,"Easier, My parents had 7 kids, I have only 2, , , , , , , , , , , , , ",Violence,"War , Forces people to leave their homes, , , , , , , , , , , , , ",,"Global peace, No borders, no racism, , , , , , , , , , , , , "
+IRN04,Adult,M,32,Iran (Islamic Republic of),,Shiraz,Tour guide and former nomad,5,english translation,1,Employee,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+IRN05,Adult,M,23,Iran (Islamic Republic of),,Tehran,Artist (destructor and creator),5,Architecture,0,Executive & intellectual occupation,Both,"Way more complicated, in a good way, I like it, But not as hard, more complex but easier, , , , , , , , , , ",Fear of Fear,"Not afraid of dying, afraid of being afraid, people think that love and hate are polarities, but I think love and hate are on the same side, and fear is on the other side, Lots of things to fear nowadays, , , , , , , , , , ",,"I daydream, grasp my dream everyday, but no big dreams, being healthy at 70, , , , , , , , , , , "
+IRN06,Adult,M,83,Iran (Islamic Republic of),France,Tehran,"Architect, writer",8,Architecture,2,Executive & intellectual occupation,Better,"Always nostalgia about our fathers, but I think usually life is better, life standard has improve thoughout the ages, , , , , , , , , , , , ","Insects, height","snakes, childhood history, , , , , , , , , , , , , ",,"I'd like to improve some things, but no particular dream, , , , , , , , , , , , , "
+IRN07,Adult,F,40,Iran (Islamic Republic of),France,Tehran,,3,Communication,0,#N/A,Worse,"More complicated, my parents came from a very high social environment, I could have been beyonce, but with the revolution we lost everything, and the country lost a lot loosing all these people, anyway it was better before, we lived less long, cancer, on vit mal plus longtemps, , , , , , ",No fear,"I used to be afraid when I was young, But since I know who I am, I'm not afraid anymore, , , , , , , , , , , , , ",,"I fulfilled it, I met mickeal jackson, I was on stage with him, HELP to find a video , 27-Jul-97, , , , , , , , , , "
+IRN08,Adult,F,26,Iran (Islamic Republic of),,Tehran,English teacher,5,English littérature & langugage,0,Intermediate occupation,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+ALL04,Adult,F,31,Germany,,Munich,Publisher writer,5,Middle eastern studies,0,Executive & intellectual occupation,Neutral,"It has never been easy, war before, cold war, economic crises, life is always easy or hard, depends on your vision, , , , , , , , , , ","Insects, height","Shark, thank you spielberg , , , , , , , , , , , , , ",,"Small dreams that all together make a big dreams, make the world slightly better, have a good minded investment company, somewhere between the good and the bad side, , , , , , , , , , , "
+IRN09,Adult,F,25,Iran (Islamic Republic of),,Tehran,Photographer,4,photography,0,Executive & intellectual occupation,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+KEN01,Adult,F,30,Kenya,,Addis Ababa,Unemployed,2,Business,0,Not paid occupation,Better,"Easier, no school before, no medication, I can go to hospital without problems, , , , , , , , , , , ",Death / Disease,"Death, sickness, , , , , , , , , , , , , ",,"Help others, , , , , , , , , , , , , , "
+ETH01,Adult,M,28,Ethiopia,,Addis Ababa,Tour and travel,3,tourism,0,Employee,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+ETH02,Adult,M,67,Ethiopia,,Addis Ababa,Retired higher executive,2,marketing,2,Retiree,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+IRN10,Adult,F,20,Iran (Islamic Republic of),,Tehran,Actress,3,Fashion design,0,Executive & intellectual occupation,Both,"More complicated, different time, girls used to get married and have a family earlier, men used to work and support their family, today life is more about pursuing your dreams and try to do what you want, add something to this world, , , , , , , , , ",Losing loved ones,"Death, of my family members, especially my dad, dying at a time I havn't reached my dreams, , , , , , , , , , , ",,"Being an actress, , , , , , , , , , , , , , "
+IRN11,Adult,M,23,Iran (Islamic Republic of),,Isfahan,Student,5,Management,0,Student,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+IRN12,Adult,M,36,Iran (Islamic Republic of),,Isfahan,Clergy,13,Theology,3,Intermediate occupation,Better,"Plus facile, Lots of possibilities now, lots of things to do, , , , , , , , , , , , ",World crisis,"Of the futur, of god, s'il sera satisfait de la vie , , , , , , , , , , , , ",,"To be a good man, , , , , , , , , , , , , , "
+IRN13,Adult,M,73,Iran (Islamic Republic of),,London,Retired Engineer,5,Engineering,2,Retiree,Worse,"More complicated, It's gonna be more complicated for my kids, we're advancing but life is getting harder, , , , , , , , , , , , ",Death / Disease,"Nothing, Addiction, Disease that makes me dependant , , , , , , , , , , , , ",,"Not have a very difficult ending , , , , , , , , , , , , , , "
+IRN14,Adult,M,21,Iran (Islamic Republic of),,Tehran,Programmer,2,Software engineering,0,Executive & intellectual occupation,Neutral,"Same, I experience something they never experienced, vice versa, , , , , , , , , , , , ",Death / Disease,"Death, , , , , , , , , , , , , , ",,"Immortality, my biggest fear is death, immortality for everyone, , , , , , , , , , , , "
+IRN15,Adult,F,25,Iran (Islamic Republic of),,Tehran,Receptionist and editor,7,Theatre,0,Employee,Neutral,"You cannot measure that, there were living a hard time under revolution and war, we are having troubles in another way, life is equally complicated, , , , , , , , , , , ",World crisis,"Many things, That people stop understanding each other, stop seeing eah others as human beings, , , , , , , , , , , , ",,"Live in a world in peace, understanding, wehre you will never be poor, , , , , , , , , , , , "
+IRN16,Adult,M,30,Iran (Islamic Republic of),,Tehran,Barista,6,Sociology,0,Employee,Both,"Both, No hard work for me, social situation is more complicated, mentally, physically easier, we have to work hard, we don't trust eachother anymore, things have changed a lot, , , , , , , , ",Personal failure,"Spend your life on something that are not worth it, , , , , , , , , , , , , , ",,"Happy peaceful world, , , , , , , , , , , , , , "
+IRN17,Adult,M,24,Iran (Islamic Republic of),,Tehran,Barista and wood worker,5,Theatre,0,Employee,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+IRN18,Adult,M,25,Iran (Islamic Republic of),,Tehran,Journalist and producer,5,Computer language,0,Executive & intellectual occupation,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+IRN19,Adult,M,57,Iran (Islamic Republic of),,Tehran,Taxi Driver,0,,3,Worker,Better,"Easier, my parents fought for my success, first in my family to finish high school, That's why I alos invested a lot in my children education, I wish all children of the world can receive education, even if they are unemployed, , , , , , , , , ",Violence,"Lies, harmed by them, basis of atrocities, , , , , , , , , , , , ",,"world peace, , , , , , , , , , , , , , "
+IRN20,Adult,F,24,Iran (Islamic Republic of),,Tehran,Student and receptionist,5,Architecture Arts,0,Student,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+ZIM01,Adult,M,54,Zimbabwe,,Bulawayo,Retired Police officer and peacekeeper,2,Managing peace and security,6,Retiree,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+ZAM01,Adult,F,37,Zambia,,Addis Ababa,Policy officer Economics,5,Economics and development management,2,Executive & intellectual occupation,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+ETH03,Adult,M,23,Ethiopia,,Menagesha,Farm employee,0,,,Worker,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+ETH04,Adult,F,30,Ethiopia,,Menagesha,Farm employee,0,,,Worker,,"I don't know, , , , , , , , , , , , , , ","Insects, height","I'm not scared of humans so maybe animals, Hyenas, , , , , , , , , , , , , ",,"Be a mother, raise my kids in a good way, , , , , , , , , , , , , "
+ETH05,Adult,M,54,Ethiopia,,Menagesha,Farm employee,0,,,Worker,Neutral,"My parents were not rich but they have a house, I came here when I was young, I live happy here, god willing, gove something to my children, , , , , , , , , , , ",Other,"I'm happy to know ethiopia is peaceful, I want everyone to be happy, , , , , , , , , , , , , ",,"live and work happy, , , , , , , , , , , , , , "
+ETH06,Adult,F,45,Ethiopia,,Addis Ababa,Gender and development coordinator,10,International economics relations,,Executive & intellectual occupation,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+ETH07,Adult,M,36,Ethiopia,,Addis Ababa,Agronomist,4,General Agriculture,1,Executive & intellectual occupation,Both,"more competitive life, world is more competitive, less population before, better availabilities of things, , , , , , , , , , , ",No fear,"nothing, , , , , , , , , , , , , , ",,"live a peaceful life, see my friends happy, , , , , , , , , , , , , "
+ETH08,Adult,M,49,Ethiopia,,Menagesha,Farm manager,0,Automechanics,3,Farmer,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+ETH09,Adult,F,55,Ethiopia,,Dorze,Potery maker,0,,5,Executive & intellectual occupation,Better,"getting better, no schools before, learn from the kids, good for the future, , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+ZIM02,Adult,F,42,Zimbabwe,,Addis Ababa,Social Scientist,5,Social Studies,1,Executive & intellectual occupation,Worse,"I've been to different countries and environments, my parents always same government job, straght forward, Me I have to adapt, My life is more complicated, , , , , , , , , , ",Violence,"Terrorism, , , , , , , , , , , , , , ",,"Living in a peaceful environment, everyone has dignified life, everyone respects each other, where you don't have to fight, , , , , , , , , , , "
+ANG,Adult,F,31,Angola,,Addis Ababa,Assistant,7,Environment,0,Employee,Worse,"More complicated, lots of problems today, demography, climate, it was different before, we try to offset the problem of the past, , , , , , , , , , ","Insects, height","Dentist, , , , , , , , , , , , , , ",,"Have a small house in my village, grow vegetables, , , , , , , , , , , , , "
+ETH10,Adult,F,26,Ethiopia,,Addis Ababa,Writer,5,Law,0,Executive & intellectual occupation,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+ETH11,Adult,M,30,Ethiopia,,Addis Ababa,Unemployed,0,,0,Not paid occupation,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+ETH12,Adult,F,35,Ethiopia,,Dorze,Potery maker,,,3,Executive & intellectual occupation,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+ETH13,Adult,F,15,Ethiopia,,Dorze,Student,,,,Student,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+ETH14,Adult,M,51,Ethiopia,,Addis Ababa,Pastoral ministery,12,"Language and littérature, theology",2,Intermediate occupation,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+KEN02,Adult,F,39,Kenya,,Addis Ababa,"Senior Policy officer, climate change",6,Environmental science,2,Executive & intellectual occupation,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+ETH15,Adult,M,24,Ethiopia,,Dorze,Student,5,Electrical and computer engineering,0,Student,Better,"More easy, There living style was different, they couldn't even feed me, I go to school, , , , , , , , , , , ","Insects, height","Wild animals, nothing else, , , , , , , , , , , , , ",,"Live in normal conditions, not rich not poor, have money for people who have nothing, , , , , , , , , , , , "
+ETH16,Adult,M,51,Ethiopia,,Addis Ababa,Education related,6,Education,3,Intermediate occupation,Better,"Easier, main town, clean potable water, electricity , news tv and radio, my parents lived in darkness, , , , , , , , , ",World crisis,"Any kind of calamities, wars , famines, ehtiopia is a multi ethnic country, , , , , , , , , , , ",,"See my children successful in life, job, family, , , , , , , , , , , , , "
+ETH17,Adult,M,25,Ethiopia,,Addis Ababa,Engineer,5,Electrical and computer engineering,5,Executive & intellectual occupation,Neutral,"Average, same, Not so difficult, not so easy, , , , , , , , , , , , ",No fear,"Nothing, no phobia, , , , , , , , , , , , , ",,"To be influencial, a good leader, change the life of many people, , , , , , , , , , , , "
+ETH18,Adult,F,71,Ethiopia,,Addis Ababa,Sister,4,Social Studies,0,Not paid occupation,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+FR059,Adult,M,56,France,Algeria,Paris,Director,5,Nuclear engineering,4,Executive & intellectual occupation,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+FR060,Adult,F,28,France,,Paris,Artist,3,Fine arts,0,Executive & intellectual occupation,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+FR061,Adult,F,31,France,,Paris,Artist,5,Fine arts,0,Executive & intellectual occupation,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+FR062,Adult,M,50,France,,Troyes,Technical director,5,Marketing,1,Executive & intellectual occupation,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+IND44,Adult,M,58,India,France,Paris,Life Coach,4,Psychology,2,Executive & intellectual occupation,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+SG07,Adult,F,32,Singapore,,Singapore,International Lawyer,5,Law,0,Executive & intellectual occupation,Better,"Easier, the country was very new at the time of ma parents, they had to fight for things that we are taking for granted, university, right to live , these days we never struggle for those things, , , , , , , , , ",World crisis,"Ignorance, People living their lives not considering the environment they live in, and how their actions affect other people, ignorance by choice more and more, and we don't have that option anymore, , , , , , , , , , ",,"I'm living it right now, pursue the things that I love and want, , , , , , , , , , , , , "
+FR063,Adult,M,62,France,,Marly-le-Roi,"Conseiller ministeriel, Maire",10,"Droit, ENA",2,Executive & intellectual occupation,Both,"We live better, simpler practically, But we need to adapt more than before, very fast changes, we live longer and healthier, access to the news, but more stress with the change, , , , , , , , ",Fear of Fear,"Fear, We need to analyse fear, to overcome it,  , , , , , , , , , , , ",,"A better world for all of us, , , , , , , , , , , , , , "
+FR064,Adult,F,28,France,,Louveciennes,Deputee,5,Political Science,0,Executive & intellectual occupation,,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , ",,", , , , , , , , , , , , , , "
+FR065,Adult,M,57,France,Italia,Paris,Lawyer,5,Law,2,Executive & intellectual occupation,Better,"Much more simpler, No boss, not submitted to someone, earn a lot of money, love my job, , , , , , , , , , ",Death / Disease,"Death, and being old, , , , , , , , , , , , , ",,"grow old in serenity, no disease, no depency, be interested in many things, keep contact with others, , , , , , , , , , "
+FR066,Adult,M,63,France,,Paris,Homeless,0,Cooking,0,Not paid occupation,Worse,"My life is terrible, I don't have parents, I have nobody, alone all the time, , , , , , , , , , , ",Other,"Lots of things, I'm so afraid of…, It happened so many times…, I always look in my back, , , , , , , , , , , ",,"Not a dream, A nightmare, scream at night, , , , , , , , , , , , "
